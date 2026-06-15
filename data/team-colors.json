@@ -1,0 +1,7703 @@
+{
+  "_meta": {
+    "sourceIndex": "https://teamcolorcodes.com/ncaa-color-codes/",
+    "matchedTeams": 340,
+    "unmatchedTeams": 13,
+    "unmatchedTeamNames": [
+      "East Texas A&M",
+      "Eastern Kentucky",
+      "Le Moyne",
+      "Lindenwood",
+      "Loyola Chicago",
+      "Mercyhurst",
+      "New Haven",
+      "Queens (NC)",
+      "St. Thomas",
+      "Stonehill",
+      "Tarleton State",
+      "Utah Tech",
+      "West Georgia"
+    ],
+    "notes": "Colors sourced from Team Color Codes pages when matched. Unmatched schools are left null for manual follow-up."
+  },
+  "teams": {
+    "Abilene Christian": {
+      "sourceName": "Abilene Christian Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/abilene-christian-wildcats-colors/",
+      "matchMethod": "prefix",
+      "primary": "#4F2170",
+      "secondary": "#FFFFFF",
+      "accent": "#4F2170",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#4F2170"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Gray",
+          "hex": "#C5C6C8"
+        }
+      ]
+    },
+    "Air Force": {
+      "sourceName": "Air Force Falcons",
+      "sourceUrl": "https://teamcolorcodes.com/air-force-falcons-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003087",
+      "secondary": "#8A8D8F",
+      "accent": "#003087",
+      "shadow": "#8A8D8F",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003087"
+        },
+        {
+          "name": "Silver",
+          "hex": "#8A8D8F"
+        }
+      ]
+    },
+    "Akron": {
+      "sourceName": "Akron Zips",
+      "sourceUrl": "https://teamcolorcodes.com/akron-zips-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#041E42",
+      "secondary": "#A89968",
+      "accent": "#041E42",
+      "shadow": "#A89968",
+      "palette": [
+        {
+          "name": "BLUE",
+          "hex": "#041E42"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#A89968"
+        }
+      ]
+    },
+    "Alabama": {
+      "sourceName": "Alabama Crimson Tide",
+      "sourceUrl": "https://teamcolorcodes.com/alabama-crimson-tide-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#9E1B32",
+      "secondary": "#828A8F",
+      "accent": "#9E1B32",
+      "shadow": "#828A8F",
+      "palette": [
+        {
+          "name": "Crimson",
+          "hex": "#9E1B32"
+        },
+        {
+          "name": "Gray",
+          "hex": "#828A8F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Alabama A&M": {
+      "sourceName": "Alabama A&M Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/alabama-am-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#660000",
+      "secondary": "#FFFFFF",
+      "accent": "#660000",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#660000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Alabama State": {
+      "sourceName": "Alabama State Hornets",
+      "sourceUrl": "https://teamcolorcodes.com/alabama-state-hornets-colors/",
+      "matchMethod": "prefix",
+      "primary": "#C99700",
+      "secondary": "#000000",
+      "accent": "#C99700",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Old Gold",
+          "hex": "#C99700"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Albany (NY)": {
+      "sourceName": "Albany Great Danes",
+      "sourceUrl": "https://teamcolorcodes.com/albany-great-danes-colors/",
+      "matchMethod": "manual",
+      "primary": "#461660",
+      "secondary": "#EEB211",
+      "accent": "#461660",
+      "shadow": "#EEB211",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#461660"
+        },
+        {
+          "name": "Gold",
+          "hex": "#EEB211"
+        }
+      ]
+    },
+    "Alcorn State": {
+      "sourceName": "Alcorn State Braves",
+      "sourceUrl": "https://teamcolorcodes.com/alcorn-state-braves-colors/",
+      "matchMethod": "prefix",
+      "primary": "#CE8E00",
+      "secondary": "#4B306A",
+      "accent": "#CE8E00",
+      "shadow": "#4B306A",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#CE8E00"
+        },
+        {
+          "name": "Purple",
+          "hex": "#4B306A"
+        }
+      ]
+    },
+    "American": {
+      "sourceName": "American Eagles Colors",
+      "sourceUrl": "https://teamcolorcodes.com/american-eagles-colors/",
+      "matchMethod": "prefix",
+      "primary": "#143D8D",
+      "secondary": "#C41230",
+      "accent": "#143D8D",
+      "shadow": "#C41230",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#143D8D"
+        },
+        {
+          "name": "Red",
+          "hex": "#C41230"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Appalachian State": {
+      "sourceName": "Appalachian State Mountaineers",
+      "sourceUrl": "https://teamcolorcodes.com/appalachian-state-mountaineers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFCC00",
+      "secondary": "#FFCC00",
+      "accent": "#FFCC00",
+      "shadow": "#FFCC00",
+      "palette": [
+        {
+          "name": "Black",
+          "hex": "#222222"
+        },
+        {
+          "name": "YELLOW",
+          "hex": "#FFCC00"
+        }
+      ]
+    },
+    "Arizona": {
+      "sourceName": "Arizona Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/arizona-wildcats-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#CC0033",
+      "secondary": "#003366",
+      "accent": "#CC0033",
+      "shadow": "#003366",
+      "palette": [
+        {
+          "name": "Cardinal",
+          "hex": "#CC0033"
+        },
+        {
+          "name": "Navy",
+          "hex": "#003366"
+        }
+      ]
+    },
+    "Arizona State": {
+      "sourceName": "Arizona State Sun Devils",
+      "sourceUrl": "https://teamcolorcodes.com/arizona-state-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#8C1D40",
+      "secondary": "#FFC627",
+      "accent": "#8C1D40",
+      "shadow": "#FFC627",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#8C1D40"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFC627"
+        }
+      ]
+    },
+    "Arkansas": {
+      "sourceName": "Arkansas Razorbacks",
+      "sourceUrl": "https://teamcolorcodes.com/arkansas-razorbacks-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#9D2235",
+      "secondary": "#FFFFFF",
+      "accent": "#9D2235",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Cardinal Red",
+          "hex": "#9D2235"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Arkansas State": {
+      "sourceName": "Arkansas State Red Wolves",
+      "sourceUrl": "https://teamcolorcodes.com/arkansas-state-red-wolves/",
+      "matchMethod": "manual",
+      "primary": "#CC092F",
+      "secondary": "#000000",
+      "accent": "#CC092F",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Scarlett",
+          "hex": "#CC092F"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Arkansas\u2013Pine Bluff": {
+      "sourceName": "Arkansas Golden Lions",
+      "sourceUrl": "https://teamcolorcodes.com/arkansas-pine-bluff-golden-lions-colors/",
+      "matchMethod": "manual",
+      "primary": "#EEB310",
+      "secondary": "#E31837",
+      "accent": "#EEB310",
+      "shadow": "#E31837",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#EEB310"
+        },
+        {
+          "name": "Red",
+          "hex": "#E31837"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Army": {
+      "sourceName": "Army Black Knights",
+      "sourceUrl": "https://teamcolorcodes.com/army-black-knights-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#D4BF91",
+      "secondary": "#B2B4B3",
+      "accent": "#D4BF91",
+      "shadow": "#B2B4B3",
+      "palette": [
+        {
+          "name": "GOLD ATHLETICS",
+          "hex": "#D4BF91"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#B2B4B3"
+        }
+      ]
+    },
+    "Auburn": {
+      "sourceName": "Auburn Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/auburn-tigers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0C2340",
+      "secondary": "#E87722",
+      "accent": "#0C2340",
+      "shadow": "#E87722",
+      "palette": [
+        {
+          "name": "Auburn Blue",
+          "hex": "#0C2340"
+        },
+        {
+          "name": "Auburn Orange",
+          "hex": "#E87722"
+        }
+      ]
+    },
+    "Austin Peay": {
+      "sourceName": "Austin Peay Governors",
+      "sourceUrl": "https://teamcolorcodes.com/austin-peay-governors-colors/",
+      "matchMethod": "prefix",
+      "primary": "#C41E3A",
+      "secondary": "#FFFFFF",
+      "accent": "#C41E3A",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#C41E3A"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Gray",
+          "hex": "#ADAFAA"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "BYU": {
+      "sourceName": "BYU Cougars",
+      "sourceUrl": "https://teamcolorcodes.com/byu-colors/",
+      "matchMethod": "prefix",
+      "primary": "#002E5D",
+      "secondary": "#0062B8",
+      "accent": "#002E5D",
+      "shadow": "#0062B8",
+      "palette": [
+        {
+          "name": "BYU Blue",
+          "hex": "#002E5D"
+        },
+        {
+          "name": "Royal",
+          "hex": "#0062B8"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Ball State": {
+      "sourceName": "Ball State Cardinals",
+      "sourceUrl": "https://teamcolorcodes.com/ball-state-cardinals-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#BA0C2F",
+      "secondary": "#BA0C2F",
+      "accent": "#BA0C2F",
+      "shadow": "#BA0C2F",
+      "palette": [
+        {
+          "name": "CARDINAL RED",
+          "hex": "#BA0C2F"
+        }
+      ]
+    },
+    "Baylor": {
+      "sourceName": "Baylor Bears",
+      "sourceUrl": "https://teamcolorcodes.com/baylor-bears-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#154734",
+      "secondary": "#FFB81C",
+      "accent": "#154734",
+      "shadow": "#FFB81C",
+      "palette": [
+        {
+          "name": "Baylor Green",
+          "hex": "#154734"
+        },
+        {
+          "name": "Baylor Gold",
+          "hex": "#FFB81C"
+        }
+      ]
+    },
+    "Bellarmine": {
+      "sourceName": "Bellarmine Knights",
+      "sourceUrl": "https://teamcolorcodes.com/bellarmine-knights-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#752936",
+      "secondary": "#C8C8C8",
+      "accent": "#752936",
+      "shadow": "#C8C8C8",
+      "palette": [
+        {
+          "name": "Scarlet",
+          "hex": "#752936"
+        },
+        {
+          "name": "Silver",
+          "hex": "#C8C8C8"
+        }
+      ]
+    },
+    "Belmont": {
+      "sourceName": "Belmont Bruins",
+      "sourceUrl": "https://teamcolorcodes.com/belmont-bruins-colors/",
+      "matchMethod": "prefix",
+      "primary": "#C8102E",
+      "secondary": "#00205B",
+      "accent": "#C8102E",
+      "shadow": "#00205B",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "#00205B"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Bethune-Cookman": {
+      "sourceName": "B-C Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/bethune-cookman-wildcats-colors/",
+      "matchMethod": "manual",
+      "primary": "#F2A900",
+      "secondary": "#6F263D",
+      "accent": "#F2A900",
+      "shadow": "#6F263D",
+      "palette": [
+        {
+          "name": "Yellow",
+          "hex": "#F2A900"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#6F263D"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Binghamton": {
+      "sourceName": "Binghamton Bearcats",
+      "sourceUrl": "https://teamcolorcodes.com/binghamton-bearcats-colors/",
+      "matchMethod": "prefix",
+      "primary": "#005A43",
+      "secondary": "#169B62",
+      "accent": "#005A43",
+      "shadow": "#169B62",
+      "palette": [
+        {
+          "name": "Deep Green",
+          "hex": "#005A43"
+        },
+        {
+          "name": "Green",
+          "hex": "#169B62"
+        },
+        {
+          "name": "RED",
+          "hex": "#BF0D3E"
+        },
+        {
+          "name": "COOL GRAY",
+          "hex": "#B1B3B3"
+        }
+      ]
+    },
+    "Boise State": {
+      "sourceName": "Boise State Broncos",
+      "sourceUrl": "https://teamcolorcodes.com/boise-state-colors/",
+      "matchMethod": "prefix",
+      "primary": "#D64309",
+      "secondary": "#0033A0",
+      "accent": "#D64309",
+      "shadow": "#0033A0",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#D64309"
+        },
+        {
+          "name": "Blue",
+          "hex": "#0033A0"
+        }
+      ]
+    },
+    "Boston College": {
+      "sourceName": "Boston College Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/boston-college-eagles-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#98002E",
+      "secondary": "#BC9B6A",
+      "accent": "#98002E",
+      "shadow": "#BC9B6A",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#98002E"
+        },
+        {
+          "name": "Gold",
+          "hex": "#BC9B6A"
+        },
+        {
+          "name": "Gray",
+          "hex": "#726158"
+        }
+      ]
+    },
+    "Boston University": {
+      "sourceName": "Boston University Terriers",
+      "sourceUrl": "https://teamcolorcodes.com/boston-university-terriers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#CC0000",
+      "secondary": "#A3011B",
+      "accent": "#CC0000",
+      "shadow": "#A3011B",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CC0000"
+        },
+        {
+          "name": "Dark Red",
+          "hex": "#A3011B"
+        },
+        {
+          "name": "Dark Grey",
+          "hex": "#231F20"
+        },
+        {
+          "name": "Grey",
+          "hex": "#929497"
+        },
+        {
+          "name": "Light Grey",
+          "hex": "#E6E6E7"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Bowling Green": {
+      "sourceName": "Bowling Green Falcons",
+      "sourceUrl": "https://teamcolorcodes.com/bowling-green-falcons-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FE5000",
+      "secondary": "#4F2C1D",
+      "accent": "#FE5000",
+      "shadow": "#4F2C1D",
+      "palette": [
+        {
+          "name": "ORANGE",
+          "hex": "#FE5000"
+        },
+        {
+          "name": "BROWN",
+          "hex": "#4F2C1D"
+        },
+        {
+          "name": "TAN",
+          "hex": "#CDA077"
+        }
+      ]
+    },
+    "Bradley": {
+      "sourceName": "Bradley Braves",
+      "sourceUrl": "https://teamcolorcodes.com/bradley-braves-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#A50000",
+      "secondary": "#999999",
+      "accent": "#A50000",
+      "shadow": "#999999",
+      "palette": [
+        {
+          "name": "Bradley Red",
+          "hex": "#A50000"
+        },
+        {
+          "name": "KABOOM GRAY",
+          "hex": "#999999"
+        }
+      ]
+    },
+    "Brigham Young": {
+      "sourceName": "BYU Cougars",
+      "sourceUrl": "https://teamcolorcodes.com/byu-colors/",
+      "matchMethod": "manual",
+      "primary": "#002E5D",
+      "secondary": "#0062B8",
+      "accent": "#002E5D",
+      "shadow": "#0062B8",
+      "palette": [
+        {
+          "name": "BYU Blue",
+          "hex": "#002E5D"
+        },
+        {
+          "name": "Royal",
+          "hex": "#0062B8"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Bryant": {
+      "sourceName": "Bryant Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/bryant-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#B4975B",
+      "secondary": "#C9BB8C",
+      "accent": "#B4975B",
+      "shadow": "#C9BB8C",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#B4975B"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "#C9BB8C"
+        },
+        {
+          "name": "Gray",
+          "hex": "#818286"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Bucknell": {
+      "sourceName": "Bucknell Bison",
+      "sourceUrl": "https://teamcolorcodes.com/bucknell-bison-colors/",
+      "matchMethod": "prefix",
+      "primary": "#E87722",
+      "secondary": "#003865",
+      "accent": "#E87722",
+      "shadow": "#003865",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#E87722"
+        },
+        {
+          "name": "Blue",
+          "hex": "#003865"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Buffalo": {
+      "sourceName": "Buffalo Bulls",
+      "sourceUrl": "https://teamcolorcodes.com/buffalo-bulls-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#005BBB",
+      "secondary": "#005BBB",
+      "accent": "#005BBB",
+      "shadow": "#005BBB",
+      "palette": [
+        {
+          "name": "UB BLUE",
+          "hex": "#005BBB"
+        }
+      ]
+    },
+    "Butler": {
+      "sourceName": "Butler Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/butler-bulldogs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#13294B",
+      "secondary": "#D1E0D7",
+      "accent": "#13294B",
+      "shadow": "#D1E0D7",
+      "palette": [
+        {
+          "name": "BlUE",
+          "hex": "#13294B"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#747678"
+        },
+        {
+          "name": "SECONDARY GRAY",
+          "hex": "#D1E0D7"
+        }
+      ]
+    },
+    "Cal Poly": {
+      "sourceName": "Cal Poly Mustangs",
+      "sourceUrl": "https://teamcolorcodes.com/cal-poly-mustangs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003831",
+      "secondary": "#FFE395",
+      "accent": "#003831",
+      "shadow": "#FFE395",
+      "palette": [
+        {
+          "name": "CAL POLY GREEN",
+          "hex": "#003831"
+        },
+        {
+          "name": "CAL POLY VEGAS GOLD",
+          "hex": "#FFE395"
+        },
+        {
+          "name": "CAL POLY COPPER GOLD",
+          "hex": "#B38F4F"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Cal State Bakersfield": {
+      "sourceName": "CSUB Roadrunners",
+      "sourceUrl": "https://teamcolorcodes.com/csub-roadrunners-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#003594",
+      "secondary": "#FFC72C",
+      "accent": "#003594",
+      "shadow": "#FFC72C",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003594"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFC72C"
+        }
+      ]
+    },
+    "Cal State Fullerton": {
+      "sourceName": "Cal State Fullerton Titans",
+      "sourceUrl": "https://teamcolorcodes.com/cal-state-fullerton-titans-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00274C",
+      "secondary": "#DC8218",
+      "accent": "#00274C",
+      "shadow": "#DC8218",
+      "palette": [
+        {
+          "name": "TITAN BLUE",
+          "hex": "#00274C"
+        },
+        {
+          "name": "TITAN LIGHT ORANGE",
+          "hex": "#DC8218"
+        }
+      ]
+    },
+    "Cal State Northridge": {
+      "sourceName": "CSUN Matadors",
+      "sourceUrl": "https://teamcolorcodes.com/csun-matadors-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#CE1126",
+      "secondary": "#D1CEC6",
+      "accent": "#CE1126",
+      "shadow": "#D1CEC6",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#CE1126"
+        },
+        {
+          "name": "SILVER",
+          "hex": "#D1CEC6"
+        }
+      ]
+    },
+    "California": {
+      "sourceName": "California Golden Bears",
+      "sourceUrl": "https://teamcolorcodes.com/california-golden-bears-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#003262",
+      "secondary": "#3B7EA1",
+      "accent": "#003262",
+      "shadow": "#3B7EA1",
+      "palette": [
+        {
+          "name": "Berkeley Blue",
+          "hex": "#003262"
+        },
+        {
+          "name": "Founder\u2019s Rock",
+          "hex": "#3B7EA1"
+        },
+        {
+          "name": "California Gold",
+          "hex": "#FDB515"
+        },
+        {
+          "name": "Medalist",
+          "hex": "#C4820E"
+        }
+      ]
+    },
+    "California Baptist": {
+      "sourceName": "California Baptist Lancers",
+      "sourceUrl": "https://teamcolorcodes.com/california-baptist-lancers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#002554",
+      "secondary": "#A37400",
+      "accent": "#002554",
+      "shadow": "#A37400",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#002554"
+        },
+        {
+          "name": "Gold",
+          "hex": "#A37400"
+        }
+      ]
+    },
+    "Campbell": {
+      "sourceName": "Campbell Fighting Camels",
+      "sourceUrl": "https://teamcolorcodes.com/campbell-fighting-camels-colors/",
+      "matchMethod": "prefix",
+      "primary": "#F58025",
+      "secondary": "#231F20",
+      "accent": "#F58025",
+      "shadow": "#231F20",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#F58025"
+        },
+        {
+          "name": "Black",
+          "hex": "#231F20"
+        }
+      ]
+    },
+    "Canisius": {
+      "sourceName": "Canisius Golden Griffins",
+      "sourceUrl": "https://teamcolorcodes.com/canisius-golden-griffins-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0C2340",
+      "secondary": "#FFBA00",
+      "accent": "#0C2340",
+      "shadow": "#FFBA00",
+      "palette": [
+        {
+          "name": "BLUE",
+          "hex": "#0C2340"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FFBA00"
+        }
+      ]
+    },
+    "Central Arkansas": {
+      "sourceName": "Central Arkansas Bears",
+      "sourceUrl": "https://teamcolorcodes.com/central-arkansas-bears-colors/",
+      "matchMethod": "prefix",
+      "primary": "#4F2D7F",
+      "secondary": "#818A8F",
+      "accent": "#4F2D7F",
+      "shadow": "#818A8F",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#4F2D7F"
+        },
+        {
+          "name": "Gray",
+          "hex": "#818A8F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Central Connecticut State": {
+      "sourceName": "C. C. Blue Devils",
+      "sourceUrl": "https://teamcolorcodes.com/central-connecticut-blue-devils-colors/",
+      "matchMethod": "manual",
+      "primary": "#00539B",
+      "secondary": "#FFFFFF",
+      "accent": "#00539B",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#00539B"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Silver",
+          "hex": "#CFD4D8"
+        }
+      ]
+    },
+    "Central Michigan": {
+      "sourceName": "Central Michigan Chippewas",
+      "sourceUrl": "https://teamcolorcodes.com/central-michigan-chippewas-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#6A0032",
+      "secondary": "#FFC82E",
+      "accent": "#6A0032",
+      "shadow": "#FFC82E",
+      "palette": [
+        {
+          "name": "MAROON",
+          "hex": "#6A0032"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FFC82E"
+        }
+      ]
+    },
+    "Charleston Southern": {
+      "sourceName": "Charleston Buccaneers",
+      "sourceUrl": "https://teamcolorcodes.com/charleston-southern-buccaneers-colors/",
+      "matchMethod": "manual",
+      "primary": "#A8996E",
+      "secondary": "#002855",
+      "accent": "#A8996E",
+      "shadow": "#002855",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#A8996E"
+        },
+        {
+          "name": "Blue",
+          "hex": "#002855"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Charlotte": {
+      "sourceName": "Charlotte 49ers",
+      "sourceUrl": "https://teamcolorcodes.com/unc-charlotte-49ers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#046A38",
+      "secondary": "#B9975B",
+      "accent": "#046A38",
+      "shadow": "#B9975B",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#046A38"
+        },
+        {
+          "name": "Gold",
+          "hex": "#B9975B"
+        },
+        {
+          "name": "Black",
+          "hex": "#27251F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Chattanooga": {
+      "sourceName": "Chattanooga Mocs",
+      "sourceUrl": "https://teamcolorcodes.com/chattanooga--mocs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00386B",
+      "secondary": "#E0AA0F",
+      "accent": "#00386B",
+      "shadow": "#E0AA0F",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#00386B"
+        },
+        {
+          "name": "Gold",
+          "hex": "#E0AA0F"
+        },
+        {
+          "name": "Gray",
+          "hex": "#ADAFAA"
+        }
+      ]
+    },
+    "Chicago State": {
+      "sourceName": "Chicago State Cougars",
+      "sourceUrl": "https://teamcolorcodes.com/chicago-state-cougars-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006666",
+      "secondary": "#000000",
+      "accent": "#006666",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#006666"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Cincinnati": {
+      "sourceName": "Cincinnati Bearcats",
+      "sourceUrl": "https://teamcolorcodes.com/cincinnati-bearcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#E00122",
+      "secondary": "#000000",
+      "accent": "#E00122",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#E00122"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Clemson": {
+      "sourceName": "Clemson Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/clemson-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#F56600",
+      "secondary": "#522D80",
+      "accent": "#F56600",
+      "shadow": "#522D80",
+      "palette": [
+        {
+          "name": "Clemson Orange",
+          "hex": "#F56600"
+        },
+        {
+          "name": "Regalia",
+          "hex": "#522D80"
+        }
+      ]
+    },
+    "Cleveland State": {
+      "sourceName": "Cleveland State Vikings",
+      "sourceUrl": "https://teamcolorcodes.com/cleveland-state-vikings-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006747",
+      "secondary": "#006747",
+      "accent": "#006747",
+      "shadow": "#006747",
+      "palette": [
+        {
+          "name": "CLEVELAND STATE GREEN",
+          "hex": "#006747"
+        }
+      ]
+    },
+    "Coastal Carolina": {
+      "sourceName": "Coastal Carolina Chanticleers",
+      "sourceUrl": "https://teamcolorcodes.com/coastal-carolina-chanticleers/",
+      "matchMethod": "prefix",
+      "primary": "#006F71",
+      "secondary": "#A27752",
+      "accent": "#006F71",
+      "shadow": "#A27752",
+      "palette": [
+        {
+          "name": "Teal",
+          "hex": "#006F71"
+        },
+        {
+          "name": "Gold",
+          "hex": "#A27752"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        }
+      ]
+    },
+    "Colgate": {
+      "sourceName": "Colgate Raiders",
+      "sourceUrl": "https://teamcolorcodes.com/colgate-raiders-colors/",
+      "matchMethod": "prefix",
+      "primary": "#821019",
+      "secondary": "#E10028",
+      "accent": "#821019",
+      "shadow": "#E10028",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#821019"
+        },
+        {
+          "name": "Maple Red",
+          "hex": "#E10028"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Shadow Gray",
+          "hex": "#5A646E"
+        },
+        {
+          "name": "Winter Gray",
+          "hex": "#D2D4D6"
+        }
+      ]
+    },
+    "College of Charleston": {
+      "sourceName": "Charleston Cougars",
+      "sourceUrl": "https://teamcolorcodes.com/charleston-cougars-colors/",
+      "matchMethod": "manual",
+      "primary": "#800000",
+      "secondary": "#9D8958",
+      "accent": "#800000",
+      "shadow": "#9D8958",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#800000"
+        },
+        {
+          "name": "METALLIC GOLD",
+          "hex": "#9D8958"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#D9D9D6"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#C5B783"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Colorado": {
+      "sourceName": "Colorado Buffaloes",
+      "sourceUrl": "https://teamcolorcodes.com/colorado-buffaloes-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#CFB87C",
+      "secondary": "#565A5C",
+      "accent": "#CFB87C",
+      "shadow": "#565A5C",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#CFB87C"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Silver",
+          "hex": "#A2A4A3"
+        },
+        {
+          "name": "Dark Gray",
+          "hex": "#565A5C"
+        },
+        {
+          "name": "BLUE",
+          "hex": "#4B92DB"
+        }
+      ]
+    },
+    "Colorado State": {
+      "sourceName": "Colorado State Rams",
+      "sourceUrl": "https://teamcolorcodes.com/colorado-state-rams-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#1E4D2B",
+      "secondary": "#C8C372",
+      "accent": "#1E4D2B",
+      "shadow": "#C8C372",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#1E4D2B"
+        },
+        {
+          "name": "Gold",
+          "hex": "#C8C372"
+        }
+      ]
+    },
+    "Columbia": {
+      "sourceName": "Columbia Lions",
+      "sourceUrl": "https://teamcolorcodes.com/columbia-lions-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003865",
+      "secondary": "#9BCBEB",
+      "accent": "#003865",
+      "shadow": "#9BCBEB",
+      "palette": [
+        {
+          "name": "ATHLETIC DARK BLUE",
+          "hex": "#003865"
+        },
+        {
+          "name": "COLUMBIA BLUE",
+          "hex": "#9BCBEB"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Connecticut": {
+      "sourceName": "Connecticut Huskies",
+      "sourceUrl": "https://teamcolorcodes.com/connecticut-huskies-colors/",
+      "matchMethod": "manual",
+      "primary": "#000E2F",
+      "secondary": "#E4002B",
+      "accent": "#000E2F",
+      "shadow": "#E4002B",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#000E2F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Grey",
+          "hex": "#7C878E"
+        },
+        {
+          "name": "Red",
+          "hex": "#E4002B"
+        }
+      ]
+    },
+    "Cornell": {
+      "sourceName": "Cornell Big Red",
+      "sourceUrl": "https://teamcolorcodes.com/cornell-big-red-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#B31B1B",
+      "secondary": "#5E3920",
+      "accent": "#B31B1B",
+      "shadow": "#5E3920",
+      "palette": [
+        {
+          "name": "CARNELIAN",
+          "hex": "#B31B1B"
+        },
+        {
+          "name": "BROWN",
+          "hex": "#5E3920"
+        },
+        {
+          "name": "LIGHT BROWN",
+          "hex": "#89572E"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Creighton": {
+      "sourceName": "Creighton Bluejays",
+      "sourceUrl": "https://teamcolorcodes.com/creighton-bluejays-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#005CA9",
+      "secondary": "#00235D",
+      "accent": "#005CA9",
+      "shadow": "#00235D",
+      "palette": [
+        {
+          "name": "CU BlUE",
+          "hex": "#005CA9"
+        },
+        {
+          "name": "CU NAVY BLUE",
+          "hex": "#00235D"
+        },
+        {
+          "name": "CU LIGHT BLUE",
+          "hex": "#6CADDE"
+        },
+        {
+          "name": "CU GRAY",
+          "hex": "#828282"
+        },
+        {
+          "name": "CU LIGHT GRAY",
+          "hex": "#C8C8C8"
+        },
+        {
+          "name": "SILVER METALLIC",
+          "hex": "#8A8D8F"
+        }
+      ]
+    },
+    "Dartmouth": {
+      "sourceName": "Dartmouth Big Green",
+      "sourceUrl": "https://teamcolorcodes.com/dartmouth-big-green-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#046A38",
+      "secondary": "#046A38",
+      "accent": "#046A38",
+      "shadow": "#046A38",
+      "palette": [
+        {
+          "name": "DARTMOUTH GREEN",
+          "hex": "#046A38"
+        }
+      ]
+    },
+    "Davidson": {
+      "sourceName": "Davidson Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/davidson-wildcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#AC1A2F",
+      "secondary": "#AC1A2F",
+      "accent": "#AC1A2F",
+      "shadow": "#AC1A2F",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#AC1A2F"
+        }
+      ]
+    },
+    "Dayton": {
+      "sourceName": "Dayton Flyers",
+      "sourceUrl": "https://teamcolorcodes.com/dayton-flyers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#CE1141",
+      "secondary": "#004B8D",
+      "accent": "#CE1141",
+      "shadow": "#004B8D",
+      "palette": [
+        {
+          "name": "RED SCARE",
+          "hex": "#CE1141"
+        },
+        {
+          "name": "FLYERS BLUE",
+          "hex": "#004B8D"
+        },
+        {
+          "name": "GLOW RED",
+          "hex": "#F80228"
+        },
+        {
+          "name": "GLOW BLUE",
+          "hex": "#0200D1"
+        }
+      ]
+    },
+    "DePaul": {
+      "sourceName": "DePaul Blue Demons",
+      "sourceUrl": "https://teamcolorcodes.com/depaul-blue-demons-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#005EB8",
+      "secondary": "#E4002B",
+      "accent": "#005EB8",
+      "shadow": "#E4002B",
+      "palette": [
+        {
+          "name": "ROYAL BlUE",
+          "hex": "#005EB8"
+        },
+        {
+          "name": "SCARLET",
+          "hex": "#E4002B"
+        }
+      ]
+    },
+    "Delaware": {
+      "sourceName": "Delaware Blue Hens",
+      "sourceUrl": "https://teamcolorcodes.com/delaware-blue-hens-colors/",
+      "matchMethod": "manual",
+      "primary": "#00539F",
+      "secondary": "#FFDD31",
+      "accent": "#00539F",
+      "shadow": "#FFDD31",
+      "palette": [
+        {
+          "name": "Delaware Blue",
+          "hex": "#00539F"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFDD31"
+        },
+        {
+          "name": "Delaware Yellow-Gold",
+          "hex": "#FFD200"
+        }
+      ]
+    },
+    "Delaware State": {
+      "sourceName": "Delaware State Hornets",
+      "sourceUrl": "https://teamcolorcodes.com/delaware-state-hornets-colors/",
+      "matchMethod": "prefix",
+      "primary": "#EE3124",
+      "secondary": "#72CDF4",
+      "accent": "#EE3124",
+      "shadow": "#72CDF4",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#EE3124"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#72CDF4"
+        },
+        {
+          "name": "Blue",
+          "hex": "#009DDC"
+        },
+        {
+          "name": "Black",
+          "hex": "#231F20"
+        }
+      ]
+    },
+    "Denver": {
+      "sourceName": "Denver Pioneers",
+      "sourceUrl": "https://teamcolorcodes.com/denver-pioneers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#8B2332",
+      "secondary": "#8B6F4B",
+      "accent": "#8B2332",
+      "shadow": "#8B6F4B",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#8B2332"
+        },
+        {
+          "name": "Bronze",
+          "hex": "#8B6F4B"
+        }
+      ]
+    },
+    "Detroit Mercy": {
+      "sourceName": "Detroit Mercy Titans",
+      "sourceUrl": "https://teamcolorcodes.com/detroit-mercy-titans-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#A6093D",
+      "secondary": "#002D72",
+      "accent": "#A6093D",
+      "shadow": "#002D72",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#A6093D"
+        },
+        {
+          "name": "BLUE",
+          "hex": "#002D72"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#D7D2CB"
+        }
+      ]
+    },
+    "Drake": {
+      "sourceName": "Drake Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/drake-bulldogs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#004477",
+      "secondary": "#999999",
+      "accent": "#004477",
+      "shadow": "#999999",
+      "palette": [
+        {
+          "name": "DRAKE BLUE",
+          "hex": "#004477"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#999999"
+        }
+      ]
+    },
+    "Drexel": {
+      "sourceName": "Drexel Dragons",
+      "sourceUrl": "https://teamcolorcodes.com/drexel-dragons-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00437B",
+      "secondary": "#FFDA02",
+      "accent": "#00437B",
+      "shadow": "#FFDA02",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#00437B"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFDA02"
+        }
+      ]
+    },
+    "Duke": {
+      "sourceName": "Duke Blue Devils",
+      "sourceUrl": "https://teamcolorcodes.com/duke-blue-devils-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003087",
+      "secondary": "#00539B",
+      "accent": "#003087",
+      "shadow": "#00539B",
+      "palette": [
+        {
+          "name": "Blue (Duke Athletics)",
+          "hex": "#003087"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Duke Royal Blue",
+          "hex": "#00539B"
+        },
+        {
+          "name": "Duke Navy Blue",
+          "hex": "#012169"
+        }
+      ]
+    },
+    "Duquesne": {
+      "sourceName": "Duquesne Dukes",
+      "sourceUrl": "https://teamcolorcodes.com/duquesne-dukes-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#041E42",
+      "secondary": "#BA0C2F",
+      "accent": "#041E42",
+      "shadow": "#BA0C2F",
+      "palette": [
+        {
+          "name": "NAVY BLUE",
+          "hex": "#041E42"
+        },
+        {
+          "name": "RED",
+          "hex": "#BA0C2F"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "East Carolina": {
+      "sourceName": "East Carolina Pirates",
+      "sourceUrl": "https://teamcolorcodes.com/east-carolina-pirates-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#592A8A",
+      "secondary": "#FDC82F",
+      "accent": "#592A8A",
+      "shadow": "#FDC82F",
+      "palette": [
+        {
+          "name": "PURPLE",
+          "hex": "#592A8A"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FDC82F"
+        }
+      ]
+    },
+    "East Tennessee State": {
+      "sourceName": "ETSU",
+      "sourceUrl": "https://teamcolorcodes.com/etsu-buccaneers-colors/",
+      "matchMethod": "manual",
+      "primary": "#041E42",
+      "secondary": "#FFC72C",
+      "accent": "#041E42",
+      "shadow": "#FFC72C",
+      "palette": [
+        {
+          "name": "Navy",
+          "hex": "#041E42"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFC72C"
+        }
+      ]
+    },
+    "East Texas A&M": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Eastern Illinois": {
+      "sourceName": "Eastern Illinois Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/eastern-illinois-panthers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#004B83",
+      "secondary": "#004B83",
+      "accent": "#004B83",
+      "shadow": "#004B83",
+      "palette": [
+        {
+          "name": "Gray",
+          "hex": "#919295"
+        },
+        {
+          "name": "Blue",
+          "hex": "#004B83"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Eastern Kentucky": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Eastern Michigan": {
+      "sourceName": "Eastern Michigan",
+      "sourceUrl": "https://teamcolorcodes.com/eastern-michigan-eagles-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#006633",
+      "secondary": "#006633",
+      "accent": "#006633",
+      "shadow": "#006633",
+      "palette": [
+        {
+          "name": "GREEN",
+          "hex": "#006633"
+        }
+      ]
+    },
+    "Eastern Washington": {
+      "sourceName": "Eastern Washington",
+      "sourceUrl": "https://teamcolorcodes.com/eastern-washington-eagles-colors/",
+      "matchMethod": "exact",
+      "primary": "#A10022",
+      "secondary": "#FFFFFF",
+      "accent": "#A10022",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#A10022"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#6D6E71"
+        }
+      ]
+    },
+    "Elon": {
+      "sourceName": "Elon Phoenix",
+      "sourceUrl": "https://teamcolorcodes.com/elon-phoenix-colors/",
+      "matchMethod": "prefix",
+      "primary": "#73000A",
+      "secondary": "#B59A57",
+      "accent": "#73000A",
+      "shadow": "#B59A57",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#73000A"
+        },
+        {
+          "name": "Gold",
+          "hex": "#B59A57"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Evansville": {
+      "sourceName": "Evansville Purple Aces",
+      "sourceUrl": "https://teamcolorcodes.com/evansville-purple-aces-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#52237F",
+      "secondary": "#F36F21",
+      "accent": "#52237F",
+      "shadow": "#F36F21",
+      "palette": [
+        {
+          "name": "PURPLE",
+          "hex": "#52237F"
+        },
+        {
+          "name": "ORANGE",
+          "hex": "#F36F21"
+        }
+      ]
+    },
+    "FDU": {
+      "sourceName": "F. Dickinson Knights",
+      "sourceUrl": "https://teamcolorcodes.com/fairleigh-dickinson-knights-colors/",
+      "matchMethod": "manual",
+      "primary": "#28334A",
+      "secondary": "#72293C",
+      "accent": "#28334A",
+      "shadow": "#72293C",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#28334A"
+        },
+        {
+          "name": "Burgundy",
+          "hex": "#72293C"
+        }
+      ]
+    },
+    "Fairfield": {
+      "sourceName": "Fairfield Stags",
+      "sourceUrl": "https://teamcolorcodes.com/fairfield-stags-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#C8102E",
+      "secondary": "#A2AAAD",
+      "accent": "#C8102E",
+      "shadow": "#A2AAAD",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#A2AAAD"
+        }
+      ]
+    },
+    "Florida": {
+      "sourceName": "Florida Gators",
+      "sourceUrl": "https://teamcolorcodes.com/florida-gators-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#0021A5",
+      "secondary": "#FA4616",
+      "accent": "#0021A5",
+      "shadow": "#FA4616",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0021A5"
+        },
+        {
+          "name": "Orange",
+          "hex": "#FA4616"
+        }
+      ]
+    },
+    "Florida A&M": {
+      "sourceName": "Florida A&M Rattlers",
+      "sourceUrl": "https://teamcolorcodes.com/florida-am-rattlers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#EE7624",
+      "secondary": "#1B5633",
+      "accent": "#EE7624",
+      "shadow": "#1B5633",
+      "palette": [
+        {
+          "name": "Fang Orange",
+          "hex": "#EE7624"
+        },
+        {
+          "name": "Venom Green",
+          "hex": "#1B5633"
+        },
+        {
+          "name": "Black",
+          "hex": "#231F20"
+        }
+      ]
+    },
+    "Florida Atlantic": {
+      "sourceName": "FAU Owls",
+      "sourceUrl": "https://teamcolorcodes.com/florida-atlantic-owls-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#003366",
+      "secondary": "#CC0000",
+      "accent": "#003366",
+      "shadow": "#CC0000",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003366"
+        },
+        {
+          "name": "Red",
+          "hex": "#CC0000"
+        },
+        {
+          "name": "Silver",
+          "hex": "#8A8D8F"
+        },
+        {
+          "name": "Gray",
+          "hex": "#CCCCCC"
+        }
+      ]
+    },
+    "Florida Gulf Coast": {
+      "sourceName": "Florida Gulf Coast Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/florida-gulf-coast-eagles-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#002D72",
+      "secondary": "#007749",
+      "accent": "#002D72",
+      "shadow": "#007749",
+      "palette": [
+        {
+          "name": "Cobalt Blue",
+          "hex": "#002D72"
+        },
+        {
+          "name": "Emerald Green",
+          "hex": "#007749"
+        },
+        {
+          "name": "Gold",
+          "hex": "#B9975B"
+        }
+      ]
+    },
+    "Florida International": {
+      "sourceName": "FIU Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/florida-international-panthers-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#081E3F",
+      "secondary": "#B6862C",
+      "accent": "#081E3F",
+      "shadow": "#B6862C",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#081E3F"
+        },
+        {
+          "name": "Gold",
+          "hex": "#B6862C"
+        }
+      ]
+    },
+    "Florida State": {
+      "sourceName": "Florida State Seminoles",
+      "sourceUrl": "https://teamcolorcodes.com/florida-state-seminoles-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#782F40",
+      "secondary": "#CEB888",
+      "accent": "#782F40",
+      "shadow": "#CEB888",
+      "palette": [
+        {
+          "name": "Garnet",
+          "hex": "#782F40"
+        },
+        {
+          "name": "Gold",
+          "hex": "#CEB888"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Fordham": {
+      "sourceName": "Fordham Rams",
+      "sourceUrl": "https://teamcolorcodes.com/fordham-rams-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#860038",
+      "secondary": "#860038",
+      "accent": "#860038",
+      "shadow": "#860038",
+      "palette": [
+        {
+          "name": "FORDHAM AHTLETIC MAROON",
+          "hex": "#860038"
+        }
+      ]
+    },
+    "Fresno State": {
+      "sourceName": "Fresno State Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/fresno-state-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#DB0032",
+      "secondary": "#002E6D",
+      "accent": "#DB0032",
+      "shadow": "#002E6D",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#DB0032"
+        },
+        {
+          "name": "Blue",
+          "hex": "#002E6D"
+        },
+        {
+          "name": "Green",
+          "hex": "#007934"
+        }
+      ]
+    },
+    "Furman": {
+      "sourceName": "Furman Paladins",
+      "sourceUrl": "https://teamcolorcodes.com/furman-paladins-colors/",
+      "matchMethod": "prefix",
+      "primary": "#201547",
+      "secondary": "#582C83",
+      "accent": "#201547",
+      "shadow": "#582C83",
+      "palette": [
+        {
+          "name": "Dark Purple",
+          "hex": "#201547"
+        },
+        {
+          "name": "Purple",
+          "hex": "#582C83"
+        },
+        {
+          "name": "Cool Gray 6 C",
+          "hex": "#A7A8AA"
+        }
+      ]
+    },
+    "Gardner-Webb": {
+      "sourceName": "Gardner-Webb Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/gardner-webb-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#BF2F37",
+      "secondary": "#FFFFFF",
+      "accent": "#BF2F37",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#BF2F37"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "George Mason": {
+      "sourceName": "George Mason Patriots",
+      "sourceUrl": "https://teamcolorcodes.com/george-mason-patriots-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006633",
+      "secondary": "#FFCC33",
+      "accent": "#006633",
+      "shadow": "#FFCC33",
+      "palette": [
+        {
+          "name": "MASON GREEN",
+          "hex": "#006633"
+        },
+        {
+          "name": "MASON GOLD",
+          "hex": "#FFCC33"
+        }
+      ]
+    },
+    "George Washington": {
+      "sourceName": "George Washington Colonials",
+      "sourceUrl": "https://teamcolorcodes.com/george-washington-colonials-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#E2CB92",
+      "secondary": "#002654",
+      "accent": "#E2CB92",
+      "shadow": "#002654",
+      "palette": [
+        {
+          "name": "BUFF",
+          "hex": "#E2CB92"
+        },
+        {
+          "name": "BLUE",
+          "hex": "#002654"
+        }
+      ]
+    },
+    "Georgetown": {
+      "sourceName": "Georgetown Hoyas",
+      "sourceUrl": "https://teamcolorcodes.com/georgetown-hoyas-colors/",
+      "matchMethod": "prefix",
+      "primary": "#041E42",
+      "secondary": "#8D817B",
+      "accent": "#041E42",
+      "shadow": "#8D817B",
+      "palette": [
+        {
+          "name": "GEORGETOWN BLUE",
+          "hex": "#041E42"
+        },
+        {
+          "name": "GEORGETOWN GRAY",
+          "hex": "#8D817B"
+        }
+      ]
+    },
+    "Georgia": {
+      "sourceName": "Georgia Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/georgia-bulldogs-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#BA0C2F",
+      "secondary": "#000000",
+      "accent": "#BA0C2F",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Bulldog Red",
+          "hex": "#BA0C2F"
+        },
+        {
+          "name": "Arch Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Chapel Bell White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Georgia Southern": {
+      "sourceName": "Georgia Southern Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/georgia-southern-eagles-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#011E41",
+      "secondary": "#87714D",
+      "accent": "#011E41",
+      "shadow": "#87714D",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#011E41"
+        },
+        {
+          "name": "Gray",
+          "hex": "#A3AAAE"
+        },
+        {
+          "name": "Old Gold",
+          "hex": "#87714D"
+        }
+      ]
+    },
+    "Georgia State": {
+      "sourceName": "Georgia State Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/georgia-state-panthers/",
+      "matchMethod": "manual",
+      "primary": "#0039A6",
+      "secondary": "#C60C30",
+      "accent": "#0039A6",
+      "shadow": "#C60C30",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0039A6"
+        },
+        {
+          "name": "Red",
+          "hex": "#C60C30"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Georgia Tech": {
+      "sourceName": "Georgia Tech Yellow Jackets",
+      "sourceUrl": "https://teamcolorcodes.com/georgia-tech-yellow-jackets-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#B3A369",
+      "secondary": "#A28D5B",
+      "accent": "#B3A369",
+      "shadow": "#A28D5B",
+      "palette": [
+        {
+          "name": "Tech Gold",
+          "hex": "#B3A369"
+        },
+        {
+          "name": "Tech Gold (Metallic)",
+          "hex": "#A28D5B"
+        },
+        {
+          "name": "Blue",
+          "hex": "#003057"
+        }
+      ]
+    },
+    "Gonzaga": {
+      "sourceName": "Gonzaga Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/gonzaga-colors/",
+      "matchMethod": "prefix",
+      "primary": "#041E42",
+      "secondary": "#C8102E",
+      "accent": "#041E42",
+      "shadow": "#C8102E",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#041E42"
+        },
+        {
+          "name": "Athletic Red",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "Athletic Gray",
+          "hex": "#C1C6C8"
+        }
+      ]
+    },
+    "Grambling State": {
+      "sourceName": "Grambling Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/grambling-tigers-colors/",
+      "matchMethod": "manual",
+      "primary": "#EAA921",
+      "secondary": "#000000",
+      "accent": "#EAA921",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#EAA921"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Grand Canyon": {
+      "sourceName": "Grand Canyon Antelopes",
+      "sourceUrl": "https://teamcolorcodes.com/gcu-antelopes-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#522398",
+      "secondary": "#000000",
+      "accent": "#522398",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#522398"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Green Bay": {
+      "sourceName": "Green Bay Phoenix",
+      "sourceUrl": "https://teamcolorcodes.com/green-bay-phoenix-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006747",
+      "secondary": "#9D2235",
+      "accent": "#006747",
+      "shadow": "#9D2235",
+      "palette": [
+        {
+          "name": "GREEN",
+          "hex": "#006747"
+        },
+        {
+          "name": "RED",
+          "hex": "#9D2235"
+        },
+        {
+          "name": "SILVER",
+          "hex": "#8A8D8F"
+        }
+      ]
+    },
+    "Harvard": {
+      "sourceName": "Harvard Crimson",
+      "sourceUrl": "https://teamcolorcodes.com/harvard-university-colors/",
+      "matchMethod": "prefix",
+      "primary": "#A41034",
+      "secondary": "#808285",
+      "accent": "#A41034",
+      "shadow": "#808285",
+      "palette": [
+        {
+          "name": "Crimson",
+          "hex": "#A41034"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Cool Grey",
+          "hex": "#808285"
+        },
+        {
+          "name": "Silver",
+          "hex": "#B6B6B6"
+        }
+      ]
+    },
+    "Hawaii": {
+      "sourceName": "Hawaii Warriors",
+      "sourceUrl": "https://teamcolorcodes.com/hawaii-warriors-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#024731",
+      "secondary": "#C8C8C8",
+      "accent": "#024731",
+      "shadow": "#C8C8C8",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#024731"
+        },
+        {
+          "name": "Silver",
+          "hex": "#C8C8C8"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "High Point": {
+      "sourceName": "High Point Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/high-point-panthers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#330072",
+      "secondary": "#FFFFFF",
+      "accent": "#330072",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Royal Purple",
+          "hex": "#330072"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Hofstra": {
+      "sourceName": "Hofstra Pride",
+      "sourceUrl": "https://teamcolorcodes.com/hofstra-pride-colors/",
+      "matchMethod": "prefix",
+      "primary": "#0B1E73",
+      "secondary": "#FEB612",
+      "accent": "#0B1E73",
+      "shadow": "#FEB612",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0B1E73"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FEB612"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Holy Cross": {
+      "sourceName": "Holy Cross",
+      "sourceUrl": "https://teamcolorcodes.com/holy-cross-crusaders-colors/",
+      "matchMethod": "exact",
+      "primary": "#602D89",
+      "secondary": "#FFFFFF",
+      "accent": "#602D89",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#602D89"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Houston": {
+      "sourceName": "Houston Cougars",
+      "sourceUrl": "https://teamcolorcodes.com/houston-cougars-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#C8102E",
+      "secondary": "#76232F",
+      "accent": "#C8102E",
+      "shadow": "#76232F",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "DARK RED",
+          "hex": "#76232F"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#B2B4B2"
+        }
+      ]
+    },
+    "Howard": {
+      "sourceName": "Howard Bisons",
+      "sourceUrl": "https://teamcolorcodes.com/howard-bison-colors/",
+      "matchMethod": "prefix",
+      "primary": "#003A63",
+      "secondary": "#E51937",
+      "accent": "#003A63",
+      "shadow": "#E51937",
+      "palette": [
+        {
+          "name": "Dark Blue",
+          "hex": "#003A63"
+        },
+        {
+          "name": "Red",
+          "hex": "#E51937"
+        },
+        {
+          "name": "Gray",
+          "hex": "#6A808C"
+        }
+      ]
+    },
+    "IU Indy": {
+      "sourceName": "IUPUI Jaguars",
+      "sourceUrl": "https://teamcolorcodes.com/iupui-jaguars-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#9D2235",
+      "secondary": "#DFD1A7",
+      "accent": "#9D2235",
+      "shadow": "#DFD1A7",
+      "palette": [
+        {
+          "name": "IU CRIMSON",
+          "hex": "#9D2235"
+        },
+        {
+          "name": "IU CREAM",
+          "hex": "#DFD1A7"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Idaho": {
+      "sourceName": "Idaho Vandals",
+      "sourceUrl": "https://teamcolorcodes.com/idaho-vandals-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#B3A369",
+      "secondary": "#EAAB00",
+      "accent": "#B3A369",
+      "shadow": "#EAAB00",
+      "palette": [
+        {
+          "name": "Athletic Gold",
+          "hex": "#B3A369"
+        },
+        {
+          "name": "Academic Gold",
+          "hex": "#EAAB00"
+        },
+        {
+          "name": "Metallic Gold",
+          "hex": "#86754D"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Idaho State": {
+      "sourceName": "Idaho State Bengals",
+      "sourceUrl": "https://teamcolorcodes.com/idaho-state-bengals-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FF671F",
+      "secondary": "#F9A81A",
+      "accent": "#FF671F",
+      "shadow": "#F9A81A",
+      "palette": [
+        {
+          "name": "ISU Orange",
+          "hex": "#FF671F"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Light Orange",
+          "hex": "#F9A81A"
+        }
+      ]
+    },
+    "Illinois": {
+      "sourceName": "Illinois Fighting Illini",
+      "sourceUrl": "https://teamcolorcodes.com/illinois-fighting-illini-colors/",
+      "matchMethod": "manual",
+      "primary": "#13294B",
+      "secondary": "#E84A27",
+      "accent": "#13294B",
+      "shadow": "#E84A27",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#13294B"
+        },
+        {
+          "name": "Orange",
+          "hex": "#E84A27"
+        }
+      ]
+    },
+    "Illinois State": {
+      "sourceName": "Illinois State Redbirds",
+      "sourceUrl": "https://teamcolorcodes.com/illinois-state-redbirds-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#CE1126",
+      "secondary": "#F9DD16",
+      "accent": "#CE1126",
+      "shadow": "#F9DD16",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#CE1126"
+        },
+        {
+          "name": "YELLOW",
+          "hex": "#F9DD16"
+        }
+      ]
+    },
+    "Illinois\u2013Chicago": {
+      "sourceName": "UIC Flames",
+      "sourceUrl": "https://teamcolorcodes.com/uic-flames-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#AC1E2D",
+      "secondary": "#041E42",
+      "accent": "#AC1E2D",
+      "shadow": "#041E42",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#AC1E2D"
+        },
+        {
+          "name": "FLAMES BLUE",
+          "hex": "#041E42"
+        },
+        {
+          "name": "YELLOW",
+          "hex": "#FACC09"
+        }
+      ]
+    },
+    "Incarnate Word": {
+      "sourceName": "Incarnate Word Cardinals",
+      "sourceUrl": "https://teamcolorcodes.com/incarnate-word-cardinals-colors/",
+      "matchMethod": "prefix",
+      "primary": "#CB333B",
+      "secondary": "#000000",
+      "accent": "#CB333B",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CB333B"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Indiana": {
+      "sourceName": "Indiana Hoosiers",
+      "sourceUrl": "https://teamcolorcodes.com/indiana-hoosiers-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#990000",
+      "secondary": "#EEEDEB",
+      "accent": "#990000",
+      "shadow": "#EEEDEB",
+      "palette": [
+        {
+          "name": "Crimson",
+          "hex": "#990000"
+        },
+        {
+          "name": "Cream",
+          "hex": "#EEEDEB"
+        }
+      ]
+    },
+    "Indiana State": {
+      "sourceName": "Indiana State Sycamores",
+      "sourceUrl": "https://teamcolorcodes.com/indiana-state-sycamores-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0142BC",
+      "secondary": "#0142BC",
+      "accent": "#0142BC",
+      "shadow": "#0142BC",
+      "palette": [
+        {
+          "name": "ROYAL BLUE",
+          "hex": "#0142BC"
+        }
+      ]
+    },
+    "Iona": {
+      "sourceName": "Iona Gaels",
+      "sourceUrl": "https://teamcolorcodes.com/iona-gaels-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#6F2C3F",
+      "secondary": "#F2A900",
+      "accent": "#6F2C3F",
+      "shadow": "#F2A900",
+      "palette": [
+        {
+          "name": "MAROON",
+          "hex": "#6F2C3F"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#F2A900"
+        }
+      ]
+    },
+    "Iowa": {
+      "sourceName": "Iowa Hawkeyes",
+      "sourceUrl": "https://teamcolorcodes.com/iowa-hawkeyes-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#FFCD00",
+      "secondary": "#000000",
+      "accent": "#FFCD00",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Hawkeyes Gold",
+          "hex": "#FFCD00"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Iowa State": {
+      "sourceName": "Iowa State Cyclones",
+      "sourceUrl": "https://teamcolorcodes.com/iowa-state-cyclones-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#C8102E",
+      "secondary": "#F1BE48",
+      "accent": "#C8102E",
+      "shadow": "#F1BE48",
+      "palette": [
+        {
+          "name": "Cardinal",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "Gold",
+          "hex": "#F1BE48"
+        }
+      ]
+    },
+    "Jackson State": {
+      "sourceName": "Jackson State Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/jackson-state-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#002147",
+      "secondary": "#008ED6",
+      "accent": "#002147",
+      "shadow": "#008ED6",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#002147"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#008ED6"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Jacksonville": {
+      "sourceName": "Jacksonville Dolphins",
+      "sourceUrl": "https://teamcolorcodes.com/jacksonville-dolphins-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#004E44",
+      "secondary": "#898A8D",
+      "accent": "#004E44",
+      "shadow": "#898A8D",
+      "palette": [
+        {
+          "name": "GREEN",
+          "hex": "#004E44"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#898A8D"
+        },
+        {
+          "name": "SILVER",
+          "hex": "#BBBBBB"
+        }
+      ]
+    },
+    "Jacksonville State": {
+      "sourceName": "J. State Gamecocks",
+      "sourceUrl": "https://teamcolorcodes.com/jacksonville-state-gamecocks-colors/",
+      "matchMethod": "manual",
+      "primary": "#CC0000",
+      "secondary": "#FFFFFF",
+      "accent": "#CC0000",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CC0000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "James Madison": {
+      "sourceName": "James Madison Dukes",
+      "sourceUrl": "https://teamcolorcodes.com/james-madison-dukes-colors/",
+      "matchMethod": "prefix",
+      "primary": "#450084",
+      "secondary": "#CBB677",
+      "accent": "#450084",
+      "shadow": "#CBB677",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#450084"
+        },
+        {
+          "name": "Gold",
+          "hex": "#CBB677"
+        }
+      ]
+    },
+    "Kansas": {
+      "sourceName": "Kansas Jayhawks",
+      "sourceUrl": "https://teamcolorcodes.com/kansas-jayhawks-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#0051BA",
+      "secondary": "#E8000D",
+      "accent": "#0051BA",
+      "shadow": "#E8000D",
+      "palette": [
+        {
+          "name": "KU Blue",
+          "hex": "#0051BA"
+        },
+        {
+          "name": "Crimson",
+          "hex": "#E8000D"
+        },
+        {
+          "name": "Jayhawk Yellow",
+          "hex": "#FFC82D"
+        },
+        {
+          "name": "Signature Grey",
+          "hex": "#85898A"
+        }
+      ]
+    },
+    "Kansas State": {
+      "sourceName": "Kansas State Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/kansas-state-wildcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#512888",
+      "secondary": "#D1D1D1",
+      "accent": "#512888",
+      "shadow": "#D1D1D1",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#512888"
+        },
+        {
+          "name": "Light Gray",
+          "hex": "#D1D1D1"
+        },
+        {
+          "name": "Gray",
+          "hex": "#A7A7A7"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Kennesaw State": {
+      "sourceName": "Kennesaw State Owls",
+      "sourceUrl": "https://teamcolorcodes.com/kennesaw-state-owls-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FDBB30",
+      "secondary": "#0B1315",
+      "accent": "#FDBB30",
+      "shadow": "#0B1315",
+      "palette": [
+        {
+          "name": "KSU Gold",
+          "hex": "#FDBB30"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#0B1315"
+        },
+        {
+          "name": "GREY",
+          "hex": "#C5C6C8"
+        }
+      ]
+    },
+    "Kent State": {
+      "sourceName": "Kent State Golden Flashes",
+      "sourceUrl": "https://teamcolorcodes.com/kent-state-golden-flashes-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#002664",
+      "secondary": "#EAAB00",
+      "accent": "#002664",
+      "shadow": "#EAAB00",
+      "palette": [
+        {
+          "name": "NAVY BLUE",
+          "hex": "#002664"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#EAAB00"
+        }
+      ]
+    },
+    "Kentucky": {
+      "sourceName": "Kentucky Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/kentucky-wildcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0033A0",
+      "secondary": "#FFFFFF",
+      "accent": "#0033A0",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Wildcat Blue",
+          "hex": "#0033A0"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "LIU": {
+      "sourceName": "Long Island Sharks",
+      "sourceUrl": "https://teamcolorcodes.com/long-island-university-sharks-colors/",
+      "matchMethod": "manual",
+      "primary": "#69B3E7",
+      "secondary": "#FFC72C",
+      "accent": "#69B3E7",
+      "shadow": "#FFC72C",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#69B3E7"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFC72C"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "La Salle": {
+      "sourceName": "La Salle Explorers",
+      "sourceUrl": "https://teamcolorcodes.com/la-salle-explorers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFCC00",
+      "secondary": "#003366",
+      "accent": "#FFCC00",
+      "shadow": "#003366",
+      "palette": [
+        {
+          "name": "GOLD",
+          "hex": "#FFCC00"
+        },
+        {
+          "name": "BLUE",
+          "hex": "#003366"
+        }
+      ]
+    },
+    "Lafayette": {
+      "sourceName": "Lafayette Leopards",
+      "sourceUrl": "https://teamcolorcodes.com/lafayette-leopards-colors/",
+      "matchMethod": "prefix",
+      "primary": "#A8996E",
+      "secondary": "#98002E",
+      "accent": "#A8996E",
+      "shadow": "#98002E",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#A8996E"
+        },
+        {
+          "name": "Maroon",
+          "hex": "#98002E"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Lamar": {
+      "sourceName": "Lamar Cardinals",
+      "sourceUrl": "https://teamcolorcodes.com/lamar-cardinals-colors/",
+      "matchMethod": "prefix",
+      "primary": "#DC0032",
+      "secondary": "#FCB034",
+      "accent": "#DC0032",
+      "shadow": "#FCB034",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#DC0032"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FCB034"
+        }
+      ]
+    },
+    "Le Moyne": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Lehigh": {
+      "sourceName": "Lehigh Mountain Hawks",
+      "sourceUrl": "https://teamcolorcodes.com/lehigh-mountain-hawks-colors/",
+      "matchMethod": "prefix",
+      "primary": "#653600",
+      "secondary": "#FFD24F",
+      "accent": "#653600",
+      "shadow": "#FFD24F",
+      "palette": [
+        {
+          "name": "Dark Brown",
+          "hex": "#653600"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFD24F"
+        },
+        {
+          "name": "Red",
+          "hex": "#E51937"
+        },
+        {
+          "name": "Brown",
+          "hex": "#994708"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "#CFAB7A"
+        },
+        {
+          "name": "Green",
+          "hex": "#00703C"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Liberty": {
+      "sourceName": "Liberty Flames",
+      "sourceUrl": "https://teamcolorcodes.com/liberty-flames-colors/",
+      "matchMethod": "prefix",
+      "primary": "#002D62",
+      "secondary": "#C41230",
+      "accent": "#002D62",
+      "shadow": "#C41230",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#002D62"
+        },
+        {
+          "name": "Red",
+          "hex": "#C41230"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Grey",
+          "hex": "#C6C8CA"
+        }
+      ]
+    },
+    "Lindenwood": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Lipscomb": {
+      "sourceName": "Lipscomb Bisons",
+      "sourceUrl": "https://teamcolorcodes.com/lipscomb-university-bisons-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#331E54",
+      "secondary": "#F4AA00",
+      "accent": "#331E54",
+      "shadow": "#F4AA00",
+      "palette": [
+        {
+          "name": "PURPLE",
+          "hex": "#331E54"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#F4AA00"
+        }
+      ]
+    },
+    "Little Rock": {
+      "sourceName": "Arkansas Little-Rock Trojans",
+      "sourceUrl": "https://teamcolorcodes.com/arkansas-little-rock-trojans-color-codes/",
+      "matchMethod": "heur 1.50",
+      "primary": "#6E2639",
+      "secondary": "#A7A9AC",
+      "accent": "#6E2639",
+      "shadow": "#A7A9AC",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#6E2639"
+        },
+        {
+          "name": "Silver",
+          "hex": "#A7A9AC"
+        }
+      ]
+    },
+    "Long Beach State": {
+      "sourceName": "Long Beach State 49ers",
+      "sourceUrl": "https://teamcolorcodes.com/long-beach-state-49ers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFC72A",
+      "secondary": "#000000",
+      "accent": "#FFC72A",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "GO BEACH GOLD",
+          "hex": "#FFC72A"
+        },
+        {
+          "name": "CHAMPIONSHIP BLACK",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Longwood": {
+      "sourceName": "Longwood Lancers",
+      "sourceUrl": "https://teamcolorcodes.com/longwood-lancers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#15213B",
+      "secondary": "#999D9E",
+      "accent": "#15213B",
+      "shadow": "#999D9E",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#15213B"
+        },
+        {
+          "name": "Grey",
+          "hex": "#999D9E"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Louisiana": {
+      "sourceName": "Louisiana Ragin\u2019 Cajuns",
+      "sourceUrl": "https://teamcolorcodes.com/louisiana-ragin-cajuns-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#CE181E",
+      "secondary": "#F18C21",
+      "accent": "#CE181E",
+      "shadow": "#F18C21",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CE181E"
+        },
+        {
+          "name": "Black",
+          "hex": "#0A0203"
+        },
+        {
+          "name": "Gray",
+          "hex": "#C1C5C9"
+        },
+        {
+          "name": "Orange",
+          "hex": "#F18C21"
+        }
+      ]
+    },
+    "Louisiana State": {
+      "sourceName": "Louisiana State Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/louisiana-state-lsu-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#461D7C",
+      "secondary": "#FDD023",
+      "accent": "#461D7C",
+      "shadow": "#FDD023",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#461D7C"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FDD023"
+        }
+      ]
+    },
+    "Louisiana Tech": {
+      "sourceName": "Louisiana Tech Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/louisiana-tech-bulldogs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#002F8B",
+      "secondary": "#E31B23",
+      "accent": "#002F8B",
+      "shadow": "#E31B23",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#002F8B"
+        },
+        {
+          "name": "Red",
+          "hex": "#E31B23"
+        },
+        {
+          "name": "Gray",
+          "hex": "#A2AAAD"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        }
+      ]
+    },
+    "Louisiana\u2013Monroe": {
+      "sourceName": "Louisiana-Monroe Warhawks",
+      "sourceUrl": "https://teamcolorcodes.com/louisiana-monroe-warhawks-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#840029",
+      "secondary": "#FDB913",
+      "accent": "#840029",
+      "shadow": "#FDB913",
+      "palette": [
+        {
+          "name": "Warhawk",
+          "hex": "#840029"
+        },
+        {
+          "name": "Heritage Gold",
+          "hex": "#FDB913"
+        }
+      ]
+    },
+    "Louisville": {
+      "sourceName": "Louisville Cardinals",
+      "sourceUrl": "https://teamcolorcodes.com/louisville-cardinals-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#AD0000",
+      "secondary": "#FDB913",
+      "accent": "#AD0000",
+      "shadow": "#FDB913",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#AD0000"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FDB913"
+        }
+      ]
+    },
+    "Loyola (MD)": {
+      "sourceName": "Loyola (MD) Greyhounds",
+      "sourceUrl": "https://teamcolorcodes.com/loyola-md-greyhounds-colors/",
+      "matchMethod": "manual",
+      "primary": "#00694E",
+      "secondary": "#CACAC8",
+      "accent": "#00694E",
+      "shadow": "#CACAC8",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#00694E"
+        },
+        {
+          "name": "Grey",
+          "hex": "#CACAC8"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Loyola Chicago": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Loyola Marymount": {
+      "sourceName": "Loyola Marymount Lions",
+      "sourceUrl": "https://teamcolorcodes.com/loyola-marymount-lions-colors/",
+      "matchMethod": "prefix",
+      "primary": "#B62B3A",
+      "secondary": "#00447C",
+      "accent": "#B62B3A",
+      "shadow": "#00447C",
+      "palette": [
+        {
+          "name": "LMU Red",
+          "hex": "#B62B3A"
+        },
+        {
+          "name": "LMU Blue",
+          "hex": "#00447C"
+        },
+        {
+          "name": "LMU Gray",
+          "hex": "#617080"
+        },
+        {
+          "name": "LMU Black",
+          "hex": "#231F20"
+        }
+      ]
+    },
+    "Manhattan": {
+      "sourceName": "Manhattan",
+      "sourceUrl": "https://teamcolorcodes.com/manhattan-jaspers-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#00703C",
+      "secondary": "#00703C",
+      "accent": "#00703C",
+      "shadow": "#00703C",
+      "palette": [
+        {
+          "name": "GREEN",
+          "hex": "#00703C"
+        }
+      ]
+    },
+    "Marist": {
+      "sourceName": "Marist Red Foxes",
+      "sourceUrl": "https://teamcolorcodes.com/marist-red-foxes-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#C8102E",
+      "secondary": "#B2B2B2",
+      "accent": "#C8102E",
+      "shadow": "#B2B2B2",
+      "palette": [
+        {
+          "name": "MARIST RED",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "LIGHT GREY",
+          "hex": "#B2B2B2"
+        }
+      ]
+    },
+    "Marquette": {
+      "sourceName": "Marquette Golden Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/marquette-colors/",
+      "matchMethod": "prefix",
+      "primary": "#003366",
+      "secondary": "#FFCC00",
+      "accent": "#003366",
+      "shadow": "#FFCC00",
+      "palette": [
+        {
+          "name": "Marquette Blue",
+          "hex": "#003366"
+        },
+        {
+          "name": "Marquette Gold",
+          "hex": "#FFCC00"
+        }
+      ]
+    },
+    "Marshall": {
+      "sourceName": "Marshall Thundering Herd",
+      "sourceUrl": "https://teamcolorcodes.com/marshall-thundering-herd-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00B140",
+      "secondary": "#693F23",
+      "accent": "#00B140",
+      "shadow": "#693F23",
+      "palette": [
+        {
+          "name": "GREEN",
+          "hex": "#00B140"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#A2AAAD"
+        },
+        {
+          "name": "BROWN",
+          "hex": "#693F23"
+        },
+        {
+          "name": "LIGHT BROWN",
+          "hex": "#AD7C59"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#27251F"
+        }
+      ]
+    },
+    "Maryland": {
+      "sourceName": "Maryland Terrapins",
+      "sourceUrl": "https://teamcolorcodes.com/maryland-terrapins-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#E03A3E",
+      "secondary": "#FFD520",
+      "accent": "#E03A3E",
+      "shadow": "#FFD520",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#E03A3E"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFD520"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Massachusetts": {
+      "sourceName": "UMass Minutemen",
+      "sourceUrl": "https://teamcolorcodes.com/university-of-massachusetts-minutemen-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#971B2F",
+      "secondary": "#572932",
+      "accent": "#971B2F",
+      "shadow": "#572932",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#971B2F"
+        },
+        {
+          "name": "DARK RED",
+          "hex": "#572932"
+        },
+        {
+          "name": "GREY",
+          "hex": "#B1B3B3"
+        }
+      ]
+    },
+    "McNeese State": {
+      "sourceName": "McNeese Cowboys",
+      "sourceUrl": "https://teamcolorcodes.com/mcneese-cowboys-colors/",
+      "matchMethod": "manual",
+      "primary": "#00529B",
+      "secondary": "#FFD204",
+      "accent": "#00529B",
+      "shadow": "#FFD204",
+      "palette": [
+        {
+          "name": "Royal Blue",
+          "hex": "#00529B"
+        },
+        {
+          "name": "Sunflower Gold",
+          "hex": "#FFD204"
+        }
+      ]
+    },
+    "Memphis": {
+      "sourceName": "Memphis Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/memphis-tigers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003087",
+      "secondary": "#F8992E",
+      "accent": "#003087",
+      "shadow": "#F8992E",
+      "palette": [
+        {
+          "name": "BLUE",
+          "hex": "#003087"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#898D8D"
+        },
+        {
+          "name": "ORANGE",
+          "hex": "#F8992E"
+        }
+      ]
+    },
+    "Mercer": {
+      "sourceName": "Mercer Bears",
+      "sourceUrl": "https://teamcolorcodes.com/mercer-bears-colors/",
+      "matchMethod": "prefix",
+      "primary": "#F76800",
+      "secondary": "#000000",
+      "accent": "#F76800",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Mercer Orange",
+          "hex": "#F76800"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Mercyhurst": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Merrimack": {
+      "sourceName": "Merrimack Warriors",
+      "sourceUrl": "https://teamcolorcodes.com/merrimack-warriors-colors/",
+      "matchMethod": "prefix",
+      "primary": "#003768",
+      "secondary": "#FDB813",
+      "accent": "#003768",
+      "shadow": "#FDB813",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003768"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FDB813"
+        }
+      ]
+    },
+    "Miami (FL)": {
+      "sourceName": "Miami (FL) Hurricanes",
+      "sourceUrl": "https://teamcolorcodes.com/miami-hurricanes-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#F47321",
+      "secondary": "#005030",
+      "accent": "#F47321",
+      "shadow": "#005030",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#F47321"
+        },
+        {
+          "name": "Green",
+          "hex": "#005030"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Miami (OH)": {
+      "sourceName": "Miami (OH) Redhawks",
+      "sourceUrl": "https://teamcolorcodes.com/miami-redhawks-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#B61E2E",
+      "secondary": "#B61E2E",
+      "accent": "#B61E2E",
+      "shadow": "#B61E2E",
+      "palette": [
+        {
+          "name": "RED",
+          "hex": "#B61E2E"
+        }
+      ]
+    },
+    "Michigan": {
+      "sourceName": "Michigan Wolverines",
+      "sourceUrl": "https://teamcolorcodes.com/michigan-wolverines-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#00274C",
+      "secondary": "#FFCB05",
+      "accent": "#00274C",
+      "shadow": "#FFCB05",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#00274C"
+        },
+        {
+          "name": "Maize",
+          "hex": "#FFCB05"
+        }
+      ]
+    },
+    "Michigan State": {
+      "sourceName": "Michigan State Spartans",
+      "sourceUrl": "https://teamcolorcodes.com/michigan-state-spartans-colors/",
+      "matchMethod": "prefix",
+      "primary": "#18453B",
+      "secondary": "#FFFFFF",
+      "accent": "#18453B",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#18453B"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Middle Tennessee": {
+      "sourceName": "Middle Tennessee Blue Raiders",
+      "sourceUrl": "https://teamcolorcodes.com/middle-tennessee-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0066CC",
+      "secondary": "#69B3E7",
+      "accent": "#0066CC",
+      "shadow": "#69B3E7",
+      "palette": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "MTSU Blue",
+          "hex": "#0066CC"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#69B3E7"
+        }
+      ]
+    },
+    "Milwaukee": {
+      "sourceName": "Milwaukee Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/milwaukee-panthers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFBD00",
+      "secondary": "#CCCCCC",
+      "accent": "#FFBD00",
+      "shadow": "#CCCCCC",
+      "palette": [
+        {
+          "name": "UWM GOLD",
+          "hex": "#FFBD00"
+        },
+        {
+          "name": "UWM SILVER GRAY",
+          "hex": "#CCCCCC"
+        }
+      ]
+    },
+    "Minnesota": {
+      "sourceName": "Minnesota Golden Gophers",
+      "sourceUrl": "https://teamcolorcodes.com/minnesota-golden-gophers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#7A0019",
+      "secondary": "#FFCC33",
+      "accent": "#7A0019",
+      "shadow": "#FFCC33",
+      "palette": [
+        {
+          "name": "Gopher Maroon",
+          "hex": "#7A0019"
+        },
+        {
+          "name": "Gopher Gold",
+          "hex": "#FFCC33"
+        }
+      ]
+    },
+    "Mississippi State": {
+      "sourceName": "Mississippi State Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/mississippi-state-university-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#660000",
+      "secondary": "#75787B",
+      "accent": "#660000",
+      "shadow": "#75787B",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#660000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Gray",
+          "hex": "#CCCCCC"
+        },
+        {
+          "name": "Dark Gray",
+          "hex": "#75787B"
+        }
+      ]
+    },
+    "Mississippi Valley State": {
+      "sourceName": "Mississippi Delta Devils",
+      "sourceUrl": "https://teamcolorcodes.com/mississippi-valley-state-delta-devils-colors/",
+      "matchMethod": "manual",
+      "primary": "#00703C",
+      "secondary": "#E51937",
+      "accent": "#00703C",
+      "shadow": "#E51937",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#00703C"
+        },
+        {
+          "name": "Red",
+          "hex": "#E51937"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Missouri": {
+      "sourceName": "Missouri Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/missouri-tigers-colors/",
+      "matchMethod": "heur 1.55",
+      "primary": "#F1B82D",
+      "secondary": "#F1B82D",
+      "accent": "#F1B82D",
+      "shadow": "#F1B82D",
+      "palette": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Gold",
+          "hex": "#F1B82D"
+        }
+      ]
+    },
+    "Missouri State": {
+      "sourceName": "Missouri State Bears",
+      "sourceUrl": "https://teamcolorcodes.com/missouri-state-bears-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#5E0009",
+      "secondary": "#5E0009",
+      "accent": "#5E0009",
+      "shadow": "#5E0009",
+      "palette": [
+        {
+          "name": "MISSOURI STATE MAROON",
+          "hex": "#5E0009"
+        }
+      ]
+    },
+    "Monmouth": {
+      "sourceName": "Monmouth Hawks",
+      "sourceUrl": "https://teamcolorcodes.com/monmouth-hawks-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#041E42",
+      "secondary": "#53565A",
+      "accent": "#041E42",
+      "shadow": "#53565A",
+      "palette": [
+        {
+          "name": "MIDNIGHT BLUE",
+          "hex": "#041E42"
+        },
+        {
+          "name": "GREY",
+          "hex": "#53565A"
+        }
+      ]
+    },
+    "Montana": {
+      "sourceName": "Montana Grizzlies",
+      "sourceUrl": "https://teamcolorcodes.com/montana-grizzlies-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#660033",
+      "secondary": "#999999",
+      "accent": "#660033",
+      "shadow": "#999999",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#660033"
+        },
+        {
+          "name": "Silver",
+          "hex": "#999999"
+        }
+      ]
+    },
+    "Montana State": {
+      "sourceName": "Montana State Bobcats",
+      "sourceUrl": "https://teamcolorcodes.com/montana-state-bobcats-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00205B",
+      "secondary": "#B9975B",
+      "accent": "#00205B",
+      "shadow": "#B9975B",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#00205B"
+        },
+        {
+          "name": "Gold",
+          "hex": "#B9975B"
+        }
+      ]
+    },
+    "Morehead State": {
+      "sourceName": "Morehead State Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/morehead-state-eagles-colors/",
+      "matchMethod": "prefix",
+      "primary": "#FFCF00",
+      "secondary": "#005EB8",
+      "accent": "#FFCF00",
+      "shadow": "#005EB8",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#FFCF00"
+        },
+        {
+          "name": "Blue",
+          "hex": "#005EB8"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Morgan State": {
+      "sourceName": "Morgan State Bears",
+      "sourceUrl": "https://teamcolorcodes.com/morgan-state-bears/",
+      "matchMethod": "prefix",
+      "primary": "#1B4383",
+      "secondary": "#F47937",
+      "accent": "#1B4383",
+      "shadow": "#F47937",
+      "palette": [
+        {
+          "name": "Morgan Blue",
+          "hex": "#1B4383"
+        },
+        {
+          "name": "Morgan Orange",
+          "hex": "#F47937"
+        },
+        {
+          "name": "Morgan Brown",
+          "hex": "#CDA177"
+        },
+        {
+          "name": "Morgan Gold",
+          "hex": "#FFBF3F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Mount St. Mary's": {
+      "sourceName": "St.Mary\u2019s Mountaineers",
+      "sourceUrl": "https://teamcolorcodes.com/mt-st-marys-mountaineers-colors/",
+      "matchMethod": "manual",
+      "primary": "#002855",
+      "secondary": "#84754E",
+      "accent": "#002855",
+      "shadow": "#84754E",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#002855"
+        },
+        {
+          "name": "Bronze",
+          "hex": "#84754E"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Murray State": {
+      "sourceName": "Murray State Racers",
+      "sourceUrl": "https://teamcolorcodes.com/murray-state-racers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#ECAC00",
+      "secondary": "#002144",
+      "accent": "#ECAC00",
+      "shadow": "#002144",
+      "palette": [
+        {
+          "name": "MURRAY STATE GOLD",
+          "hex": "#ECAC00"
+        },
+        {
+          "name": "MURRAY STATE BLUE",
+          "hex": "#002144"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "NC State": {
+      "sourceName": "NC State Wolfpack",
+      "sourceUrl": "https://teamcolorcodes.com/nc-state-wolfpack-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#CC0000",
+      "secondary": "#000000",
+      "accent": "#CC0000",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CC0000"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "NJIT": {
+      "sourceName": "NJIT Highlanders",
+      "sourceUrl": "https://teamcolorcodes.com/njit-highlanders-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#D22630",
+      "secondary": "#071D49",
+      "accent": "#D22630",
+      "shadow": "#071D49",
+      "palette": [
+        {
+          "name": "NJIT RED",
+          "hex": "#D22630"
+        },
+        {
+          "name": "NAVY BLUE",
+          "hex": "#071D49"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#C1C6C8"
+        }
+      ]
+    },
+    "Navy": {
+      "sourceName": "Navy Midshipmen",
+      "sourceUrl": "https://teamcolorcodes.com/navy-midshipmen-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00205B",
+      "secondary": "#C5B783",
+      "accent": "#00205B",
+      "shadow": "#C5B783",
+      "palette": [
+        {
+          "name": "NAVY BLUE",
+          "hex": "#00205B"
+        },
+        {
+          "name": "Gold",
+          "hex": "#C5B783"
+        }
+      ]
+    },
+    "Nebraska": {
+      "sourceName": "Nebraska Cornhuskers",
+      "sourceUrl": "https://teamcolorcodes.com/nebraska-cornhuskers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#E41C38",
+      "secondary": "#000000",
+      "accent": "#E41C38",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Husker Red",
+          "hex": "#E41C38"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Cream",
+          "hex": "#FDF2D9"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Nevada": {
+      "sourceName": "Nevada Wolfpack",
+      "sourceUrl": "https://teamcolorcodes.com/nevada-wolfpack-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003366",
+      "secondary": "#807F84",
+      "accent": "#003366",
+      "shadow": "#807F84",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#003366"
+        },
+        {
+          "name": "Gray",
+          "hex": "#807F84"
+        }
+      ]
+    },
+    "New Haven": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "New Mexico": {
+      "sourceName": "New Mexico Lobos",
+      "sourceUrl": "https://teamcolorcodes.com/new-mexico-lobos-color-codes/",
+      "matchMethod": "heur 1.72",
+      "primary": "#BA0C2F",
+      "secondary": "#63666A",
+      "accent": "#BA0C2F",
+      "shadow": "#63666A",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#BA0C2F"
+        },
+        {
+          "name": "Silver",
+          "hex": "#A7A8AA"
+        },
+        {
+          "name": "Lobo Gray",
+          "hex": "#63666A"
+        },
+        {
+          "name": "Turquoise",
+          "hex": "#007A86"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "New Mexico State": {
+      "sourceName": "New Mexico State Aggies",
+      "sourceUrl": "https://teamcolorcodes.com/new-mexico-state-aggies-colors/",
+      "matchMethod": "prefix",
+      "primary": "#861F41",
+      "secondary": "#97999B",
+      "accent": "#861F41",
+      "shadow": "#97999B",
+      "palette": [
+        {
+          "name": "Crimson",
+          "hex": "#861F41"
+        },
+        {
+          "name": "Gray",
+          "hex": "#97999B"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "New Orleans": {
+      "sourceName": "New Orleans Privateers",
+      "sourceUrl": "https://teamcolorcodes.com/new-orleans-privateers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#005CA6",
+      "secondary": "#002F56",
+      "accent": "#005CA6",
+      "shadow": "#002F56",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#005CA6"
+        },
+        {
+          "name": "Gray",
+          "hex": "#A3A9AC"
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "#002F56"
+        }
+      ]
+    },
+    "Nicholls State": {
+      "sourceName": "Nicholls Colonels",
+      "sourceUrl": "https://teamcolorcodes.com/nicholls-colonels-colors/",
+      "matchMethod": "manual",
+      "primary": "#AE132A",
+      "secondary": "#72808A",
+      "accent": "#AE132A",
+      "shadow": "#72808A",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#AE132A"
+        },
+        {
+          "name": "Gray",
+          "hex": "#72808A"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Norfolk State": {
+      "sourceName": "Norfolk State Spartans",
+      "sourceUrl": "https://teamcolorcodes.com/norfolk-state-spartans-colors/",
+      "matchMethod": "prefix",
+      "primary": "#007A53",
+      "secondary": "#F3D03E",
+      "accent": "#007A53",
+      "shadow": "#F3D03E",
+      "palette": [
+        {
+          "name": "NSU Green",
+          "hex": "#007A53"
+        },
+        {
+          "name": "NSU Gold",
+          "hex": "#F3D03E"
+        },
+        {
+          "name": "NSU Gray",
+          "hex": "#54585A"
+        }
+      ]
+    },
+    "North Alabama": {
+      "sourceName": "North Alabama Lions",
+      "sourceUrl": "https://teamcolorcodes.com/north-alabama-lions-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#46166B",
+      "secondary": "#DB9F11",
+      "accent": "#46166B",
+      "shadow": "#DB9F11",
+      "palette": [
+        {
+          "name": "UNA PURPLE",
+          "hex": "#46166B"
+        },
+        {
+          "name": "UNA GOLD",
+          "hex": "#DB9F11"
+        },
+        {
+          "name": "UNA GREY",
+          "hex": "#5F6062"
+        }
+      ]
+    },
+    "North Carolina": {
+      "sourceName": "North Carolina Tar Heels",
+      "sourceUrl": "https://teamcolorcodes.com/north-carolina-tar-heels-colors/",
+      "matchMethod": "manual",
+      "primary": "#7BAFD4",
+      "secondary": "#13294B",
+      "accent": "#7BAFD4",
+      "shadow": "#13294B",
+      "palette": [
+        {
+          "name": "Carolina Blue",
+          "hex": "#7BAFD4"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "#13294B"
+        },
+        {
+          "name": "Pitch Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Silver",
+          "hex": "#8D9092"
+        },
+        {
+          "name": "Flat Gray",
+          "hex": "#A2AAAD"
+        }
+      ]
+    },
+    "North Carolina A&T": {
+      "sourceName": "North Carolina Aggies",
+      "sourceUrl": "https://teamcolorcodes.com/north-carolina-at-aggies/",
+      "matchMethod": "manual",
+      "primary": "#F3B237",
+      "secondary": "#003D6D",
+      "accent": "#F3B237",
+      "shadow": "#003D6D",
+      "palette": [
+        {
+          "name": "Yellow",
+          "hex": "#F3B237"
+        },
+        {
+          "name": "Blue",
+          "hex": "#003D6D"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "North Carolina Central": {
+      "sourceName": "North Carolina Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/north-carolina-central-eagles-colors/",
+      "matchMethod": "manual",
+      "primary": "#880023",
+      "secondary": "#8E9093",
+      "accent": "#880023",
+      "shadow": "#8E9093",
+      "palette": [
+        {
+          "name": "NCCU Maroon",
+          "hex": "#880023"
+        },
+        {
+          "name": "NCCU Gray",
+          "hex": "#8E9093"
+        },
+        {
+          "name": "NCCU Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "North Dakota": {
+      "sourceName": "North Dakota Fighting Hawks",
+      "sourceUrl": "https://teamcolorcodes.com/north-dakota-fighting-hawks/",
+      "matchMethod": "manual",
+      "primary": "#009A44",
+      "secondary": "#AAAEAD",
+      "accent": "#009A44",
+      "shadow": "#AAAEAD",
+      "palette": [
+        {
+          "name": "UND Green",
+          "hex": "#009A44"
+        },
+        {
+          "name": "UND Gray",
+          "hex": "#AAAEAD"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "North Dakota State": {
+      "sourceName": "North Dakota State Bison",
+      "sourceUrl": "https://teamcolorcodes.com/north-dakota-state-colors/",
+      "matchMethod": "prefix",
+      "primary": "#0A5640",
+      "secondary": "#FFC72A",
+      "accent": "#0A5640",
+      "shadow": "#FFC72A",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#0A5640"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFC72A"
+        }
+      ]
+    },
+    "North Florida": {
+      "sourceName": "North Florida Ospreys",
+      "sourceUrl": "https://teamcolorcodes.com/north-florida-ospreys-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00246B",
+      "secondary": "#D9D9D9",
+      "accent": "#00246B",
+      "shadow": "#D9D9D9",
+      "palette": [
+        {
+          "name": "OSPREY BLUE",
+          "hex": "#00246B"
+        },
+        {
+          "name": "OSPREY GRAY",
+          "hex": "#D9D9D9"
+        }
+      ]
+    },
+    "North Texas": {
+      "sourceName": "North Texas Mean Green",
+      "sourceUrl": "https://teamcolorcodes.com/north-texas-mean-green-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00853E",
+      "secondary": "#000000",
+      "accent": "#00853E",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "UNT Green",
+          "hex": "#00853E"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Northeastern": {
+      "sourceName": "Northeastern Huskies",
+      "sourceUrl": "https://teamcolorcodes.com/northeastern-huskies-colors/",
+      "matchMethod": "prefix",
+      "primary": "#D41B2C",
+      "secondary": "#000000",
+      "accent": "#D41B2C",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#D41B2C"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Northern Colorado": {
+      "sourceName": "Northern Colorado Bears",
+      "sourceUrl": "https://teamcolorcodes.com/northern-colorado-bears-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#013C65",
+      "secondary": "#F6B000",
+      "accent": "#013C65",
+      "shadow": "#F6B000",
+      "palette": [
+        {
+          "name": "Bears Blue",
+          "hex": "#013C65"
+        },
+        {
+          "name": "Bears Gold",
+          "hex": "#F6B000"
+        }
+      ]
+    },
+    "Northern Illinois": {
+      "sourceName": "Northern Illinois",
+      "sourceUrl": "https://teamcolorcodes.com/northern-illinois-huskies-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#BA0C2F",
+      "secondary": "#8A8D8F",
+      "accent": "#BA0C2F",
+      "shadow": "#8A8D8F",
+      "palette": [
+        {
+          "name": "NIU RED",
+          "hex": "#BA0C2F"
+        },
+        {
+          "name": "NIU SILVER",
+          "hex": "#8A8D8F"
+        }
+      ]
+    },
+    "Northern Iowa": {
+      "sourceName": "Northern Iowa",
+      "sourceUrl": "https://teamcolorcodes.com/northern-iowa-panthers-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#4B116F",
+      "secondary": "#FFCC00",
+      "accent": "#4B116F",
+      "shadow": "#FFCC00",
+      "palette": [
+        {
+          "name": "PURPLE",
+          "hex": "#4B116F"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FFCC00"
+        }
+      ]
+    },
+    "Northern Kentucky": {
+      "sourceName": "Northern Kentucky Norse",
+      "sourceUrl": "https://teamcolorcodes.com/northern-kentucky-norse-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFC72C",
+      "secondary": "#FFC72C",
+      "accent": "#FFC72C",
+      "shadow": "#FFC72C",
+      "palette": [
+        {
+          "name": "GOLD",
+          "hex": "#FFC72C"
+        }
+      ]
+    },
+    "Northwestern": {
+      "sourceName": "Northwestern Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/northwestern-wildcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#4E2A84",
+      "secondary": "#FFFFFF",
+      "accent": "#4E2A84",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Northwestern Purple",
+          "hex": "#4E2A84"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Northwestern State": {
+      "sourceName": "N.S. Demons",
+      "sourceUrl": "https://teamcolorcodes.com/northwestern-state-demons-colors/",
+      "matchMethod": "manual",
+      "primary": "#663399",
+      "secondary": "#FF6600",
+      "accent": "#663399",
+      "shadow": "#FF6600",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#663399"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Orange",
+          "hex": "#FF6600"
+        }
+      ]
+    },
+    "Notre Dame": {
+      "sourceName": "Notre Dame Fighting Irish",
+      "sourceUrl": "https://teamcolorcodes.com/notre-dame-colors/",
+      "matchMethod": "prefix",
+      "primary": "#0C2340",
+      "secondary": "#C99700",
+      "accent": "#0C2340",
+      "shadow": "#C99700",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0C2340"
+        },
+        {
+          "name": "Standard Dome Gold",
+          "hex": "#C99700"
+        },
+        {
+          "name": "Metallic Gold",
+          "hex": "#AE9142"
+        },
+        {
+          "name": "Irish Green",
+          "hex": "#00843D"
+        }
+      ]
+    },
+    "Oakland": {
+      "sourceName": "Oakland Golden Grizzlies",
+      "sourceUrl": "https://teamcolorcodes.com/oakland-golden-grizzlies-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#B59A57",
+      "secondary": "#B59A57",
+      "accent": "#B59A57",
+      "shadow": "#B59A57",
+      "palette": [
+        {
+          "name": "METALLIC GOLD",
+          "hex": "#B59A57"
+        }
+      ]
+    },
+    "Ohio": {
+      "sourceName": "Ohio Bobcats",
+      "sourceUrl": "https://teamcolorcodes.com/ohio-bobcats-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#00694E",
+      "secondary": "#CDA077",
+      "accent": "#00694E",
+      "shadow": "#CDA077",
+      "palette": [
+        {
+          "name": "BOBCAT GREEN",
+          "hex": "#00694E"
+        },
+        {
+          "name": "BOBCAT TAN",
+          "hex": "#CDA077"
+        }
+      ]
+    },
+    "Ohio State": {
+      "sourceName": "Ohio State Buckeyes",
+      "sourceUrl": "https://teamcolorcodes.com/ohio-state-buckeyes-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#BB0000",
+      "secondary": "#666666",
+      "accent": "#BB0000",
+      "shadow": "#666666",
+      "palette": [
+        {
+          "name": "Scarlet",
+          "hex": "#BB0000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#666666"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Oklahoma": {
+      "sourceName": "Oklahoma Sooners",
+      "sourceUrl": "https://teamcolorcodes.com/oklahoma-sooners-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#841617",
+      "secondary": "#FDF9D8",
+      "accent": "#841617",
+      "shadow": "#FDF9D8",
+      "palette": [
+        {
+          "name": "Oklahoma Crimson",
+          "hex": "#841617"
+        },
+        {
+          "name": "Oklahoma Cream",
+          "hex": "#FDF9D8"
+        }
+      ]
+    },
+    "Oklahoma State": {
+      "sourceName": "Oklahoma State Cowboys",
+      "sourceUrl": "https://teamcolorcodes.com/oklahoma-state-cowboys-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FF7300",
+      "secondary": "#000000",
+      "accent": "#FF7300",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#FF7300"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Old Dominion": {
+      "sourceName": "Old Dominion",
+      "sourceUrl": "https://teamcolorcodes.com/old-dominion-monarchs-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#003057",
+      "secondary": "#92C1E9",
+      "accent": "#003057",
+      "shadow": "#92C1E9",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003057"
+        },
+        {
+          "name": "Gray",
+          "hex": "#7C878E"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#92C1E9"
+        }
+      ]
+    },
+    "Ole Miss": {
+      "sourceName": "Ole Miss Rebels",
+      "sourceUrl": "https://teamcolorcodes.com/ole-miss-rebels-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#CE1126",
+      "secondary": "#14213D",
+      "accent": "#CE1126",
+      "shadow": "#14213D",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CE1126"
+        },
+        {
+          "name": "NAVY BLUE",
+          "hex": "#14213D"
+        },
+        {
+          "name": "POWDER BLUE",
+          "hex": "#006BA6"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Omaha": {
+      "sourceName": "Omaha Mavericks",
+      "sourceUrl": "https://teamcolorcodes.com/nebraska-omaha-mavericks-colors/",
+      "matchMethod": "prefix",
+      "primary": "#D71920",
+      "secondary": "#636568",
+      "accent": "#D71920",
+      "shadow": "#636568",
+      "palette": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Red",
+          "hex": "#D71920"
+        },
+        {
+          "name": "Dark Grey",
+          "hex": "#636568"
+        }
+      ]
+    },
+    "Oral Roberts": {
+      "sourceName": "Oral Roberts",
+      "sourceUrl": "https://teamcolorcodes.com/oral-roberts-golden-eagles-colors/",
+      "matchMethod": "exact",
+      "primary": "#002F60",
+      "secondary": "#C5B783",
+      "accent": "#002F60",
+      "shadow": "#C5B783",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#002F60"
+        },
+        {
+          "name": "Gold",
+          "hex": "#C5B783"
+        },
+        {
+          "name": "Dark Gold",
+          "hex": "#A28E2A"
+        }
+      ]
+    },
+    "Oregon": {
+      "sourceName": "Oregon Ducks",
+      "sourceUrl": "https://teamcolorcodes.com/oregon-ducks-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#154733",
+      "secondary": "#FEE123",
+      "accent": "#154733",
+      "shadow": "#FEE123",
+      "palette": [
+        {
+          "name": "Oregon Green",
+          "hex": "#154733"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FEE123"
+        }
+      ]
+    },
+    "Oregon State": {
+      "sourceName": "Oregon State Beavers",
+      "sourceUrl": "https://teamcolorcodes.com/oregon-state-beavers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#DC4405",
+      "secondary": "#000000",
+      "accent": "#DC4405",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Beaver Orange",
+          "hex": "#DC4405"
+        },
+        {
+          "name": "Paddletail Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Bucktooth White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Pacific": {
+      "sourceName": "Pacific Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/pacific-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#E35205",
+      "secondary": "#231F20",
+      "accent": "#E35205",
+      "shadow": "#231F20",
+      "palette": [
+        {
+          "name": "Pacific Athletic Orange",
+          "hex": "#E35205"
+        },
+        {
+          "name": "Pacific Black",
+          "hex": "#231F20"
+        },
+        {
+          "name": "Pacific University Orange",
+          "hex": "#D86018"
+        },
+        {
+          "name": "Pacific Gray",
+          "hex": "#949A90"
+        }
+      ]
+    },
+    "Penn State": {
+      "sourceName": "Penn State Nittany Lions",
+      "sourceUrl": "https://teamcolorcodes.com/penn-state-nittany-lions-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#041E42",
+      "secondary": "#FFFFFF",
+      "accent": "#041E42",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#041E42"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "sourceName": "Penn Quakers",
+      "sourceUrl": "https://teamcolorcodes.com/penn-quakers-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#990000",
+      "secondary": "#011F5B",
+      "accent": "#990000",
+      "shadow": "#011F5B",
+      "palette": [
+        {
+          "name": "Penn Red",
+          "hex": "#990000"
+        },
+        {
+          "name": "PENN BLUE",
+          "hex": "#011F5B"
+        }
+      ]
+    },
+    "Pepperdine": {
+      "sourceName": "Pepperdine Waves",
+      "sourceUrl": "https://teamcolorcodes.com/pepperdine-waves-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00205C",
+      "secondary": "#EE7624",
+      "accent": "#00205C",
+      "shadow": "#EE7624",
+      "palette": [
+        {
+          "name": "Pepperdine Blue",
+          "hex": "#00205C"
+        },
+        {
+          "name": "Pepperdine Orange",
+          "hex": "#EE7624"
+        }
+      ]
+    },
+    "Pittsburgh": {
+      "sourceName": "Pittsburgh Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/pittsburgh-panthers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003594",
+      "secondary": "#FFB81C",
+      "accent": "#003594",
+      "shadow": "#FFB81C",
+      "palette": [
+        {
+          "name": "Game Royal",
+          "hex": "#003594"
+        },
+        {
+          "name": "University Gold",
+          "hex": "#FFB81C"
+        },
+        {
+          "name": "Blue",
+          "hex": "#1C2957"
+        },
+        {
+          "name": "Gold",
+          "hex": "#CDB87D"
+        }
+      ]
+    },
+    "Portland": {
+      "sourceName": "Portland Pilots",
+      "sourceUrl": "https://teamcolorcodes.com/portland-pilots-colors/",
+      "matchMethod": "heur 1.55",
+      "primary": "#1E1656",
+      "secondary": "#5E6A71",
+      "accent": "#1E1656",
+      "shadow": "#5E6A71",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#1E1656"
+        },
+        {
+          "name": "Gray",
+          "hex": "#5E6A71"
+        }
+      ]
+    },
+    "Portland State": {
+      "sourceName": "Portland State Vikings",
+      "sourceUrl": "https://teamcolorcodes.com/portland-state-vikings-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#154734",
+      "secondary": "#A5ACAF",
+      "accent": "#154734",
+      "shadow": "#A5ACAF",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#154734"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Metallic Silver",
+          "hex": "#A5ACAF"
+        },
+        {
+          "name": "Anthracite",
+          "hex": "#373A36"
+        },
+        {
+          "name": "Black",
+          "hex": "#2C2A29"
+        }
+      ]
+    },
+    "Prairie View A&M": {
+      "sourceName": "Prairie View Panthers",
+      "sourceUrl": "https://teamcolorcodes.com/prairie-view-am-panthers-colors/",
+      "matchMethod": "manual",
+      "primary": "#330066",
+      "secondary": "#FFCC33",
+      "accent": "#330066",
+      "shadow": "#FFCC33",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#330066"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFCC33"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Presbyterian": {
+      "sourceName": "Presbyterian Blue Hose",
+      "sourceUrl": "https://teamcolorcodes.com/presbyterian-blue-hose-colors/",
+      "matchMethod": "prefix",
+      "primary": "#0060A9",
+      "secondary": "#9D2235",
+      "accent": "#0060A9",
+      "shadow": "#9D2235",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0060A9"
+        },
+        {
+          "name": "Red",
+          "hex": "#9D2235"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Princeton": {
+      "sourceName": "Princeton Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/princeton-tigers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FF671F",
+      "secondary": "#000000",
+      "accent": "#FF671F",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "PRINCETON ORANGE",
+          "hex": "#FF671F"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Providence": {
+      "sourceName": "Providence Friars",
+      "sourceUrl": "https://teamcolorcodes.com/providence-friars-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#8A8D8F",
+      "secondary": "#8A8D8F",
+      "accent": "#8A8D8F",
+      "shadow": "#8A8D8F",
+      "palette": [
+        {
+          "name": "SILVER",
+          "hex": "#8A8D8F"
+        }
+      ]
+    },
+    "Purdue": {
+      "sourceName": "Purdue Boilermakers",
+      "sourceUrl": "https://teamcolorcodes.com/purdue-boilermakers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#CEB888",
+      "secondary": "#373A36",
+      "accent": "#CEB888",
+      "shadow": "#373A36",
+      "palette": [
+        {
+          "name": "Athletic Gold",
+          "hex": "#CEB888"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#9D968D"
+        },
+        {
+          "name": "Dark Gray",
+          "hex": "#373A36"
+        },
+        {
+          "name": "Campus Gold",
+          "hex": "#C28E0E"
+        }
+      ]
+    },
+    "Purdue Fort Wayne": {
+      "sourceName": "Fort Wayne Mastadons",
+      "sourceUrl": "https://teamcolorcodes.com/fort-wayne-mastadons-colors/",
+      "matchMethod": "manual",
+      "primary": "#002F6C",
+      "secondary": "#63666A",
+      "accent": "#002F6C",
+      "shadow": "#63666A",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#002F6C"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Dark Gray",
+          "hex": "#63666A"
+        },
+        {
+          "name": "Medium Gray",
+          "hex": "#97999B"
+        },
+        {
+          "name": "Light Gray",
+          "hex": "#BBBCBC"
+        }
+      ]
+    },
+    "Queens (NC)": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Quinnipiac": {
+      "sourceName": "Quinnipiac Bobcats",
+      "sourceUrl": "https://teamcolorcodes.com/quinnipiac-bobcats-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#0C2340",
+      "secondary": "#FFB81C",
+      "accent": "#0C2340",
+      "shadow": "#FFB81C",
+      "palette": [
+        {
+          "name": "NAVY",
+          "hex": "#0C2340"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FFB81C"
+        },
+        {
+          "name": "LIGHT BLUE",
+          "hex": "#418FDE"
+        }
+      ]
+    },
+    "Radford": {
+      "sourceName": "Radford Highlanders",
+      "sourceUrl": "https://teamcolorcodes.com/radford-highlanders-colors/",
+      "matchMethod": "prefix",
+      "primary": "#C2011B",
+      "secondary": "#003C71",
+      "accent": "#C2011B",
+      "shadow": "#003C71",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#C2011B"
+        },
+        {
+          "name": "Gray",
+          "hex": "#D1D3D4"
+        },
+        {
+          "name": "Blue",
+          "hex": "#003C71"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Rhode Island": {
+      "sourceName": "Rhode Island Rams",
+      "sourceUrl": "https://teamcolorcodes.com/rhode-island-rams-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#68ABE8",
+      "secondary": "#002147",
+      "accent": "#68ABE8",
+      "shadow": "#002147",
+      "palette": [
+        {
+          "name": "Keaney BLUE",
+          "hex": "#68ABE8"
+        },
+        {
+          "name": "Navy BLUE",
+          "hex": "#002147"
+        }
+      ]
+    },
+    "Rice": {
+      "sourceName": "Rice Owls",
+      "sourceUrl": "https://teamcolorcodes.com/rice-owls-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00205B",
+      "secondary": "#C1C6C8",
+      "accent": "#00205B",
+      "shadow": "#C1C6C8",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#00205B"
+        },
+        {
+          "name": "Gray",
+          "hex": "#C1C6C8"
+        }
+      ]
+    },
+    "Richmond": {
+      "sourceName": "Richmond Spiders",
+      "sourceUrl": "https://teamcolorcodes.com/richmond-spiders-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#000066",
+      "secondary": "#990000",
+      "accent": "#000066",
+      "shadow": "#990000",
+      "palette": [
+        {
+          "name": "UR BLUE",
+          "hex": "#000066"
+        },
+        {
+          "name": "UR RED",
+          "hex": "#990000"
+        }
+      ]
+    },
+    "Rider": {
+      "sourceName": "Rider Broncs",
+      "sourceUrl": "https://teamcolorcodes.com/rider-broncs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#981E32",
+      "secondary": "#6C6F70",
+      "accent": "#981E32",
+      "shadow": "#6C6F70",
+      "palette": [
+        {
+          "name": "RIDER CRANBERRY",
+          "hex": "#981E32"
+        },
+        {
+          "name": "RIDER GREY",
+          "hex": "#6C6F70"
+        }
+      ]
+    },
+    "Robert Morris": {
+      "sourceName": "Robert Morris Colonials",
+      "sourceUrl": "https://teamcolorcodes.com/robert-morris-colonials-colors/",
+      "matchMethod": "prefix",
+      "primary": "#14234B",
+      "secondary": "#A6192E",
+      "accent": "#14234B",
+      "shadow": "#A6192E",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#14234B"
+        },
+        {
+          "name": "Red",
+          "hex": "#A6192E"
+        },
+        {
+          "name": "Gray",
+          "hex": "#B2B1AE"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Rutgers": {
+      "sourceName": "Rutgers Scarlet Knights",
+      "sourceUrl": "https://teamcolorcodes.com/rutgers-scarlet-knights-colors/",
+      "matchMethod": "prefix",
+      "primary": "#CC0033",
+      "secondary": "#5F6A72",
+      "accent": "#CC0033",
+      "shadow": "#5F6A72",
+      "palette": [
+        {
+          "name": "Scarlet",
+          "hex": "#CC0033"
+        },
+        {
+          "name": "Grey",
+          "hex": "#5F6A72"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "SMU": {
+      "sourceName": "SMU Mustangs",
+      "sourceUrl": "https://teamcolorcodes.com/smu-mustangs-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#0033A0",
+      "secondary": "#C8102E",
+      "accent": "#0033A0",
+      "shadow": "#C8102E",
+      "palette": [
+        {
+          "name": "SMU Blue",
+          "hex": "#0033A0"
+        },
+        {
+          "name": "SMU Red",
+          "hex": "#C8102E"
+        }
+      ]
+    },
+    "Sacramento State": {
+      "sourceName": "Sacramento State Hornets",
+      "sourceUrl": "https://teamcolorcodes.com/california-state-university-sacramento-hornets-colors/",
+      "matchMethod": "prefix",
+      "primary": "#043927",
+      "secondary": "#C4B581",
+      "accent": "#043927",
+      "shadow": "#C4B581",
+      "palette": [
+        {
+          "name": "Sac State Green",
+          "hex": "#043927"
+        },
+        {
+          "name": "Sac State Green",
+          "hex": "#C4B581"
+        }
+      ]
+    },
+    "Sacred Heart": {
+      "sourceName": "Sacred Heart Pioneers",
+      "sourceUrl": "https://teamcolorcodes.com/sacred-heart-pioneers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#CE1141",
+      "secondary": "#B1B3B6",
+      "accent": "#CE1141",
+      "shadow": "#B1B3B6",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CE1141"
+        },
+        {
+          "name": "Gray",
+          "hex": "#B1B3B6"
+        },
+        {
+          "name": "Black",
+          "hex": "#4D4D4F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Saint Francis (PA)": {
+      "sourceName": "St.Francis Red Flash",
+      "sourceUrl": "https://teamcolorcodes.com/st-francis-pa-red-flash-colors/",
+      "matchMethod": "manual",
+      "primary": "#BD1F25",
+      "secondary": "#790000",
+      "accent": "#BD1F25",
+      "shadow": "#790000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#BD1F25"
+        },
+        {
+          "name": "Dark Red",
+          "hex": "#790000"
+        },
+        {
+          "name": "Silver",
+          "hex": "#8E908F"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Saint Joseph's": {
+      "sourceName": "St. Joseph\u2019s Hawks",
+      "sourceUrl": "https://teamcolorcodes.com/saint-josephs-hawks-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#9E1B32",
+      "secondary": "#6C6F70",
+      "accent": "#9E1B32",
+      "shadow": "#6C6F70",
+      "palette": [
+        {
+          "name": "CRIMSON",
+          "hex": "#9E1B32"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#6C6F70"
+        }
+      ]
+    },
+    "Saint Louis": {
+      "sourceName": "St. Louis Billikens",
+      "sourceUrl": "https://teamcolorcodes.com/saint-louis-billikens-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#003DA5",
+      "secondary": "#C8C9C7",
+      "accent": "#003DA5",
+      "shadow": "#C8C9C7",
+      "palette": [
+        {
+          "name": "SLU BlUE",
+          "hex": "#003DA5"
+        },
+        {
+          "name": "COLLEGE CHURCH GRAY",
+          "hex": "#C8C9C7"
+        }
+      ]
+    },
+    "Saint Peter's": {
+      "sourceName": "St. Peter\u2019s Peacocks",
+      "sourceUrl": "https://teamcolorcodes.com/saint-peters-peacocks-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#003C71",
+      "secondary": "#0072CE",
+      "accent": "#003C71",
+      "shadow": "#0072CE",
+      "palette": [
+        {
+          "name": "NAVY",
+          "hex": "#003C71"
+        },
+        {
+          "name": "BLUE",
+          "hex": "#0072CE"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#A59C94"
+        }
+      ]
+    },
+    "Sam Houston State": {
+      "sourceName": "S.H.S. Bearkats",
+      "sourceUrl": "https://teamcolorcodes.com/sam-houston-state-bearkats-colors/",
+      "matchMethod": "manual",
+      "primary": "#FE5100",
+      "secondary": "#FFFFFF",
+      "accent": "#FE5100",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#FE5100"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Samford": {
+      "sourceName": "Samford Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/samford-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#002649",
+      "secondary": "#C4161D",
+      "accent": "#002649",
+      "shadow": "#C4161D",
+      "palette": [
+        {
+          "name": "Navy",
+          "hex": "#002649"
+        },
+        {
+          "name": "Red",
+          "hex": "#C4161D"
+        }
+      ]
+    },
+    "San Diego": {
+      "sourceName": "San Diego Toreros",
+      "sourceUrl": "https://teamcolorcodes.com/san-diego-toreros-colors/",
+      "matchMethod": "heur 1.72",
+      "primary": "#002868",
+      "secondary": "#84BCE8",
+      "accent": "#002868",
+      "shadow": "#84BCE8",
+      "palette": [
+        {
+          "name": "Founder\u2019s Blue",
+          "hex": "#002868"
+        },
+        {
+          "name": "Torero Blue",
+          "hex": "#84BCE8"
+        },
+        {
+          "name": "Immaculata Blue",
+          "hex": "#207BC1"
+        }
+      ]
+    },
+    "San Diego State": {
+      "sourceName": "San Diego State Aztecs",
+      "sourceUrl": "https://teamcolorcodes.com/san-diego-state-aztecs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#A6192E",
+      "secondary": "#000000",
+      "accent": "#A6192E",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#A6192E"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "San Francisco": {
+      "sourceName": "San Francisco Dons",
+      "sourceUrl": "https://teamcolorcodes.com/san-francisco-dons-colors/",
+      "matchMethod": "prefix",
+      "primary": "#FDBB30",
+      "secondary": "#00543C",
+      "accent": "#FDBB30",
+      "shadow": "#00543C",
+      "palette": [
+        {
+          "name": "USF Yellow",
+          "hex": "#FDBB30"
+        },
+        {
+          "name": "USF Green",
+          "hex": "#00543C"
+        },
+        {
+          "name": "USF Gray",
+          "hex": "#919194"
+        }
+      ]
+    },
+    "San Jose State": {
+      "sourceName": "San Jose State Spartans",
+      "sourceUrl": "https://teamcolorcodes.com/san-jose-state-spartans-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0055A2",
+      "secondary": "#E5A823",
+      "accent": "#0055A2",
+      "shadow": "#E5A823",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0055A2"
+        },
+        {
+          "name": "Gold",
+          "hex": "#E5A823"
+        },
+        {
+          "name": "Gray",
+          "hex": "#939597"
+        }
+      ]
+    },
+    "Santa Clara": {
+      "sourceName": "Santa Clara",
+      "sourceUrl": "https://teamcolorcodes.com/santa-clara-broncos-colors/",
+      "matchMethod": "exact",
+      "primary": "#862633",
+      "secondary": "#862633",
+      "accent": "#862633",
+      "shadow": "#862633",
+      "palette": [
+        {
+          "name": "Cardinal Red",
+          "hex": "#862633"
+        }
+      ]
+    },
+    "Seattle": {
+      "sourceName": "Seattle Redhawks",
+      "sourceUrl": "https://teamcolorcodes.com/seattle-university-redhawks-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#AA0000",
+      "secondary": "#000000",
+      "accent": "#AA0000",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#AA0000"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Seton Hall": {
+      "sourceName": "Seton Hall Pirates",
+      "sourceUrl": "https://teamcolorcodes.com/seton-hall-pirates-colors/",
+      "matchMethod": "prefix",
+      "primary": "#004488",
+      "secondary": "#A2AAAD",
+      "accent": "#004488",
+      "shadow": "#A2AAAD",
+      "palette": [
+        {
+          "name": "Seton Hall University Blue",
+          "hex": "#004488"
+        },
+        {
+          "name": "Seton Hall University Gray",
+          "hex": "#A2AAAD"
+        }
+      ]
+    },
+    "Siena": {
+      "sourceName": "Siena Saints",
+      "sourceUrl": "https://teamcolorcodes.com/siena-saints-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFC72C",
+      "secondary": "#C8102E",
+      "accent": "#FFC72C",
+      "shadow": "#C8102E",
+      "palette": [
+        {
+          "name": "SIENA YELLOW",
+          "hex": "#FFC72C"
+        },
+        {
+          "name": "SIENA RED",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "SIENA GREEN",
+          "hex": "#006747"
+        },
+        {
+          "name": "SIENA BROWN",
+          "hex": "#693F23"
+        }
+      ]
+    },
+    "South Alabama": {
+      "sourceName": "South Alabama Jaguars",
+      "sourceUrl": "https://teamcolorcodes.com/south-alabama-jaguars-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00205B",
+      "secondary": "#BF0D3E",
+      "accent": "#00205B",
+      "shadow": "#BF0D3E",
+      "palette": [
+        {
+          "name": "USA BLUE",
+          "hex": "#00205B"
+        },
+        {
+          "name": "USA RED",
+          "hex": "#BF0D3E"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "South Carolina": {
+      "sourceName": "South Carolina Gamecocks",
+      "sourceUrl": "https://teamcolorcodes.com/south-carolina-gamecocks-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#73000A",
+      "secondary": "#000000",
+      "accent": "#73000A",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Garnet",
+          "hex": "#73000A"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "South Carolina State": {
+      "sourceName": "South Carolina Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/south-carolina-state-bulldogs-colors/",
+      "matchMethod": "manual",
+      "primary": "#862633",
+      "secondary": "#001A72",
+      "accent": "#862633",
+      "shadow": "#001A72",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#862633"
+        },
+        {
+          "name": "Blue",
+          "hex": "#001A72"
+        },
+        {
+          "name": "NCCU Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "South Dakota": {
+      "sourceName": "South Dakota Coyotes",
+      "sourceUrl": "https://teamcolorcodes.com/south-dakota-coyotes-colors/",
+      "matchMethod": "heur 1.72",
+      "primary": "#AD0000",
+      "secondary": "#B4B4B4",
+      "accent": "#AD0000",
+      "shadow": "#B4B4B4",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#AD0000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#B4B4B4"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "South Dakota State": {
+      "sourceName": "South Dakota State Jackrabbits",
+      "sourceUrl": "https://teamcolorcodes.com/south-dakota-state-jackrabbits-colors/",
+      "matchMethod": "prefix",
+      "primary": "#0033A0",
+      "secondary": "#FFD100",
+      "accent": "#0033A0",
+      "shadow": "#FFD100",
+      "palette": [
+        {
+          "name": "SDSU Blue",
+          "hex": "#0033A0"
+        },
+        {
+          "name": "SDSU Yellow",
+          "hex": "#FFD100"
+        }
+      ]
+    },
+    "South Florida": {
+      "sourceName": "South Florida Bulls",
+      "sourceUrl": "https://teamcolorcodes.com/south-florida-bulls-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006747",
+      "secondary": "#CFC493",
+      "accent": "#006747",
+      "shadow": "#CFC493",
+      "palette": [
+        {
+          "name": "USF GREEN",
+          "hex": "#006747"
+        },
+        {
+          "name": "USF GOLD",
+          "hex": "#CFC493"
+        }
+      ]
+    },
+    "Southeast Missouri State": {
+      "sourceName": "SE M.S. Redhawks",
+      "sourceUrl": "https://teamcolorcodes.com/se-missouri-st-redhawks-colors/",
+      "matchMethod": "manual",
+      "primary": "#000000",
+      "secondary": "#C8102E",
+      "accent": "#000000",
+      "shadow": "#C8102E",
+      "palette": [
+        {
+          "name": "Rich Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Southeast Red",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Southern": {
+      "sourceName": "Southern Jaguars",
+      "sourceUrl": "https://teamcolorcodes.com/southern-jaguars-colors/",
+      "matchMethod": "manual",
+      "primary": "#58B6E7",
+      "secondary": "#FFCE34",
+      "accent": "#58B6E7",
+      "shadow": "#FFCE34",
+      "palette": [
+        {
+          "name": "Columbia Blue",
+          "hex": "#58B6E7"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFCE34"
+        }
+      ]
+    },
+    "Southern California": {
+      "sourceName": "USC Trojans",
+      "sourceUrl": "https://teamcolorcodes.com/usc-trojans-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#990000",
+      "secondary": "#FFC72C",
+      "accent": "#990000",
+      "shadow": "#FFC72C",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#990000"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFC72C"
+        }
+      ]
+    },
+    "Southern Illinois": {
+      "sourceName": "Southern Illinois",
+      "sourceUrl": "https://teamcolorcodes.com/southern-illinois-salukis-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#720000",
+      "secondary": "#FFFFFF",
+      "accent": "#720000",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#720000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Southern Indiana": {
+      "sourceName": "Southern Indiana Screaming Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/southern-indiana-screaming-eagles-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#CF102D",
+      "secondary": "#002D5D",
+      "accent": "#CF102D",
+      "shadow": "#002D5D",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CF102D"
+        },
+        {
+          "name": "Navy",
+          "hex": "#002D5D"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Southern Mississippi": {
+      "sourceName": "Southern Miss Golden Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/southern-miss-golden-eagles-colors/",
+      "matchMethod": "manual",
+      "primary": "#000000",
+      "secondary": "#FFAB00",
+      "accent": "#000000",
+      "shadow": "#FFAB00",
+      "palette": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#FFAB00"
+        }
+      ]
+    },
+    "Southern Utah": {
+      "sourceName": "Southern Utah Thunderbirds",
+      "sourceUrl": "https://teamcolorcodes.com/southern-utah-thunderbirds-colors/",
+      "matchMethod": "prefix",
+      "primary": "#C41425",
+      "secondary": "#000000",
+      "accent": "#C41425",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "SUU Red",
+          "hex": "#C41425"
+        },
+        {
+          "name": "SUU Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "SUU White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "St. Bonaventure": {
+      "sourceName": "St. Bonaventure Bonnies",
+      "sourceUrl": "https://teamcolorcodes.com/st-bonaventure-bonnies-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#54261A",
+      "secondary": "#FDB726",
+      "accent": "#54261A",
+      "shadow": "#FDB726",
+      "palette": [
+        {
+          "name": "BROWN",
+          "hex": "#54261A"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FDB726"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#BDB6B0"
+        }
+      ]
+    },
+    "St. John's (NY)": {
+      "sourceName": "St. John\u2019s Red Storm",
+      "sourceUrl": "https://teamcolorcodes.com/st-johns-red-storm-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#BA0C2F",
+      "secondary": "#041C2C",
+      "accent": "#BA0C2F",
+      "shadow": "#041C2C",
+      "palette": [
+        {
+          "name": "ST. JOHN\u2019S RED",
+          "hex": "#BA0C2F"
+        },
+        {
+          "name": "SJU BLUE",
+          "hex": "#041C2C"
+        },
+        {
+          "name": "SILVER GRAY",
+          "hex": "#A7A8AA"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "St. Mary's (CA)": {
+      "sourceName": "Saint Mary\u2019s Gaels",
+      "sourceUrl": "https://teamcolorcodes.com/saint-marys-gaels-colors/",
+      "matchMethod": "manual",
+      "primary": "#D80024",
+      "secondary": "#06315B",
+      "accent": "#D80024",
+      "shadow": "#06315B",
+      "palette": [
+        {
+          "name": "SMC Red",
+          "hex": "#D80024"
+        },
+        {
+          "name": "Gray",
+          "hex": "#06315B"
+        }
+      ]
+    },
+    "St. Thomas": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Stanford": {
+      "sourceName": "Stanford Cardinal",
+      "sourceUrl": "https://teamcolorcodes.com/stanford-cardinal-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#8C1515",
+      "secondary": "#4D4F53",
+      "accent": "#8C1515",
+      "shadow": "#4D4F53",
+      "palette": [
+        {
+          "name": "Cardinal Red",
+          "hex": "#8C1515"
+        },
+        {
+          "name": "Cool Gray",
+          "hex": "#4D4F53"
+        },
+        {
+          "name": "Black",
+          "hex": "#2E2D29"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Stephen F. Austin": {
+      "sourceName": "Stephen F.A. Lumberjacks",
+      "sourceUrl": "https://teamcolorcodes.com/stephen-f-austin-lumberjacks-colors/",
+      "matchMethod": "manual",
+      "primary": "#613393",
+      "secondary": "#FFFFFF",
+      "accent": "#613393",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#613393"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Stetson": {
+      "sourceName": "Stetson Hatters",
+      "sourceUrl": "https://teamcolorcodes.com/stetson-hatters-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00523E",
+      "secondary": "#3B8729",
+      "accent": "#00523E",
+      "shadow": "#3B8729",
+      "palette": [
+        {
+          "name": "Stetson Green",
+          "hex": "#00523E"
+        },
+        {
+          "name": "Hatter Green",
+          "hex": "#3B8729"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Stonehill": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Stony Brook": {
+      "sourceName": "Stony Brook Seawolves",
+      "sourceUrl": "https://teamcolorcodes.com/stony-brook-university-seawolves/",
+      "matchMethod": "manual",
+      "primary": "#990000",
+      "secondary": "#16243E",
+      "accent": "#990000",
+      "shadow": "#16243E",
+      "palette": [
+        {
+          "name": "STONY BROOK RED",
+          "hex": "#990000"
+        },
+        {
+          "name": "MIDNIGHT BLUE",
+          "hex": "#16243E"
+        },
+        {
+          "name": "STONY BROOK GREY",
+          "hex": "#828282"
+        }
+      ]
+    },
+    "Syracuse": {
+      "sourceName": "Syracuse Orange",
+      "sourceUrl": "https://teamcolorcodes.com/syracuse-orange-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#F76900",
+      "secondary": "#000E54",
+      "accent": "#F76900",
+      "shadow": "#000E54",
+      "palette": [
+        {
+          "name": "Syracuse Orange",
+          "hex": "#F76900"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Primary Blue",
+          "hex": "#000E54"
+        }
+      ]
+    },
+    "TCU": {
+      "sourceName": "Texas Christian Horned Frogs",
+      "sourceUrl": "https://teamcolorcodes.com/texas-christian-horned-frogs-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#4D1979",
+      "secondary": "#A3A9AC",
+      "accent": "#4D1979",
+      "shadow": "#A3A9AC",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#4D1979"
+        },
+        {
+          "name": "Grey",
+          "hex": "#A3A9AC"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Tarleton State": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Temple": {
+      "sourceName": "Temple Owls",
+      "sourceUrl": "https://teamcolorcodes.com/temple-owls-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#9D2235",
+      "secondary": "#FFCD00",
+      "accent": "#9D2235",
+      "shadow": "#FFCD00",
+      "palette": [
+        {
+          "name": "CHERRY RED",
+          "hex": "#9D2235"
+        },
+        {
+          "name": "YELLOW",
+          "hex": "#FFCD00"
+        },
+        {
+          "name": "METALLIC SILVER",
+          "hex": "#8A8D8F"
+        },
+        {
+          "name": "SILVER",
+          "hex": "#C1C6C8"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Tennessee": {
+      "sourceName": "Tennessee Volunteers",
+      "sourceUrl": "https://teamcolorcodes.com/tennessee-volunteers-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#FF8200",
+      "secondary": "#58595B",
+      "accent": "#FF8200",
+      "shadow": "#58595B",
+      "palette": [
+        {
+          "name": "Tennessee Orange",
+          "hex": "#FF8200"
+        },
+        {
+          "name": "Smokey",
+          "hex": "#58595B"
+        },
+        {
+          "name": "WHite",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Tennessee State": {
+      "sourceName": "Tennessee State Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/tennessee-state-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00539F",
+      "secondary": "#FFFFFF",
+      "accent": "#00539F",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#00539F"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Texas": {
+      "sourceName": "Texas Longhorns",
+      "sourceUrl": "https://teamcolorcodes.com/texas-longhorns-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#BF5700",
+      "secondary": "#333F48",
+      "accent": "#BF5700",
+      "shadow": "#333F48",
+      "palette": [
+        {
+          "name": "Burnt Orange",
+          "hex": "#BF5700"
+        },
+        {
+          "name": "Dark Gray",
+          "hex": "#333F48"
+        },
+        {
+          "name": "WHite",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Texas A&M": {
+      "sourceName": "Texas A&M Aggies",
+      "sourceUrl": "https://teamcolorcodes.com/texas-am-aggies-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#500000",
+      "secondary": "#FFFFFF",
+      "accent": "#500000",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#500000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Texas A&M\u2013Corpus Christi": {
+      "sourceName": "Texas A&M-CC Islanders",
+      "sourceUrl": "https://teamcolorcodes.com/texas-am-cc-islanders-colors/",
+      "matchMethod": "manual",
+      "primary": "#0067C5",
+      "secondary": "#007F3E",
+      "accent": "#0067C5",
+      "shadow": "#007F3E",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#0067C5"
+        },
+        {
+          "name": "Green",
+          "hex": "#007F3E"
+        },
+        {
+          "name": "Silver",
+          "hex": "#9EA2A4"
+        },
+        {
+          "name": "Dark Blue",
+          "hex": "#002E57"
+        }
+      ]
+    },
+    "Texas Southern": {
+      "sourceName": "Texas Southern Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/texas-southern-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#7C183E",
+      "secondary": "#9DA6AB",
+      "accent": "#7C183E",
+      "shadow": "#9DA6AB",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#7C183E"
+        },
+        {
+          "name": "Gray",
+          "hex": "#9DA6AB"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Texas State": {
+      "sourceName": "Texas State Bobcats",
+      "sourceUrl": "https://teamcolorcodes.com/texas-state-bobcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#501214",
+      "secondary": "#8D734A",
+      "accent": "#501214",
+      "shadow": "#8D734A",
+      "palette": [
+        {
+          "name": "Maroon",
+          "hex": "#501214"
+        },
+        {
+          "name": "Gold",
+          "hex": "#8D734A"
+        }
+      ]
+    },
+    "Texas Tech": {
+      "sourceName": "Texas Tech Red Raiders",
+      "sourceUrl": "https://teamcolorcodes.com/texas-tech-red-raiders-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#CC0000",
+      "secondary": "#000000",
+      "accent": "#CC0000",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#CC0000"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Texas\u2013Rio Grande Valley": {
+      "sourceName": "UTRGV Vaqueros",
+      "sourceUrl": "https://teamcolorcodes.com/utrgv-vaqueros-colors/",
+      "matchMethod": "manual",
+      "primary": "#FFA300",
+      "secondary": "#F05023",
+      "accent": "#FFA300",
+      "shadow": "#F05023",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#FFA300"
+        },
+        {
+          "name": "Dark Orange",
+          "hex": "#F05023"
+        },
+        {
+          "name": "Green",
+          "hex": "#00843D"
+        },
+        {
+          "name": "Navy Blue",
+          "hex": "#0C2340"
+        }
+      ]
+    },
+    "The Citadel": {
+      "sourceName": "The Citadel",
+      "sourceUrl": "https://teamcolorcodes.com/citadel-bulldogs-colors/",
+      "matchMethod": "exact",
+      "primary": "#3975B7",
+      "secondary": "#1F3A60",
+      "accent": "#3975B7",
+      "shadow": "#1F3A60",
+      "palette": [
+        {
+          "name": "Citadel Blue",
+          "hex": "#3975B7"
+        },
+        {
+          "name": "Navy",
+          "hex": "#1F3A60"
+        }
+      ]
+    },
+    "Toledo": {
+      "sourceName": "Toledo Rockets",
+      "sourceUrl": "https://teamcolorcodes.com/toledo-rockets-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#15397F",
+      "secondary": "#005CB9",
+      "accent": "#15397F",
+      "shadow": "#005CB9",
+      "palette": [
+        {
+          "name": "BLUE",
+          "hex": "#15397F"
+        },
+        {
+          "name": "LIGHT BLUE",
+          "hex": "#005CB9"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FFDA00"
+        },
+        {
+          "name": "LIGHT GRAY",
+          "hex": "#BEC6C3"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#A0ACAA"
+        }
+      ]
+    },
+    "Towson": {
+      "sourceName": "Towson Tigers",
+      "sourceUrl": "https://teamcolorcodes.com/towson-tigers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#FFBB00",
+      "secondary": "#3C3C3C",
+      "accent": "#FFBB00",
+      "shadow": "#3C3C3C",
+      "palette": [
+        {
+          "name": "Gold",
+          "hex": "#FFBB00"
+        },
+        {
+          "name": "Black",
+          "hex": "#3C3C3C"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Gray",
+          "hex": "#DDDDDD"
+        }
+      ]
+    },
+    "Troy": {
+      "sourceName": "Troy Trojans",
+      "sourceUrl": "https://teamcolorcodes.com/troy-trojans-colors/",
+      "matchMethod": "prefix",
+      "primary": "#8A2432",
+      "secondary": "#B3B5B8",
+      "accent": "#8A2432",
+      "shadow": "#B3B5B8",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#8A2432"
+        },
+        {
+          "name": "Grey",
+          "hex": "#B3B5B8"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Tulane": {
+      "sourceName": "Tulane Green Wave",
+      "sourceUrl": "https://teamcolorcodes.com/tulane-green-wave-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006747",
+      "secondary": "#43B02A",
+      "accent": "#006747",
+      "shadow": "#43B02A",
+      "palette": [
+        {
+          "name": "DARK GREEN",
+          "hex": "#006747"
+        },
+        {
+          "name": "KELLY GREEN",
+          "hex": "#43B02A"
+        },
+        {
+          "name": "BLUE",
+          "hex": "#418FDE"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Tulsa": {
+      "sourceName": "Tulsa Golden Hurricane",
+      "sourceUrl": "https://teamcolorcodes.com/tulsa-golden-hurricane-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#002D72",
+      "secondary": "#C8102E",
+      "accent": "#002D72",
+      "shadow": "#C8102E",
+      "palette": [
+        {
+          "name": "Navy Blue",
+          "hex": "#002D72"
+        },
+        {
+          "name": "Red",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "Old Gold",
+          "hex": "#C5B783"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#F3D54E"
+        },
+        {
+          "name": "Metallic Gold",
+          "hex": "#84754E"
+        }
+      ]
+    },
+    "UAB": {
+      "sourceName": "UAB Blazers",
+      "sourceUrl": "https://teamcolorcodes.com/uab-blazers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#006341",
+      "secondary": "#CC8A00",
+      "accent": "#006341",
+      "shadow": "#CC8A00",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#006341"
+        },
+        {
+          "name": "Gold",
+          "hex": "#CC8A00"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Red",
+          "hex": "#BF0D3E"
+        }
+      ]
+    },
+    "UC Davis": {
+      "sourceName": "UC Davis",
+      "sourceUrl": "https://teamcolorcodes.com/uc-davis-aggies-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#002855",
+      "secondary": "#B3A369",
+      "accent": "#002855",
+      "shadow": "#B3A369",
+      "palette": [
+        {
+          "name": "YALE BLUE",
+          "hex": "#002855"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#B3A369"
+        }
+      ]
+    },
+    "UC Irvine": {
+      "sourceName": "UC Irvine Anteaters",
+      "sourceUrl": "https://teamcolorcodes.com/uc-irvine-anteaters-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#0C2340",
+      "secondary": "#FFC72C",
+      "accent": "#0C2340",
+      "shadow": "#FFC72C",
+      "palette": [
+        {
+          "name": "DARK BLUE",
+          "hex": "#0C2340"
+        },
+        {
+          "name": "YELLOW",
+          "hex": "#FFC72C"
+        }
+      ]
+    },
+    "UC Riverside": {
+      "sourceName": "UC Riverside Highlanders",
+      "sourceUrl": "https://teamcolorcodes.com/uc-riverside-highlanders-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#2D6CC0",
+      "secondary": "#003066",
+      "accent": "#2D6CC0",
+      "shadow": "#003066",
+      "palette": [
+        {
+          "name": "UCR BLUE",
+          "hex": "#2D6CC0"
+        },
+        {
+          "name": "UCR NAVY",
+          "hex": "#003066"
+        },
+        {
+          "name": "UCR GOLD",
+          "hex": "#F1AB00"
+        },
+        {
+          "name": "UCR GRAY",
+          "hex": "#7A6E67"
+        }
+      ]
+    },
+    "UC San Diego": {
+      "sourceName": "UC San Diego Tritons",
+      "sourceUrl": "https://teamcolorcodes.com/uc-san-diego-tritons-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#182B49",
+      "secondary": "#FFCD00",
+      "accent": "#182B49",
+      "shadow": "#FFCD00",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#182B49"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFCD00"
+        }
+      ]
+    },
+    "UC Santa Barbara": {
+      "sourceName": "UC Santa Barbara Gauchos",
+      "sourceUrl": "https://teamcolorcodes.com/uc-santa-barbara-gauchos-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#003660",
+      "secondary": "#FEBC11",
+      "accent": "#003660",
+      "shadow": "#FEBC11",
+      "palette": [
+        {
+          "name": "NAVY",
+          "hex": "#003660"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FEBC11"
+        }
+      ]
+    },
+    "UCF": {
+      "sourceName": "UCF Knights",
+      "sourceUrl": "https://teamcolorcodes.com/ucf-knights-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFC904",
+      "secondary": "#BA9B37",
+      "accent": "#FFC904",
+      "shadow": "#BA9B37",
+      "palette": [
+        {
+          "name": "UCF Bright Gold",
+          "hex": "#FFC904"
+        },
+        {
+          "name": "UCF METALLIC GOLD",
+          "hex": "#BA9B37"
+        },
+        {
+          "name": "BLACK",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "UCLA": {
+      "sourceName": "UCLA Bruins",
+      "sourceUrl": "https://teamcolorcodes.com/ucla-bruins-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#2D68C4",
+      "secondary": "#F2A900",
+      "accent": "#2D68C4",
+      "shadow": "#F2A900",
+      "palette": [
+        {
+          "name": "Powderkeg Blue",
+          "hex": "#2D68C4"
+        },
+        {
+          "name": "Westwood Gold",
+          "hex": "#F2A900"
+        },
+        {
+          "name": "Blue",
+          "hex": "#3284BF"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFE800"
+        }
+      ]
+    },
+    "UMBC": {
+      "sourceName": "UMBC Retrievers",
+      "sourceUrl": "https://teamcolorcodes.com/umbc-retrievers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#B18906",
+      "secondary": "#FFC20E",
+      "accent": "#B18906",
+      "shadow": "#FFC20E",
+      "palette": [
+        {
+          "name": "UMBC Retriever Brown",
+          "hex": "#B18906"
+        },
+        {
+          "name": "UMBC Gold",
+          "hex": "#FFC20E"
+        },
+        {
+          "name": "UMBC Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "UMBC Red",
+          "hex": "#ED1C24"
+        }
+      ]
+    },
+    "UMass Lowell": {
+      "sourceName": "UMass Lowell",
+      "sourceUrl": "https://teamcolorcodes.com/umass-lowell-river-hawks/",
+      "matchMethod": "exact",
+      "primary": "#003DA5",
+      "secondary": "#C8102E",
+      "accent": "#003DA5",
+      "shadow": "#C8102E",
+      "palette": [
+        {
+          "name": "BLUE",
+          "hex": "#003DA5"
+        },
+        {
+          "name": "RED",
+          "hex": "#C8102E"
+        }
+      ]
+    },
+    "UNC Asheville": {
+      "sourceName": "UNC Asheville Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/unc-asheville-bulldogs-colors/",
+      "matchMethod": "prefix",
+      "primary": "#003DA5",
+      "secondary": "#C7C8CA",
+      "accent": "#003DA5",
+      "shadow": "#C7C8CA",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003DA5"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Grey",
+          "hex": "#808285"
+        },
+        {
+          "name": "Light Grey",
+          "hex": "#C7C8CA"
+        },
+        {
+          "name": "Red",
+          "hex": "#E31837"
+        },
+        {
+          "name": "Black",
+          "hex": "#231F20"
+        }
+      ]
+    },
+    "UNC Greensboro": {
+      "sourceName": "UNCG Spartans",
+      "sourceUrl": "https://teamcolorcodes.com/unc-greensboro-spartans-colors/",
+      "matchMethod": "manual",
+      "primary": "#0F2044",
+      "secondary": "#FFB71B",
+      "accent": "#0F2044",
+      "shadow": "#FFB71B",
+      "palette": [
+        {
+          "name": "Navy",
+          "hex": "#0F2044"
+        },
+        {
+          "name": "Gold",
+          "hex": "#FFB71B"
+        },
+        {
+          "name": "Grey",
+          "hex": "#BEC0C2"
+        }
+      ]
+    },
+    "UNC Wilmington": {
+      "sourceName": "UNC Seahawks",
+      "sourceUrl": "https://teamcolorcodes.com/unc-wilmington-seahawks-colors/",
+      "matchMethod": "manual",
+      "primary": "#003366",
+      "secondary": "#006666",
+      "accent": "#003366",
+      "shadow": "#006666",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#003366"
+        },
+        {
+          "name": "Teal",
+          "hex": "#006666"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFD600"
+        }
+      ]
+    },
+    "UNLV": {
+      "sourceName": "UNLV Rebels",
+      "sourceUrl": "https://teamcolorcodes.com/unlv-rebels-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#CF0A2C",
+      "secondary": "#CAC8C8",
+      "accent": "#CF0A2C",
+      "shadow": "#CAC8C8",
+      "palette": [
+        {
+          "name": "Scarlet",
+          "hex": "#CF0A2C"
+        },
+        {
+          "name": "Gray",
+          "hex": "#CAC8C8"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "USC Upstate": {
+      "sourceName": "South Carolina Upstate Spartans",
+      "sourceUrl": "https://teamcolorcodes.com/usc-upstate-spartans-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#00703C",
+      "secondary": "#00703C",
+      "accent": "#00703C",
+      "shadow": "#00703C",
+      "palette": [
+        {
+          "name": "GREEN",
+          "hex": "#00703C"
+        }
+      ]
+    },
+    "UT Arlington": {
+      "sourceName": "Texas-Arlington Mavericks",
+      "sourceUrl": "https://teamcolorcodes.com/texas-arlington-mavericks-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#F58025",
+      "secondary": "#0064B1",
+      "accent": "#F58025",
+      "shadow": "#0064B1",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#F58025"
+        },
+        {
+          "name": "Blue",
+          "hex": "#0064B1"
+        }
+      ]
+    },
+    "UT Martin": {
+      "sourceName": "UT Martin Skyhawks",
+      "sourceUrl": "https://teamcolorcodes.com/ut-martin-skyhawks-colors/",
+      "matchMethod": "prefix",
+      "primary": "#F79728",
+      "secondary": "#002A5B",
+      "accent": "#F79728",
+      "shadow": "#002A5B",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#F79728"
+        },
+        {
+          "name": "Blue",
+          "hex": "#002A5B"
+        }
+      ]
+    },
+    "UTEP": {
+      "sourceName": "UTEP Miners",
+      "sourceUrl": "https://teamcolorcodes.com/utep-miners-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FF8200",
+      "secondary": "#041E42",
+      "accent": "#FF8200",
+      "shadow": "#041E42",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#FF8200"
+        },
+        {
+          "name": "Blue",
+          "hex": "#041E42"
+        },
+        {
+          "name": "Silver",
+          "hex": "#B1B3B3"
+        }
+      ]
+    },
+    "UTSA": {
+      "sourceName": "UTSA Roadrunners",
+      "sourceUrl": "https://teamcolorcodes.com/utsa-roadrunners-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#F15A22",
+      "secondary": "#0C2340",
+      "accent": "#F15A22",
+      "shadow": "#0C2340",
+      "palette": [
+        {
+          "name": "Orange",
+          "hex": "#F15A22"
+        },
+        {
+          "name": "Blue",
+          "hex": "#0C2340"
+        }
+      ]
+    },
+    "Utah": {
+      "sourceName": "Utah Utes",
+      "sourceUrl": "https://teamcolorcodes.com/utah-utes-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#CC0000",
+      "secondary": "#808080",
+      "accent": "#CC0000",
+      "shadow": "#808080",
+      "palette": [
+        {
+          "name": "University Red",
+          "hex": "#CC0000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#808080"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Utah State": {
+      "sourceName": "Utah State Aggies",
+      "sourceUrl": "https://teamcolorcodes.com/utah-state-aggies-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00263A",
+      "secondary": "#8A8D8F",
+      "accent": "#00263A",
+      "shadow": "#8A8D8F",
+      "palette": [
+        {
+          "name": "Aggie Blue",
+          "hex": "#00263A"
+        },
+        {
+          "name": "Silver",
+          "hex": "#8A8D8F"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Utah Tech": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "Utah Valley": {
+      "sourceName": "Utah Valley Wolverines",
+      "sourceUrl": "https://teamcolorcodes.com/utah-valley-wolverines-colors/",
+      "matchMethod": "prefix",
+      "primary": "#275D38",
+      "secondary": "#000000",
+      "accent": "#275D38",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#275D38"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#8E8C89"
+        }
+      ]
+    },
+    "VCU": {
+      "sourceName": "Virginia Commonwealth Rams",
+      "sourceUrl": "https://teamcolorcodes.com/virginia-commonwealth-rams-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#FFB300",
+      "secondary": "#FFB300",
+      "accent": "#FFB300",
+      "shadow": "#FFB300",
+      "palette": [
+        {
+          "name": "GOLD",
+          "hex": "#FFB300"
+        }
+      ]
+    },
+    "VMI": {
+      "sourceName": "VMI Keydets",
+      "sourceUrl": "https://teamcolorcodes.com/vmi-keydets-colors/",
+      "matchMethod": "prefix",
+      "primary": "#A71F23",
+      "secondary": "#FFD520",
+      "accent": "#A71F23",
+      "shadow": "#FFD520",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#A71F23"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFD520"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Gray",
+          "hex": "#666766"
+        }
+      ]
+    },
+    "Valparaiso": {
+      "sourceName": "Valparaiso Crusaders",
+      "sourceUrl": "https://teamcolorcodes.com/valparaiso-crusaders-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#381E0E",
+      "secondary": "#613318",
+      "accent": "#381E0E",
+      "shadow": "#613318",
+      "palette": [
+        {
+          "name": "BROWN",
+          "hex": "#381E0E"
+        },
+        {
+          "name": "LIGHT BROWN",
+          "hex": "#613318"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#FFCC00"
+        }
+      ]
+    },
+    "Vanderbilt": {
+      "sourceName": "Vanderbilt Commodores",
+      "sourceUrl": "https://teamcolorcodes.com/vanderbilt-commodores-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#866D4B",
+      "secondary": "#866D4B",
+      "accent": "#866D4B",
+      "shadow": "#866D4B",
+      "palette": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Old Gold",
+          "hex": "#866D4B"
+        }
+      ]
+    },
+    "Vermont": {
+      "sourceName": "Vermont Catamounts",
+      "sourceUrl": "https://teamcolorcodes.com/vermont-catamounts-color-codes/",
+      "matchMethod": "manual",
+      "primary": "#154734",
+      "secondary": "#8B5B29",
+      "accent": "#154734",
+      "shadow": "#8B5B29",
+      "palette": [
+        {
+          "name": "CATAMOUNT GREEN",
+          "hex": "#154734"
+        },
+        {
+          "name": "CATAMOUNT BROWN",
+          "hex": "#8B5B29"
+        },
+        {
+          "name": "CATAMOUNT GOLD",
+          "hex": "#FFC72C"
+        },
+        {
+          "name": "CATAMOUNT LIGHT BROWN",
+          "hex": "#C6AA76"
+        },
+        {
+          "name": "CATAMOUNT ORANGE",
+          "hex": "#FF6A13"
+        }
+      ]
+    },
+    "Villanova": {
+      "sourceName": "Villanova Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/villanova-wildcats-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00205B",
+      "secondary": "#13B5EA",
+      "accent": "#00205B",
+      "shadow": "#13B5EA",
+      "palette": [
+        {
+          "name": "NAVY",
+          "hex": "#00205B"
+        },
+        {
+          "name": "LIGHT BLUE",
+          "hex": "#13B5EA"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#8B634B"
+        },
+        {
+          "name": "WHITE",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Virginia": {
+      "sourceName": "Virginia Cavaliers",
+      "sourceUrl": "https://teamcolorcodes.com/virginia-cavaliers-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#232D4B",
+      "secondary": "#F84C1E",
+      "accent": "#232D4B",
+      "shadow": "#F84C1E",
+      "palette": [
+        {
+          "name": "Jefferson Blue",
+          "hex": "#232D4B"
+        },
+        {
+          "name": "Cavalier Orange",
+          "hex": "#F84C1E"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Virginia Tech": {
+      "sourceName": "Virginia Tech Hokies",
+      "sourceUrl": "https://teamcolorcodes.com/virginia-tech-hokies-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#630031",
+      "secondary": "#CF4420",
+      "accent": "#630031",
+      "shadow": "#CF4420",
+      "palette": [
+        {
+          "name": "Chicago Maroon",
+          "hex": "#630031"
+        },
+        {
+          "name": "Burnt Orange",
+          "hex": "#CF4420"
+        }
+      ]
+    },
+    "Wagner": {
+      "sourceName": "Wagner Seahawks",
+      "sourceUrl": "https://teamcolorcodes.com/wagner-seahawks-colors/",
+      "matchMethod": "prefix",
+      "primary": "#00483A",
+      "secondary": "#B9BBBD",
+      "accent": "#00483A",
+      "shadow": "#B9BBBD",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#00483A"
+        },
+        {
+          "name": "Gray",
+          "hex": "#B9BBBD"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Wake Forest": {
+      "sourceName": "Wake Forest Demon Deacons",
+      "sourceUrl": "https://teamcolorcodes.com/wake-forest-demon-deacons-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#9E7E38",
+      "secondary": "#000000",
+      "accent": "#9E7E38",
+      "shadow": "#000000",
+      "palette": [
+        {
+          "name": "Wake Forest Gold",
+          "hex": "#9E7E38"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ]
+    },
+    "Washington": {
+      "sourceName": "Washington Huskies",
+      "sourceUrl": "https://teamcolorcodes.com/washington-huskies-color-codes/",
+      "matchMethod": "heur 1.55",
+      "primary": "#4B2E83",
+      "secondary": "#B7A57A",
+      "accent": "#4B2E83",
+      "shadow": "#B7A57A",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#4B2E83"
+        },
+        {
+          "name": "Gold",
+          "hex": "#B7A57A"
+        },
+        {
+          "name": "Metallic Gold",
+          "hex": "#85754D"
+        }
+      ]
+    },
+    "Washington State": {
+      "sourceName": "Washington State Cougars",
+      "sourceUrl": "https://teamcolorcodes.com/washington-state-cougars-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#981E32",
+      "secondary": "#5E6A71",
+      "accent": "#981E32",
+      "shadow": "#5E6A71",
+      "palette": [
+        {
+          "name": "Crimson",
+          "hex": "#981E32"
+        },
+        {
+          "name": "Cougars Gray",
+          "hex": "#5E6A71"
+        }
+      ]
+    },
+    "Weber State": {
+      "sourceName": "Weber State Wildcats",
+      "sourceUrl": "https://teamcolorcodes.com/weber-state-wildcats-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#4B2682",
+      "secondary": "#A1A1A4",
+      "accent": "#4B2682",
+      "shadow": "#A1A1A4",
+      "palette": [
+        {
+          "name": "Wildcat Purple",
+          "hex": "#4B2682"
+        },
+        {
+          "name": "Waldo\u2019s Gray",
+          "hex": "#A1A1A4"
+        },
+        {
+          "name": "Black",
+          "hex": "#130C0E"
+        }
+      ]
+    },
+    "West Georgia": {
+      "sourceName": null,
+      "sourceUrl": null,
+      "matchMethod": "unmatched",
+      "primary": null,
+      "secondary": null,
+      "accent": null,
+      "shadow": null,
+      "palette": []
+    },
+    "West Virginia": {
+      "sourceName": "West Virginia Mountaineers",
+      "sourceUrl": "https://teamcolorcodes.com/west-virginia-mountaineers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#002855",
+      "secondary": "#EAAA00",
+      "accent": "#002855",
+      "shadow": "#EAAA00",
+      "palette": [
+        {
+          "name": "Blue",
+          "hex": "#002855"
+        },
+        {
+          "name": "Gold",
+          "hex": "#EAAA00"
+        }
+      ]
+    },
+    "Western Carolina": {
+      "sourceName": "Western Carolina Catamounts",
+      "sourceUrl": "https://teamcolorcodes.com/western-carolina-catamounts-colors/",
+      "matchMethod": "prefix",
+      "primary": "#592C88",
+      "secondary": "#C1A875",
+      "accent": "#592C88",
+      "shadow": "#C1A875",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#592C88"
+        },
+        {
+          "name": "Gold",
+          "hex": "#C1A875"
+        }
+      ]
+    },
+    "Western Illinois": {
+      "sourceName": "Western Illinois Leathernecks",
+      "sourceUrl": "https://teamcolorcodes.com/western-illinois-leathernecks-colors/",
+      "matchMethod": "prefix",
+      "primary": "#663399",
+      "secondary": "#FFCC00",
+      "accent": "#663399",
+      "shadow": "#FFCC00",
+      "palette": [
+        {
+          "name": "Purple",
+          "hex": "#663399"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#FFCC00"
+        }
+      ]
+    },
+    "Western Kentucky": {
+      "sourceName": "Western Kentucky Hilltoppers",
+      "sourceUrl": "https://teamcolorcodes.com/western-kentucky-hilltoppers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#C60C30",
+      "secondary": "#1E1E1E",
+      "accent": "#C60C30",
+      "shadow": "#1E1E1E",
+      "palette": [
+        {
+          "name": "Red",
+          "hex": "#C60C30"
+        },
+        {
+          "name": "Black",
+          "hex": "#1E1E1E"
+        },
+        {
+          "name": "Gray",
+          "hex": "#A2A4A3"
+        }
+      ]
+    },
+    "Western Michigan": {
+      "sourceName": "Western Michigan",
+      "sourceUrl": "https://teamcolorcodes.com/western-michigan-broncos-color-codes/",
+      "matchMethod": "exact",
+      "primary": "#6C4023",
+      "secondary": "#B5A167",
+      "accent": "#6C4023",
+      "shadow": "#B5A167",
+      "palette": [
+        {
+          "name": "BROWN",
+          "hex": "#6C4023"
+        },
+        {
+          "name": "GOLD",
+          "hex": "#B5A167"
+        },
+        {
+          "name": "GRAY",
+          "hex": "#AAA8AA"
+        }
+      ]
+    },
+    "Wichita State": {
+      "sourceName": "Wichita State Shockers",
+      "sourceUrl": "https://teamcolorcodes.com/wichita-state-shockers-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#FFCD00",
+      "secondary": "#FFCD00",
+      "accent": "#FFCD00",
+      "shadow": "#FFCD00",
+      "palette": [
+        {
+          "name": "Wichita State Yellow",
+          "hex": "#FFCD00"
+        }
+      ]
+    },
+    "William & Mary": {
+      "sourceName": "William & Mary Tribe",
+      "sourceUrl": "https://teamcolorcodes.com/william-mary-tribe-colors/",
+      "matchMethod": "prefix",
+      "primary": "#115740",
+      "secondary": "#F0B323",
+      "accent": "#115740",
+      "shadow": "#F0B323",
+      "palette": [
+        {
+          "name": "Green",
+          "hex": "#115740"
+        },
+        {
+          "name": "Gold",
+          "hex": "#F0B323"
+        }
+      ]
+    },
+    "Winthrop": {
+      "sourceName": "Winthrop Eagles",
+      "sourceUrl": "https://teamcolorcodes.com/winthrop-eagles-colors/",
+      "matchMethod": "prefix",
+      "primary": "#660000",
+      "secondary": "#F0B323",
+      "accent": "#660000",
+      "shadow": "#F0B323",
+      "palette": [
+        {
+          "name": "Garnet",
+          "hex": "#660000"
+        },
+        {
+          "name": "Gold",
+          "hex": "#F0B323"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Wisconsin": {
+      "sourceName": "Wisconsin Badgers",
+      "sourceUrl": "https://teamcolorcodes.com/wisconsin-badgers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#C5050C",
+      "secondary": "#FFFFFF",
+      "accent": "#C5050C",
+      "shadow": "#FFFFFF",
+      "palette": [
+        {
+          "name": "Badger Red",
+          "hex": "#C5050C"
+        },
+        {
+          "name": "White",
+          "hex": "#FFFFFF"
+        }
+      ]
+    },
+    "Wofford": {
+      "sourceName": "Wofford Terriers",
+      "sourceUrl": "https://teamcolorcodes.com/wofford-terriers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#886E4C",
+      "secondary": "#C7B37F",
+      "accent": "#886E4C",
+      "shadow": "#C7B37F",
+      "palette": [
+        {
+          "name": "Old Gold",
+          "hex": "#886E4C"
+        },
+        {
+          "name": "Black",
+          "hex": "#FFFFFF"
+        },
+        {
+          "name": "Khaki",
+          "hex": "#C7B37F"
+        }
+      ]
+    },
+    "Wright State": {
+      "sourceName": "Wright State Raiders",
+      "sourceUrl": "https://teamcolorcodes.com/wright-state-raiders-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#026937",
+      "secondary": "#CEA052",
+      "accent": "#026937",
+      "shadow": "#CEA052",
+      "palette": [
+        {
+          "name": "RAIDER GREEN",
+          "hex": "#026937"
+        },
+        {
+          "name": "RAIDER GOLD",
+          "hex": "#CEA052"
+        },
+        {
+          "name": "MCLIN GOLD",
+          "hex": "#FFE1A5"
+        },
+        {
+          "name": "NUTTER ORANGE",
+          "hex": "#DE6328"
+        }
+      ]
+    },
+    "Wyoming": {
+      "sourceName": "Wyoming Cowboys",
+      "sourceUrl": "https://teamcolorcodes.com/university-wyoming-cowboys-colors/",
+      "matchMethod": "prefix",
+      "primary": "#FFC425",
+      "secondary": "#492F24",
+      "accent": "#FFC425",
+      "shadow": "#492F24",
+      "palette": [
+        {
+          "name": "Wyoming Gold",
+          "hex": "#FFC425"
+        },
+        {
+          "name": "Wyoming Brown",
+          "hex": "#492F24"
+        }
+      ]
+    },
+    "Xavier": {
+      "sourceName": "Xavier Musketeers",
+      "sourceUrl": "https://teamcolorcodes.com/xavier-university-musketeers-colors/",
+      "matchMethod": "prefix",
+      "primary": "#0C2340",
+      "secondary": "#9EA2A2",
+      "accent": "#0C2340",
+      "shadow": "#9EA2A2",
+      "palette": [
+        {
+          "name": "Xavier Blue",
+          "hex": "#0C2340"
+        },
+        {
+          "name": "Xavier Silver",
+          "hex": "#9EA2A2"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#0099CC"
+        }
+      ]
+    },
+    "Yale": {
+      "sourceName": "Yale Bulldogs",
+      "sourceUrl": "https://teamcolorcodes.com/yale-bulldogs-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#00356B",
+      "secondary": "#00356B",
+      "accent": "#00356B",
+      "shadow": "#00356B",
+      "palette": [
+        {
+          "name": "YALE BLUE",
+          "hex": "#00356B"
+        }
+      ]
+    },
+    "Youngstown State": {
+      "sourceName": "Youngstown State Penguins",
+      "sourceUrl": "https://teamcolorcodes.com/youngstown-state-penguins-color-codes/",
+      "matchMethod": "prefix",
+      "primary": "#C8102E",
+      "secondary": "#F3D54E",
+      "accent": "#C8102E",
+      "shadow": "#F3D54E",
+      "palette": [
+        {
+          "name": "PENGUIN RED",
+          "hex": "#C8102E"
+        },
+        {
+          "name": "PENGUIN YELLOW",
+          "hex": "#F3D54E"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ALLCITY NBA Draft Player Cards</title>
+    <meta
+      name="description"
+      content="Search NBA draft players, adjust missing height and weight values, and export player cards as PNG files."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="masthead">
+        <h1>ALLCITY NBA Draft Player Cards</h1>
+
+        <div class="control-row">
+          <div class="search-stack">
+            <label class="visually-hidden" for="player-search">Search players</label>
+            <div class="search-combobox">
+              <input
+                id="player-search"
+                class="search-combobox__input"
+                type="search"
+                placeholder="Search players"
+                autocomplete="off"
+                spellcheck="false"
+                aria-autocomplete="list"
+                aria-expanded="false"
+                aria-controls="player-results"
+              />
+              <button id="clear-search" class="button button--ghost" type="button" aria-label="Clear search">
+                Clear
+              </button>
+              <button id="export-png" class="button" type="button" disabled>
+                Export PNG
+              </button>
+            </div>
+            <div id="player-results" class="search-results" role="listbox" aria-label="Player matches"></div>
+          </div>
+        </div>
+
+        <div class="override-row">
+          <label class="override-field" for="height-override">
+            <span>Height</span>
+            <input
+              id="height-override"
+              type="text"
+              placeholder="Type height if needed"
+              inputmode="text"
+              spellcheck="false"
+            />
+          </label>
+
+          <label class="override-field" for="weight-override">
+            <span>Weight</span>
+            <input
+              id="weight-override"
+              type="text"
+              placeholder="Type weight if needed"
+              inputmode="numeric"
+              spellcheck="false"
+            />
+          </label>
+        </div>
+
+        <div class="status-row">
+          <p id="search-status" class="search-status" aria-live="polite">Loading players...</p>
+          <a id="open-png" class="button button--ghost button--small is-hidden" href="#" target="_blank" rel="noopener">
+            Open PNG
+          </a>
+        </div>
+      </header>
+
+      <section class="viewer">
+        <div class="card-stage">
+          <div class="player-card" id="player-card">
+            <img
+              id="card-background"
+              class="player-card__background"
+              src="./assets/backgrounds/card.png"
+              alt=""
+            />
+
+            <img id="team-logo" class="player-card__logo is-hidden" src="" alt="" />
+            <div id="team-fallback" class="player-card__logo-fallback is-hidden">TEAM</div>
+
+            <div id="card-name" class="player-card__name">LOADING PLAYER</div>
+            <div id="card-stats" class="player-card__value player-card__value--stats">--/--/--</div>
+            <div id="card-weight" class="player-card__value player-card__value--weight">--</div>
+            <div id="card-height" class="player-card__value player-card__value--height">--</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
