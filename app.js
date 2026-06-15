@@ -3,6 +3,12 @@
 const dataUrl = "./data/players.json";
 const exportWidth = 1080;
 const exportHeight = 1350;
+const transparentCutout = {
+  x: 0,
+  y: 0,
+  width: 586,
+  height: 1350,
+};
 
 const elements = {
   searchInput: document.querySelector("#player-search"),
@@ -613,6 +619,13 @@ async function exportCurrentPlayer() {
 
     const background = await loadImage(elements.cardBackground.src);
     context.drawImage(background, 0, 0, exportWidth, exportHeight);
+    // Keep the left side fully transparent even if a future asset accidentally fills it.
+    context.clearRect(
+      transparentCutout.x,
+      transparentCutout.y,
+      transparentCutout.width,
+      transparentCutout.height,
+    );
 
     if (!elements.teamLogo.classList.contains("is-hidden")) {
       const logoImage = await loadImage(elements.teamLogo.src);
