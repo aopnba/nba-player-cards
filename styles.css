@@ -255,10 +255,10 @@ body {
 
 .player-card__logo,
 .player-card__logo-fallback {
-  top: 6.66667%;
-  left: 67.31481%;
-  width: 20.92593%;
-  height: 11.7037%;
+  top: 9.11111%;
+  left: 68.05556%;
+  width: 18.88889%;
+  height: 9.33333%;
 }
 
 .player-card__logo {
@@ -307,10 +307,10 @@ body {
 .player-card__value {
   color: white;
   font-family: "SidewalkSurf", Impact, sans-serif;
-  font-size: 16.48148cqw;
+  font-size: 12.35278cqw;
   line-height: 0.9;
   white-space: nowrap;
-  text-shadow: 0.33333cqw 0.37037cqw 0 var(--blue);
+  text-shadow: 0.58926cqw 0.58926cqw 0 var(--blue);
 }
 
 .player-card__value--stats {

@@ -36,9 +36,6 @@ const state = {
 
 const FITTING_RULES = [
   { element: elements.cardName, maxPx: 118, minPx: 48 },
-  { element: elements.cardStats, maxPx: 178, minPx: 86 },
-  { element: elements.cardWeight, maxPx: 178, minPx: 86 },
-  { element: elements.cardHeight, maxPx: 178, minPx: 86 },
   { element: elements.teamFallback, maxPx: 68, minPx: 28 },
 ];
 
@@ -627,15 +624,15 @@ async function exportCurrentPlayer() {
     drawTextBlockToCanvas(context, elements.cardName, cardRect, scale, { fill: "#ffffff" });
     drawTextBlockToCanvas(context, elements.cardStats, cardRect, scale, {
       fill: "#ffffff",
-      shadow: { color: "#124fc2", offsetX: 6, offsetY: 6 },
+      shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
     });
     drawTextBlockToCanvas(context, elements.cardWeight, cardRect, scale, {
       fill: "#ffffff",
-      shadow: { color: "#124fc2", offsetX: 6, offsetY: 6 },
+      shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
     });
     drawTextBlockToCanvas(context, elements.cardHeight, cardRect, scale, {
       fill: "#ffffff",
-      shadow: { color: "#124fc2", offsetX: 6, offsetY: 6 },
+      shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
     });
 
     const blob = await new Promise((resolve) => {
