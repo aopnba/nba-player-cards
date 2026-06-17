@@ -228,6 +228,17 @@ function setStatus(message) {
   elements.searchStatus.textContent = message;
 }
 
+function clearExportState() {
+  if (state.lastExportUrl) {
+    URL.revokeObjectURL(state.lastExportUrl);
+    state.lastExportUrl = null;
+  }
+
+  elements.openPngLink.removeAttribute("href");
+  elements.openPngLink.removeAttribute("download");
+  elements.openPngLink.classList.add("is-hidden");
+}
+
 function getDefaultStatus() {
   if (!state.playerCount) {
     return "Loading players...";
@@ -523,6 +534,7 @@ function renderCard() {
     return;
   }
 
+  clearExportState();
   renderMultilineText(elements.cardName, buildBalancedLines(player.fullName, 2));
   elements.cardPosition.textContent = buildPositionDisplay(player);
   elements.cardStats.textContent = buildStatsDisplay(player);
@@ -802,7 +814,10 @@ function bindEvents() {
     setStatus(getDefaultStatus());
   });
 
-  elements.heightOverride.addEventListener("input", renderCard);
+  elements.heightOverride.addEventListener("input", () => {
+    renderCard();
+    setStatus(getDefaultStatus());
+  });
   elements.exportButton.addEventListener("click", exportCurrentPlayer);
 
   document.addEventListener("click", (event) => {
