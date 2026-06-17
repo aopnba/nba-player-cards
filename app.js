@@ -593,6 +593,14 @@ function getCanvasLinesForElement(element) {
   return getTextLinesForElement(element);
 }
 
+function getTextBlockStartY(rect, blockHeight, verticalAlign = "center") {
+  if (verticalAlign === "top") {
+    return rect.y;
+  }
+
+  return rect.y + Math.max((rect.height - blockHeight) / 2, 0);
+}
+
 function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) {
   const style = window.getComputedStyle(element);
   const rect = getScaledRect(element, cardRect, scale);
@@ -600,6 +608,7 @@ function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) 
   const lines = getCanvasLinesForElement(element);
   const textAlign = style.textAlign === "right" ? "right" : "center";
   const textX = textAlign === "right" ? rect.x + rect.width : rect.x + (rect.width / 2);
+  const verticalAlign = options.verticalAlign || "center";
 
   context.save();
   context.font = font;
@@ -607,7 +616,7 @@ function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) 
   context.textBaseline = "top";
 
   const blockHeight = lineHeight * lines.length;
-  let currentY = rect.y + Math.max((rect.height - blockHeight) / 2, 0);
+  let currentY = getTextBlockStartY(rect, blockHeight, verticalAlign);
 
   if (options.shadow) {
     context.fillStyle = options.shadow.color;
@@ -617,7 +626,7 @@ function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) 
       context.fillText(line, textX + offsetX, currentY + offsetY);
       currentY += lineHeight;
     }
-    currentY = rect.y + Math.max((rect.height - blockHeight) / 2, 0);
+    currentY = getTextBlockStartY(rect, blockHeight, verticalAlign);
   }
 
   context.fillStyle = options.fill || style.color;
@@ -736,7 +745,10 @@ async function exportCurrentPlayer() {
       drawTextBlockToCanvas(context, elements.teamFallback, cardRect, scale, { fill: "#ffffff" });
     }
 
-    drawTextBlockToCanvas(context, elements.cardName, cardRect, scale, { fill: "#ffffff" });
+    drawTextBlockToCanvas(context, elements.cardName, cardRect, scale, {
+      fill: "#ffffff",
+      verticalAlign: "top",
+    });
     drawTextBlockToCanvas(context, elements.cardPosition, cardRect, scale, { fill: "#ffffff" });
     drawTextBlockToCanvas(context, elements.cardStats, cardRect, scale, { fill: "#ffffff" });
     drawTextBlockToCanvas(context, elements.cardHeight, cardRect, scale, { fill: "#ffffff" });

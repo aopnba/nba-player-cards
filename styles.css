@@ -301,6 +301,10 @@ body {
   left: 57.88056%;
   width: 39.61204%;
   height: 14.77259%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
   color: white;
   font-family: "BarlowCondensed", Impact, sans-serif;
   font-size: 8.88889cqw;
