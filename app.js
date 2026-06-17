@@ -725,18 +725,9 @@ async function exportCurrentPlayer() {
     }
 
     drawTextBlockToCanvas(context, elements.cardName, cardRect, scale, { fill: "#ffffff" });
-    drawTextBlockToCanvas(context, elements.cardPosition, cardRect, scale, {
-      fill: "#ffffff",
-      shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
-    });
-    drawTextBlockToCanvas(context, elements.cardStats, cardRect, scale, {
-      fill: "#ffffff",
-      shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
-    });
-    drawTextBlockToCanvas(context, elements.cardHeight, cardRect, scale, {
-      fill: "#ffffff",
-      shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
-    });
+    drawTextBlockToCanvas(context, elements.cardPosition, cardRect, scale, { fill: "#ffffff" });
+    drawTextBlockToCanvas(context, elements.cardStats, cardRect, scale, { fill: "#ffffff" });
+    drawTextBlockToCanvas(context, elements.cardHeight, cardRect, scale, { fill: "#ffffff" });
 
     const blob = await new Promise((resolve) => {
       canvas.toBlob(resolve, "image/png");

@@ -320,7 +320,6 @@ body {
   overflow: hidden;
   text-align: center;
   white-space: nowrap;
-  text-shadow: 0.58926cqw 0.58926cqw 0 var(--blue);
 }
 
 .player-card__value--position {
