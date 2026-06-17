@@ -142,7 +142,7 @@ body {
 .override-row {
   display: grid;
   gap: 10px;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   margin-top: 12px;
 }
 
@@ -315,20 +315,22 @@ body {
 .player-card__value {
   color: white;
   font-family: "SidewalkSurf", Impact, sans-serif;
-  font-size: 12.35278cqw;
+  font-size: min(133.41px, 12.35278cqw);
   line-height: 0.9;
+  overflow: hidden;
+  text-align: center;
   white-space: nowrap;
   text-shadow: 0.58926cqw 0.58926cqw 0 var(--blue);
 }
 
-.player-card__value--stats {
+.player-card__value--position {
   top: 38.68%;
   left: 60.76389%;
   width: 32.63704%;
   height: 10.41556%;
 }
 
-.player-card__value--weight {
+.player-card__value--stats {
   top: 56.65926%;
   left: 59.675%;
   width: 34.81389%;

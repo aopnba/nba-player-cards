@@ -6,7 +6,7 @@
     <title>ALLCITY NBA Draft Player Cards</title>
     <meta
       name="description"
-      content="Search NBA draft players, adjust missing height and weight values, and export player cards as PNG files."
+      content="Search NBA draft players, adjust missing height values, and export player cards as PNG files."
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -52,17 +52,6 @@
               spellcheck="false"
             />
           </label>
-
-          <label class="override-field" for="weight-override">
-            <span>Weight</span>
-            <input
-              id="weight-override"
-              type="text"
-              placeholder="Type weight if needed"
-              inputmode="numeric"
-              spellcheck="false"
-            />
-          </label>
         </div>
 
         <div class="status-row">
@@ -87,8 +76,8 @@
             <div id="team-fallback" class="player-card__logo-fallback is-hidden">TEAM</div>
 
             <div id="card-name" class="player-card__name">LOADING PLAYER</div>
+            <div id="card-position" class="player-card__value player-card__value--position">--</div>
             <div id="card-stats" class="player-card__value player-card__value--stats">--/--/--</div>
-            <div id="card-weight" class="player-card__value player-card__value--weight">--</div>
             <div id="card-height" class="player-card__value player-card__value--height">--</div>
           </div>
         </div>

@@ -18,14 +18,13 @@ const elements = {
   results: document.querySelector("#player-results"),
   searchStatus: document.querySelector("#search-status"),
   heightOverride: document.querySelector("#height-override"),
-  weightOverride: document.querySelector("#weight-override"),
   playerCard: document.querySelector("#player-card"),
   cardBackground: document.querySelector("#card-background"),
   teamLogo: document.querySelector("#team-logo"),
   teamFallback: document.querySelector("#team-fallback"),
   cardName: document.querySelector("#card-name"),
+  cardPosition: document.querySelector("#card-position"),
   cardStats: document.querySelector("#card-stats"),
-  cardWeight: document.querySelector("#card-weight"),
   cardHeight: document.querySelector("#card-height"),
 };
 
@@ -39,10 +38,15 @@ const state = {
   logoBoundsCache: new Map(),
   lastExportUrl: null,
 };
+const textMeasureCanvas = document.createElement("canvas");
+const textMeasureContext = textMeasureCanvas.getContext("2d");
 
 const FITTING_RULES = [
   { element: elements.cardName, maxPx: 118, minPx: 48 },
   { element: elements.teamFallback, maxPx: 68, minPx: 28 },
+  { element: elements.cardPosition, maxPx: 133.41, minPx: 72, widthRatio: 0.92 },
+  { element: elements.cardStats, maxPx: 133.41, minPx: 72, widthRatio: 0.92 },
+  { element: elements.cardHeight, maxPx: 133.41, minPx: 72, widthRatio: 0.93 },
 ];
 
 function normalize(text) {
@@ -145,21 +149,68 @@ function getCardScale() {
   return rect.width > 0 ? rect.width / exportWidth : 1;
 }
 
-function hasOverflow(element) {
+function getTextLinesForElement(element) {
+  const explicitLines = String(element.dataset.lines || "")
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+
+  if (explicitLines.length) {
+    return explicitLines;
+  }
+
+  return [String(element.textContent || "").trim()].filter(Boolean);
+}
+
+function measureTextBlock(element) {
+  const style = window.getComputedStyle(element);
+  const lines = getTextLinesForElement(element);
+  const fontSize = parseFloat(style.fontSize);
+  const lineHeight = parseFloat(style.lineHeight) || fontSize;
+
+  textMeasureContext.font = `${style.fontStyle} ${style.fontWeight} ${style.fontSize} ${style.fontFamily}`;
+
+  let maxWidth = 0;
+  let maxAscent = 0;
+  let maxDescent = 0;
+
+  for (const line of lines) {
+    const metrics = textMeasureContext.measureText(line);
+    maxWidth = Math.max(maxWidth, metrics.width);
+    maxAscent = Math.max(maxAscent, metrics.actualBoundingBoxAscent || fontSize);
+    maxDescent = Math.max(maxDescent, metrics.actualBoundingBoxDescent || 0);
+  }
+
+  return {
+    width: maxWidth,
+    height: (lineHeight * Math.max(lines.length - 1, 0)) + maxAscent + maxDescent,
+  };
+}
+
+function isTextBlockTooLarge(element, widthRatio = 1, heightRatio = 1) {
+  const measured = measureTextBlock(element);
   return (
-    element.scrollWidth > element.clientWidth + 1 ||
-    element.scrollHeight > element.clientHeight + 1
+    measured.width > (element.clientWidth * widthRatio) + 1 ||
+    measured.height > (element.clientHeight * heightRatio) + 1
   );
 }
 
-function fitTextBlock(element, maxPx, minPx) {
+function fitTextBlock(rule) {
+  const {
+    element,
+    maxPx,
+    minPx,
+    widthRatio = 1,
+    heightRatio = 1,
+  } = rule;
   const scale = getCardScale();
-  let fontSize = Math.round(maxPx * scale);
-  const minSize = Math.max(Math.round(minPx * scale), 12);
+  let fontSize = maxPx * scale;
+  const minSize = Math.max(minPx * scale, 12);
+  const step = Math.max(scale * 0.25, 0.1);
 
   element.style.fontSize = `${fontSize}px`;
-  while (fontSize > minSize && hasOverflow(element)) {
-    fontSize -= 1;
+  while (fontSize > minSize && isTextBlockTooLarge(element, widthRatio, heightRatio)) {
+    fontSize = Math.max(fontSize - step, minSize);
     element.style.fontSize = `${fontSize}px`;
   }
 }
@@ -169,7 +220,7 @@ function fitCardText() {
     if (rule.element.classList.contains("is-hidden")) {
       continue;
     }
-    fitTextBlock(rule.element, rule.maxPx, rule.minPx);
+    fitTextBlock(rule);
   }
 }
 
@@ -220,39 +271,87 @@ function normalizeHeightOverride(value) {
   return normalizedQuotes.toUpperCase();
 }
 
-function normalizeWeightOverride(value) {
-  const trimmed = String(value || "").trim().toUpperCase();
-  if (!trimmed) {
-    return "";
+function parseHeightToTotalInches(value) {
+  const normalized = normalizeHeightOverride(value);
+  if (!normalized) {
+    return null;
   }
 
-  const digits = trimmed.match(/\d+(?:\.\d+)?/);
-  if (!digits) {
-    return trimmed.replace(/\s+/g, "");
+  const feetInchesMatch = normalized.match(/^(\d+)'(\d+(?:\.\d+)?)"$/);
+  if (feetInchesMatch) {
+    const feet = Number(feetInchesMatch[1]);
+    const inches = Number(feetInchesMatch[2]);
+    if (Number.isFinite(feet) && Number.isFinite(inches)) {
+      return (feet * 12) + inches;
+    }
   }
 
-  const numeric = Number(digits[0]);
-  if (!Number.isFinite(numeric)) {
-    return digits[0];
+  const numericValue = Number(normalized.replace(/"/g, ""));
+  if (Number.isFinite(numericValue) && numericValue > 12) {
+    return numericValue;
   }
 
-  return Number.isInteger(numeric) ? String(numeric) : numeric.toFixed(1).replace(/\.0$/, "");
+  return null;
+}
+
+function roundHeightDisplay(value) {
+  const totalInches = parseHeightToTotalInches(value);
+  if (!Number.isFinite(totalInches)) {
+    return String(value || "").trim().toUpperCase();
+  }
+
+  const roundedInches = Math.ceil(totalInches);
+  const feet = Math.floor(roundedInches / 12);
+  const inches = roundedInches - (feet * 12);
+  return `${feet}'${inches}"`;
+}
+
+function getDefaultHeightInput(player) {
+  const sourceHeight = player.heightInput || player.heightDisplay;
+  const roundedHeight = roundHeightDisplay(sourceHeight);
+  return roundedHeight || "";
+}
+
+function roundStatsDisplay(value) {
+  const parts = String(value || "")
+    .split("/")
+    .map((part) => part.trim());
+
+  if (!parts.length || parts.every((part) => !part)) {
+    return "--/--/--";
+  }
+
+  return parts.map((part) => {
+    if (!part || part === "--") {
+      return "--";
+    }
+
+    const numeric = Number(part);
+    if (!Number.isFinite(numeric)) {
+      return part.toUpperCase();
+    }
+
+    return String(Math.ceil(numeric));
+  }).join("/");
+}
+
+function buildPositionDisplay(player) {
+  const position = String(player.position || "").trim().toUpperCase();
+  return position || "--";
 }
 
 function buildHeightDisplay(player) {
   const override = normalizeHeightOverride(elements.heightOverride.value);
   if (override) {
-    return override;
+    return roundHeightDisplay(override) || "--";
   }
-  return player.heightDisplay || "--";
+
+  const roundedHeight = roundHeightDisplay(player.heightDisplay);
+  return roundedHeight || "--";
 }
 
-function buildWeightDisplay(player) {
-  const override = normalizeWeightOverride(elements.weightOverride.value);
-  if (override) {
-    return `${override}LBS`;
-  }
-  return player.weightDisplay || "--";
+function buildStatsDisplay(player) {
+  return roundStatsDisplay(player.statsDisplay);
 }
 
 function buildSuggestionMarkup(player) {
@@ -425,8 +524,8 @@ function renderCard() {
   }
 
   renderMultilineText(elements.cardName, buildBalancedLines(player.fullName, 2));
-  elements.cardStats.textContent = player.statsDisplay || "--/--/--";
-  elements.cardWeight.textContent = buildWeightDisplay(player);
+  elements.cardPosition.textContent = buildPositionDisplay(player);
+  elements.cardStats.textContent = buildStatsDisplay(player);
   elements.cardHeight.textContent = buildHeightDisplay(player);
 
   fitCardText();
@@ -440,8 +539,7 @@ function selectPlayer(player, updateInput = false) {
     elements.searchInput.value = player.fullName;
   }
 
-  elements.heightOverride.value = player.heightInput || "";
-  elements.weightOverride.value = player.weightInput || "";
+  elements.heightOverride.value = getDefaultHeightInput(player);
 
   renderCard();
   void updateTeamLogo(player);
@@ -480,16 +578,7 @@ function getComputedFont(style, scale) {
 }
 
 function getCanvasLinesForElement(element) {
-  const explicitLines = String(element.dataset.lines || "")
-    .split("\n")
-    .map((line) => line.trim())
-    .filter(Boolean);
-
-  if (explicitLines.length) {
-    return explicitLines;
-  }
-
-  return [String(element.textContent || "").trim()].filter(Boolean);
+  return getTextLinesForElement(element);
 }
 
 function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) {
@@ -497,22 +586,23 @@ function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) 
   const rect = getScaledRect(element, cardRect, scale);
   const { font, lineHeight } = getComputedFont(style, scale);
   const lines = getCanvasLinesForElement(element);
+  const textAlign = style.textAlign === "right" ? "right" : "center";
+  const textX = textAlign === "right" ? rect.x + rect.width : rect.x + (rect.width / 2);
 
   context.save();
   context.font = font;
-  context.textAlign = "center";
+  context.textAlign = textAlign;
   context.textBaseline = "top";
 
   const blockHeight = lineHeight * lines.length;
   let currentY = rect.y + Math.max((rect.height - blockHeight) / 2, 0);
-  const centerX = rect.x + (rect.width / 2);
 
   if (options.shadow) {
     context.fillStyle = options.shadow.color;
     const offsetX = options.shadow.offsetX * scale;
     const offsetY = options.shadow.offsetY * scale;
     for (const line of lines) {
-      context.fillText(line, centerX + offsetX, currentY + offsetY);
+      context.fillText(line, textX + offsetX, currentY + offsetY);
       currentY += lineHeight;
     }
     currentY = rect.y + Math.max((rect.height - blockHeight) / 2, 0);
@@ -520,7 +610,7 @@ function drawTextBlockToCanvas(context, element, cardRect, scale, options = {}) 
 
   context.fillStyle = options.fill || style.color;
   for (const line of lines) {
-    context.fillText(line, centerX, currentY);
+    context.fillText(line, textX, currentY);
     currentY += lineHeight;
   }
 
@@ -635,11 +725,11 @@ async function exportCurrentPlayer() {
     }
 
     drawTextBlockToCanvas(context, elements.cardName, cardRect, scale, { fill: "#ffffff" });
-    drawTextBlockToCanvas(context, elements.cardStats, cardRect, scale, {
+    drawTextBlockToCanvas(context, elements.cardPosition, cardRect, scale, {
       fill: "#ffffff",
       shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
     });
-    drawTextBlockToCanvas(context, elements.cardWeight, cardRect, scale, {
+    drawTextBlockToCanvas(context, elements.cardStats, cardRect, scale, {
       fill: "#ffffff",
       shadow: { color: "#124fc2", offsetX: 6.364, offsetY: 6.364 },
     });
@@ -722,7 +812,6 @@ function bindEvents() {
   });
 
   elements.heightOverride.addEventListener("input", renderCard);
-  elements.weightOverride.addEventListener("input", renderCard);
   elements.exportButton.addEventListener("click", exportCurrentPlayer);
 
   document.addEventListener("click", (event) => {
