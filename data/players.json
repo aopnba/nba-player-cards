@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-16T22:03:05+00:00",
+  "generatedAt": "2026-06-19T18:21:29+00:00",
   "sourceWorkbook": "college_draft.xlsx",
-  "playerCount": 886,
+  "playerCount": 888,
   "players": [
     {
       "id": "aj-dybantsa-byu-1",
@@ -22,9 +22,9 @@
       "team": "Duke",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "23/11/5",
-      "heightDisplay": "6'9\"",
-      "heightInput": "6'9\"",
+      "statsDisplay": "23/10/4",
+      "heightDisplay": "6'8\"",
+      "heightInput": "6'8\"",
       "logoAsset": "./assets/logos/Duke.png"
     },
     {
@@ -34,7 +34,7 @@
       "team": "Arkansas",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "24/4/7",
+      "statsDisplay": "23/3/6",
       "heightDisplay": "6'2\"",
       "heightInput": "6'2\"",
       "logoAsset": "./assets/logos/Arkansas.png"
@@ -46,7 +46,7 @@
       "team": "California Baptist",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "24/4/4",
+      "statsDisplay": "23/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -58,7 +58,7 @@
       "team": "Northwestern",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "23/7/2",
+      "statsDisplay": "23/6/2",
       "heightDisplay": "6'7\"",
       "heightInput": "6'7\"",
       "logoAsset": null
@@ -70,7 +70,7 @@
       "team": "Wake Forest",
       "position": "G-F",
       "playerClass": "SO",
-      "statsDisplay": "22/7/2",
+      "statsDisplay": "21/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -82,7 +82,7 @@
       "team": "Prairie View A&M",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "21/5/3",
+      "statsDisplay": "20/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -94,7 +94,7 @@
       "team": "Iowa",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/3/5",
+      "statsDisplay": "20/3/4",
       "heightDisplay": "6'3\"",
       "heightInput": "6'3\"",
       "logoAsset": "./assets/logos/Iowa.png"
@@ -106,7 +106,7 @@
       "team": "Wisconsin",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "21/4/5",
+      "statsDisplay": "21/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -130,7 +130,7 @@
       "team": "Kansas State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "24/6/4",
+      "statsDisplay": "23/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -142,7 +142,7 @@
       "team": "UNLV",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "21/4/3",
+      "statsDisplay": "21/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -154,9 +154,9 @@
       "team": "Stanford",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "24/4/4",
-      "heightDisplay": "6'2\"",
-      "heightInput": "6'2\"",
+      "statsDisplay": "23/4/4",
+      "heightDisplay": "6'1\"",
+      "heightInput": "6'1\"",
       "logoAsset": "./assets/logos/Stanford.png"
     },
     {
@@ -166,7 +166,7 @@
       "team": "Lehigh",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "21/4/4",
+      "statsDisplay": "21/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -178,7 +178,7 @@
       "team": "Central Arkansas",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "21/5/3",
+      "statsDisplay": "21/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -190,7 +190,7 @@
       "team": "East Carolina",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "24/7/3",
+      "statsDisplay": "24/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -202,7 +202,7 @@
       "team": "Mississippi State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "23/3/4",
+      "statsDisplay": "22/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -214,7 +214,7 @@
       "team": "Hofstra",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "21/4/5",
+      "statsDisplay": "20/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -226,7 +226,7 @@
       "team": "Vanderbilt",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "20/4/6",
+      "statsDisplay": "20/4/5",
       "heightDisplay": "5'11\"",
       "heightInput": "5'11\"",
       "logoAsset": null
@@ -238,7 +238,7 @@
       "team": "Montana",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "21/5/5",
+      "statsDisplay": "21/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -250,7 +250,7 @@
       "team": "Auburn",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/8/3",
+      "statsDisplay": "19/7/3",
       "heightDisplay": "6'6\"",
       "heightInput": "6'6\"",
       "logoAsset": null
@@ -262,7 +262,7 @@
       "team": "Wichita State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/3/2",
+      "statsDisplay": "19/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -274,7 +274,7 @@
       "team": "Akron",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/3/6",
+      "statsDisplay": "20/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -286,7 +286,7 @@
       "team": "Mississippi Valley State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "22/4/3",
+      "statsDisplay": "21/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -298,7 +298,7 @@
       "team": "Tennessee",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/3/6",
+      "statsDisplay": "18/3/5",
       "heightDisplay": "6'0\"",
       "heightInput": "6'0\"",
       "logoAsset": "./assets/logos/Tennessee.png"
@@ -310,7 +310,7 @@
       "team": "Ohio State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/6/4",
+      "statsDisplay": "20/5/4",
       "heightDisplay": "6'0\"",
       "heightInput": "6'0\"",
       "logoAsset": null
@@ -322,7 +322,7 @@
       "team": "St. Thomas",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "20/5/5",
+      "statsDisplay": "20/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -335,8 +335,8 @@
       "position": "G",
       "playerClass": "SR",
       "statsDisplay": "19/5/3",
-      "heightDisplay": "6'5\"",
-      "heightInput": "6'5\"",
+      "heightDisplay": "6'4\"",
+      "heightInput": "6'4\"",
       "logoAsset": "./assets/logos/Kentucky.png"
     },
     {
@@ -346,7 +346,7 @@
       "team": "Southern Mississippi",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "20/6/3",
+      "statsDisplay": "20/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -358,7 +358,7 @@
       "team": "North Florida",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "21/4/5",
+      "statsDisplay": "21/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -370,7 +370,7 @@
       "team": "Drake",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/5/3",
+      "statsDisplay": "20/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -382,7 +382,7 @@
       "team": "Indiana",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "21/4/3",
+      "statsDisplay": "21/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -394,7 +394,7 @@
       "team": "Illinois",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "18/6/5",
+      "statsDisplay": "18/5/4",
       "heightDisplay": "6'5\"",
       "heightInput": "6'5\"",
       "logoAsset": "./assets/logos/Illinois.png"
@@ -406,7 +406,7 @@
       "team": "Miami (FL)",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "19/7/3",
+      "statsDisplay": "19/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -418,7 +418,7 @@
       "team": "West Georgia",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "21/10/2",
+      "statsDisplay": "21/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -430,7 +430,7 @@
       "team": "Purdue Fort Wayne",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "21/4/4",
+      "statsDisplay": "20/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -442,7 +442,7 @@
       "team": "Jackson State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "24/3/6",
+      "statsDisplay": "23/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -454,7 +454,7 @@
       "team": "Cal Poly",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "21/7/2",
+      "statsDisplay": "20/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -466,7 +466,7 @@
       "team": "Bellarmine",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "22/5/2",
+      "statsDisplay": "22/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -478,9 +478,9 @@
       "team": "Wisconsin",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "20/6/3",
-      "heightDisplay": "6'4\"",
-      "heightInput": "6'4\"",
+      "statsDisplay": "19/5/2",
+      "heightDisplay": "6'3\"",
+      "heightInput": "6'3\"",
       "logoAsset": null
     },
     {
@@ -490,7 +490,7 @@
       "team": "Samford",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "22/4/3",
+      "statsDisplay": "22/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -502,7 +502,7 @@
       "team": "Campbell",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/4/3",
+      "statsDisplay": "19/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -526,7 +526,7 @@
       "team": "Denver",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "21/2/3",
+      "statsDisplay": "20/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -550,7 +550,7 @@
       "team": "Utah",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "20/3/4",
+      "statsDisplay": "20/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -562,7 +562,7 @@
       "team": "Nebraska",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "19/5/2",
+      "statsDisplay": "18/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -574,7 +574,7 @@
       "team": "South Alabama",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/5/5",
+      "statsDisplay": "19/5/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -586,7 +586,7 @@
       "team": "Elon",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "20/7/2",
+      "statsDisplay": "20/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -598,7 +598,7 @@
       "team": "Brigham Young",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "19/4/5",
+      "statsDisplay": "18/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/BYU.png"
@@ -610,7 +610,7 @@
       "team": "Tulane",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "20/5/4",
+      "statsDisplay": "19/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -634,7 +634,7 @@
       "team": "Utah State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/3/2",
+      "statsDisplay": "18/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -646,7 +646,7 @@
       "team": "Siena",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/7/3",
+      "statsDisplay": "18/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -658,7 +658,7 @@
       "team": "Stephen F. Austin",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/5",
+      "statsDisplay": "19/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -670,7 +670,7 @@
       "team": "SMU",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "20/4/7",
+      "statsDisplay": "19/4/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -682,7 +682,7 @@
       "team": "Minnesota",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "20/6/3",
+      "statsDisplay": "20/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -694,7 +694,7 @@
       "team": "Merrimack",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "19/5/5",
+      "statsDisplay": "18/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -706,7 +706,7 @@
       "team": "Arizona",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "16/5/2",
       "heightDisplay": "6'4\"",
       "heightInput": "6'4\"",
       "logoAsset": "./assets/logos/Arizona.png"
@@ -718,7 +718,7 @@
       "team": "Jacksonville State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/8/2",
+      "statsDisplay": "20/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -730,7 +730,7 @@
       "team": "Iowa State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "17/4/2",
+      "statsDisplay": "17/3/1",
       "heightDisplay": "6'8\"",
       "heightInput": "6'8\"",
       "logoAsset": null
@@ -742,7 +742,7 @@
       "team": "Texas",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "18/8/4",
+      "statsDisplay": "17/8/4",
       "heightDisplay": "6'7\"",
       "heightInput": "6'7\"",
       "logoAsset": "./assets/logos/Texas.png"
@@ -766,7 +766,7 @@
       "team": "Central Connecticut State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "21/6/2",
+      "statsDisplay": "21/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -778,7 +778,7 @@
       "team": "Oklahoma",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/4/4",
+      "statsDisplay": "17/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -790,7 +790,7 @@
       "team": "Gonzaga",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "20/9/3",
+      "statsDisplay": "20/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -802,7 +802,7 @@
       "team": "Navy",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/5",
+      "statsDisplay": "18/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -814,7 +814,7 @@
       "team": "Mercer",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "20/4/6",
+      "statsDisplay": "20/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -826,7 +826,7 @@
       "team": "Texas Tech",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "19/4/8",
+      "statsDisplay": "19/4/7",
       "heightDisplay": "6'1\"",
       "heightInput": "6'1\"",
       "logoAsset": "./assets/logos/TexasTech.png"
@@ -838,7 +838,7 @@
       "team": "UNC Greensboro",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/12/3",
+      "statsDisplay": "18/12/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -850,7 +850,7 @@
       "team": "UNC Asheville",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "19/6/4",
+      "statsDisplay": "19/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -862,7 +862,7 @@
       "team": "St. Mary's (CA)",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "19/8/3",
+      "statsDisplay": "18/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -874,7 +874,7 @@
       "team": "New Mexico",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/4/2",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/NewMexico.png"
@@ -886,7 +886,7 @@
       "team": "Providence",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/2",
+      "statsDisplay": "18/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -898,7 +898,7 @@
       "team": "Missouri",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "19/6/4",
+      "statsDisplay": "18/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -911,8 +911,8 @@
       "position": "G",
       "playerClass": "FR",
       "statsDisplay": "18/6/2",
-      "heightDisplay": "6'5\"",
-      "heightInput": "6'5\"",
+      "heightDisplay": "6'4\"",
+      "heightInput": "6'4\"",
       "logoAsset": "./assets/logos/Baylor.png"
     },
     {
@@ -922,7 +922,7 @@
       "team": "Howard",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/7/3",
+      "statsDisplay": "17/7/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -934,7 +934,7 @@
       "team": "St. John's (NY)",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/8/4",
+      "statsDisplay": "16/7/4",
       "heightDisplay": "6'8\"",
       "heightInput": "6'8\"",
       "logoAsset": null
@@ -946,7 +946,7 @@
       "team": "Buffalo",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "19/4/4",
+      "statsDisplay": "19/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -958,7 +958,7 @@
       "team": "Michigan",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/7/4",
+      "statsDisplay": "15/7/3",
       "heightDisplay": "6'9\"",
       "heightInput": "6'9\"",
       "logoAsset": "./assets/logos/Michigan.png"
@@ -970,7 +970,7 @@
       "team": "Kent State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/12/2",
+      "statsDisplay": "18/11/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -982,7 +982,7 @@
       "team": "SMU",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/5/3",
+      "statsDisplay": "18/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -994,7 +994,7 @@
       "team": "Mercyhurst",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/3",
+      "statsDisplay": "18/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1006,7 +1006,7 @@
       "team": "Bowling Green",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/6",
+      "statsDisplay": "19/5/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1018,7 +1018,7 @@
       "team": "Massachusetts",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "19/8/3",
+      "statsDisplay": "18/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1030,7 +1030,7 @@
       "team": "Georgia Southern",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "16/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1042,7 +1042,7 @@
       "team": "Houston",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/5/6",
+      "statsDisplay": "16/4/5",
       "heightDisplay": "6'3\"",
       "heightInput": "6'3\"",
       "logoAsset": "./assets/logos/Houston.png"
@@ -1054,7 +1054,7 @@
       "team": "McNeese State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/6/2",
+      "statsDisplay": "17/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1066,7 +1066,7 @@
       "team": "San Jose State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "21/4/5",
+      "statsDisplay": "20/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1078,7 +1078,7 @@
       "team": "Louisiana\u2013Monroe",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "19/5/4",
+      "statsDisplay": "18/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1090,7 +1090,7 @@
       "team": "North Dakota",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "17/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1102,7 +1102,7 @@
       "team": "Eastern Washington",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/3/5",
+      "statsDisplay": "18/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1114,7 +1114,7 @@
       "team": "Missouri State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/7/4",
+      "statsDisplay": "17/6/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1126,7 +1126,7 @@
       "team": "Dayton",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/3/3",
+      "statsDisplay": "16/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1138,7 +1138,7 @@
       "team": "Auburn",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/3/4",
+      "statsDisplay": "15/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1150,7 +1150,7 @@
       "team": "Tennessee State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/6/4",
+      "statsDisplay": "18/5/3",
       "heightDisplay": "6'5\"",
       "heightInput": "6'5\"",
       "logoAsset": null
@@ -1162,7 +1162,7 @@
       "team": "Fairfield",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/3",
+      "statsDisplay": "17/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1174,7 +1174,7 @@
       "team": "Radford",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "19/6/2",
+      "statsDisplay": "18/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1186,7 +1186,7 @@
       "team": "Winthrop",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "19/9/2",
+      "statsDisplay": "18/9/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1198,7 +1198,7 @@
       "team": "Tennessee",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "17/7/3",
+      "statsDisplay": "17/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Tennessee.png"
@@ -1222,7 +1222,7 @@
       "team": "Stony Brook",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/5/4",
+      "statsDisplay": "19/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1234,7 +1234,7 @@
       "team": "Florida",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "18/7/3",
+      "statsDisplay": "17/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Florida.png"
@@ -1246,7 +1246,7 @@
       "team": "UC Riverside",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/3",
+      "statsDisplay": "18/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1258,7 +1258,7 @@
       "team": "Arkansas",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "16/4/3",
+      "statsDisplay": "16/4/2",
       "heightDisplay": "6'3\"",
       "heightInput": "6'3\"",
       "logoAsset": "./assets/logos/Arkansas.png"
@@ -1270,7 +1270,7 @@
       "team": "West Virginia",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "17/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1282,7 +1282,7 @@
       "team": "Rutgers",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "17/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1306,7 +1306,7 @@
       "team": "California",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "17/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1318,7 +1318,7 @@
       "team": "Utah State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/6/4",
+      "statsDisplay": "16/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1330,7 +1330,7 @@
       "team": "Boston University",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/6/3",
+      "statsDisplay": "17/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1342,7 +1342,7 @@
       "team": "Northern Colorado",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "20/6/8",
+      "statsDisplay": "19/5/7",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1354,7 +1354,7 @@
       "team": "Liberty",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "17/3/2",
+      "statsDisplay": "17/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1366,7 +1366,7 @@
       "team": "Iowa State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/8/5",
+      "statsDisplay": "16/7/5",
       "heightDisplay": "6'8\"",
       "heightInput": "6'8\"",
       "logoAsset": null
@@ -1390,7 +1390,7 @@
       "team": "High Point",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/7/2",
+      "statsDisplay": "16/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1402,7 +1402,7 @@
       "team": "Miami (FL)",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/4/6",
+      "statsDisplay": "16/4/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1438,7 +1438,7 @@
       "team": "Houston",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/3/2",
+      "statsDisplay": "15/3/2",
       "heightDisplay": "6'3\"",
       "heightInput": "6'3\"",
       "logoAsset": "./assets/logos/Houston.png"
@@ -1462,7 +1462,7 @@
       "team": "North Texas",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/4/2",
+      "statsDisplay": "17/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1474,7 +1474,7 @@
       "team": "Portland State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "20/6/4",
+      "statsDisplay": "19/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1486,7 +1486,7 @@
       "team": "Duke",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "15/3/1",
       "heightDisplay": "6'6\"",
       "heightInput": "6'6\"",
       "logoAsset": "./assets/logos/Duke.png"
@@ -1498,7 +1498,7 @@
       "team": "New Mexico State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/5/3",
+      "statsDisplay": "18/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1522,7 +1522,7 @@
       "team": "Oklahoma",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/4/4",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1534,7 +1534,7 @@
       "team": "Oral Roberts",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/3/3",
+      "statsDisplay": "18/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1546,7 +1546,7 @@
       "team": "Tulsa",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/5",
+      "statsDisplay": "15/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1570,7 +1570,7 @@
       "team": "Towson",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/6/3",
+      "statsDisplay": "18/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1594,7 +1594,7 @@
       "team": "VMI",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "19/8/2",
+      "statsDisplay": "18/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1606,7 +1606,7 @@
       "team": "Arkansas\u2013Pine Bluff",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/9/6",
+      "statsDisplay": "18/8/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1618,7 +1618,7 @@
       "team": "Tennessee State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/5/2",
+      "statsDisplay": "17/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1642,7 +1642,7 @@
       "team": "Bethune-Cookman",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/2",
+      "statsDisplay": "18/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1654,7 +1654,7 @@
       "team": "Portland State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/6",
+      "statsDisplay": "18/4/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1666,7 +1666,7 @@
       "team": "Hofstra",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/4/5",
+      "statsDisplay": "16/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1678,7 +1678,7 @@
       "team": "Temple",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/2",
+      "statsDisplay": "18/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1690,7 +1690,7 @@
       "team": "Weber State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/3/5",
+      "statsDisplay": "18/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1702,7 +1702,7 @@
       "team": "Texas",
       "position": "C",
       "playerClass": "SO",
-      "statsDisplay": "16/8/1",
+      "statsDisplay": "16/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Texas.png"
@@ -1714,7 +1714,7 @@
       "team": "Virginia",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "16/7/2",
+      "statsDisplay": "16/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1726,7 +1726,7 @@
       "team": "Florida International",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/7/2",
+      "statsDisplay": "18/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1750,7 +1750,7 @@
       "team": "Toledo",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/5/5",
+      "statsDisplay": "16/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1762,7 +1762,7 @@
       "team": "Lindenwood",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/6/2",
+      "statsDisplay": "17/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1774,9 +1774,9 @@
       "team": "Purdue",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/9",
-      "heightDisplay": "5'11\"",
-      "heightInput": "5'11\"",
+      "statsDisplay": "14/4/9",
+      "heightDisplay": "5'10\"",
+      "heightInput": "5'10\"",
       "logoAsset": null
     },
     {
@@ -1786,7 +1786,7 @@
       "team": "Youngstown State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/6/2",
+      "statsDisplay": "17/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1798,7 +1798,7 @@
       "team": "Incarnate Word",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/4/3",
+      "statsDisplay": "19/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1822,7 +1822,7 @@
       "team": "St. Bonaventure",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/2/3",
+      "statsDisplay": "16/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1835,8 +1835,8 @@
       "position": "F",
       "playerClass": "FR",
       "statsDisplay": "19/12/2",
-      "heightDisplay": "6'11\"",
-      "heightInput": "6'11\"",
+      "heightDisplay": "6'10\"",
+      "heightInput": "6'10\"",
       "logoAsset": "./assets/logos/Washington.png"
     },
     {
@@ -1846,7 +1846,7 @@
       "team": "Colgate",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/6/6",
+      "statsDisplay": "18/5/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1858,7 +1858,7 @@
       "team": "St. Bonaventure",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/11/3",
+      "statsDisplay": "16/10/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1870,7 +1870,7 @@
       "team": "Southern",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/6",
+      "statsDisplay": "17/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1882,7 +1882,7 @@
       "team": "Albany (NY)",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/4/5",
+      "statsDisplay": "18/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1894,7 +1894,7 @@
       "team": "Fordham",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/5/4",
+      "statsDisplay": "18/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1906,7 +1906,7 @@
       "team": "IU Indy",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "19/4/4",
+      "statsDisplay": "18/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1918,7 +1918,7 @@
       "team": "Tulsa",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/2",
+      "statsDisplay": "15/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1930,7 +1930,7 @@
       "team": "Radford",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/4/4",
+      "statsDisplay": "17/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1954,7 +1954,7 @@
       "team": "LIU",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/6/3",
+      "statsDisplay": "16/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1966,7 +1966,7 @@
       "team": "Wofford",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/6/3",
+      "statsDisplay": "17/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -1990,7 +1990,7 @@
       "team": "South Carolina",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/5",
+      "statsDisplay": "17/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2014,7 +2014,7 @@
       "team": "St. Thomas",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "17/6/3",
+      "statsDisplay": "16/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2026,7 +2026,7 @@
       "team": "Norfolk State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/5/2",
+      "statsDisplay": "17/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2038,7 +2038,7 @@
       "team": "Purdue",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/3/3",
+      "statsDisplay": "14/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2050,7 +2050,7 @@
       "team": "North Carolina A&T",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "19/6/2",
+      "statsDisplay": "19/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2062,9 +2062,9 @@
       "team": "UCLA",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/6/2",
-      "heightDisplay": "6'8\"",
-      "heightInput": "6'8\"",
+      "statsDisplay": "18/6/1",
+      "heightDisplay": "6'7\"",
+      "heightInput": "6'7\"",
       "logoAsset": null
     },
     {
@@ -2074,7 +2074,7 @@
       "team": "Texas Tech",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "22/11/3",
+      "statsDisplay": "22/11/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/TexasTech.png"
@@ -2086,7 +2086,7 @@
       "team": "UNC Asheville",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/3",
+      "statsDisplay": "17/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2098,7 +2098,7 @@
       "team": "Sacramento State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/8/4",
+      "statsDisplay": "18/7/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2110,7 +2110,7 @@
       "team": "Austin Peay",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/7/4",
+      "statsDisplay": "18/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2134,7 +2134,7 @@
       "team": "Ole Miss",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2158,7 +2158,7 @@
       "team": "Murray State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "16/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2170,7 +2170,7 @@
       "team": "Merrimack",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/4/1",
+      "statsDisplay": "16/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2182,7 +2182,7 @@
       "team": "Long Beach State",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "20/3/2",
+      "statsDisplay": "19/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2194,7 +2194,7 @@
       "team": "UNC Asheville",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/8/2",
+      "statsDisplay": "17/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2206,7 +2206,7 @@
       "team": "Cal State Northridge",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/5/8",
+      "statsDisplay": "16/5/7",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2218,7 +2218,7 @@
       "team": "Arizona State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/4/6",
+      "statsDisplay": "16/3/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2242,9 +2242,9 @@
       "team": "South Florida",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/10/2",
-      "heightDisplay": "6'9\"",
-      "heightInput": "6'9\"",
+      "statsDisplay": "16/10/1",
+      "heightDisplay": "6'8\"",
+      "heightInput": "6'8\"",
       "logoAsset": null
     },
     {
@@ -2254,7 +2254,7 @@
       "team": "Georgia",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/3/2",
+      "statsDisplay": "17/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2266,7 +2266,7 @@
       "team": "Northern Kentucky",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/4/3",
+      "statsDisplay": "16/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2278,7 +2278,7 @@
       "team": "Florida State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/4/7",
+      "statsDisplay": "16/4/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2302,7 +2302,7 @@
       "team": "Monmouth",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/9/3",
+      "statsDisplay": "16/8/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2314,7 +2314,7 @@
       "team": "Ohio",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/6",
+      "statsDisplay": "17/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2350,7 +2350,7 @@
       "team": "Auburn",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/2",
+      "statsDisplay": "14/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2362,7 +2362,7 @@
       "team": "Incarnate Word",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/5",
+      "statsDisplay": "17/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2374,7 +2374,7 @@
       "team": "Bucknell",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "17/5/2",
+      "statsDisplay": "16/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2386,7 +2386,7 @@
       "team": "New Orleans",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/2",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2398,7 +2398,7 @@
       "team": "Lehigh",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "16/8/3",
+      "statsDisplay": "15/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2410,7 +2410,7 @@
       "team": "Michigan State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/3/10",
+      "statsDisplay": "15/2/9",
       "heightDisplay": "6'0\"",
       "heightInput": "6'0\"",
       "logoAsset": null
@@ -2422,7 +2422,7 @@
       "team": "Santa Clara",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/3/3",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/SantaClara.png"
@@ -2446,7 +2446,7 @@
       "team": "Butler",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/3/3",
+      "statsDisplay": "17/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2458,7 +2458,7 @@
       "team": "Duquesne",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/4/5",
+      "statsDisplay": "17/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2470,7 +2470,7 @@
       "team": "Portland",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "16/5/7",
+      "statsDisplay": "16/4/7",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2482,9 +2482,9 @@
       "team": "North Carolina",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/9/3",
-      "heightDisplay": "7'0\"",
-      "heightInput": "7'0\"",
+      "statsDisplay": "17/9/2",
+      "heightDisplay": "6'11\"",
+      "heightInput": "6'11\"",
       "logoAsset": "./assets/logos/UNC.png"
     },
     {
@@ -2494,7 +2494,7 @@
       "team": "Presbyterian",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/10/2",
+      "statsDisplay": "16/10/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2506,7 +2506,7 @@
       "team": "Connecticut",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "13/5/2",
       "heightDisplay": "6'7\"",
       "heightInput": "6'7\"",
       "logoAsset": "./assets/logos/UConn.png"
@@ -2518,7 +2518,7 @@
       "team": "Butler",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/12/4",
+      "statsDisplay": "16/11/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2530,7 +2530,7 @@
       "team": "Marquette",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/4/5",
+      "statsDisplay": "16/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2542,7 +2542,7 @@
       "team": "Washington State",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2554,7 +2554,7 @@
       "team": "Chattanooga",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/4/5",
+      "statsDisplay": "16/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2566,7 +2566,7 @@
       "team": "South Florida",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/4/3",
+      "statsDisplay": "16/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2578,7 +2578,7 @@
       "team": "Oklahoma State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/5/2",
+      "statsDisplay": "17/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2590,7 +2590,7 @@
       "team": "UC Riverside",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "16/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2602,7 +2602,7 @@
       "team": "Michigan",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "14/8/2",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Michigan.png"
@@ -2614,7 +2614,7 @@
       "team": "Purdue",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/9/3",
+      "statsDisplay": "14/8/3",
       "heightDisplay": "6'8\"",
       "heightInput": "6'8\"",
       "logoAsset": null
@@ -2626,7 +2626,7 @@
       "team": "Morgan State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/2",
+      "statsDisplay": "17/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2638,7 +2638,7 @@
       "team": "Akron",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/8/3",
+      "statsDisplay": "15/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2650,7 +2650,7 @@
       "team": "Abilene Christian",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/5/2",
+      "statsDisplay": "16/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2662,7 +2662,7 @@
       "team": "Washington",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/5",
+      "statsDisplay": "16/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Washington.png"
@@ -2674,7 +2674,7 @@
       "team": "South Alabama",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "17/5/1",
+      "statsDisplay": "17/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2686,7 +2686,7 @@
       "team": "Delaware",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "17/6/6",
+      "statsDisplay": "17/5/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2698,7 +2698,7 @@
       "team": "Arizona",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/5",
+      "statsDisplay": "13/3/4",
       "heightDisplay": "6'3\"",
       "heightInput": "6'3\"",
       "logoAsset": "./assets/logos/Arizona.png"
@@ -2722,7 +2722,7 @@
       "team": "Navy",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "16/11/3",
+      "statsDisplay": "15/11/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2734,7 +2734,7 @@
       "team": "Campbell",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2746,7 +2746,7 @@
       "team": "Stephen F. Austin",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "15/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2758,7 +2758,7 @@
       "team": "Samford",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "18/9/2",
+      "statsDisplay": "17/9/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2770,7 +2770,7 @@
       "team": "UNC Greensboro",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "16/5/2",
+      "statsDisplay": "15/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2782,7 +2782,7 @@
       "team": "Connecticut",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/9/3",
+      "statsDisplay": "15/9/2",
       "heightDisplay": "6'10\"",
       "heightInput": "6'10\"",
       "logoAsset": "./assets/logos/UConn.png"
@@ -2794,7 +2794,7 @@
       "team": "James Madison",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2806,7 +2806,7 @@
       "team": "North Carolina Central",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "17/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2818,7 +2818,7 @@
       "team": "Florida",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "16/8/4",
+      "statsDisplay": "15/7/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Florida.png"
@@ -2830,7 +2830,7 @@
       "team": "Prairie View A&M",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/3/1",
+      "statsDisplay": "18/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2842,7 +2842,7 @@
       "team": "Vermont",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "15/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2854,7 +2854,7 @@
       "team": "Cornell",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/4/2",
+      "statsDisplay": "18/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2866,7 +2866,7 @@
       "team": "Fresno State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "17/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2878,7 +2878,7 @@
       "team": "Arizona",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "15/6/3",
+      "statsDisplay": "14/6/3",
       "heightDisplay": "6'7\"",
       "heightInput": "6'7\"",
       "logoAsset": "./assets/logos/Arizona.png"
@@ -2902,7 +2902,7 @@
       "team": "Old Dominion",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/5/3",
+      "statsDisplay": "15/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2926,7 +2926,7 @@
       "team": "Georgia Southern",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "14/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2950,7 +2950,7 @@
       "team": "St. John's (NY)",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/7/2",
+      "statsDisplay": "14/6/2",
       "heightDisplay": "6'6\"",
       "heightInput": "6'6\"",
       "logoAsset": null
@@ -2962,7 +2962,7 @@
       "team": "Austin Peay",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "17/7/2",
+      "statsDisplay": "16/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2974,7 +2974,7 @@
       "team": "Northern Colorado",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/7/3",
+      "statsDisplay": "16/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2986,7 +2986,7 @@
       "team": "Robert Morris",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "16/9/2",
+      "statsDisplay": "15/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -2998,7 +2998,7 @@
       "team": "West Georgia",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "16/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3010,7 +3010,7 @@
       "team": "Texas",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Texas.png"
@@ -3022,7 +3022,7 @@
       "team": "Little Rock",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/5/5",
+      "statsDisplay": "16/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3034,7 +3034,7 @@
       "team": "Marshall",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/5/6",
+      "statsDisplay": "16/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3046,7 +3046,7 @@
       "team": "Connecticut",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/UConn.png"
@@ -3058,7 +3058,7 @@
       "team": "Marshall",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/6/2",
+      "statsDisplay": "16/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3070,7 +3070,7 @@
       "team": "Texas State",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "16/8/3",
+      "statsDisplay": "16/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3094,7 +3094,7 @@
       "team": "Coastal Carolina",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/6/3",
+      "statsDisplay": "16/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3106,7 +3106,7 @@
       "team": "Lafayette",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/4",
+      "statsDisplay": "16/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3118,7 +3118,7 @@
       "team": "Vermont",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "17/6/3",
+      "statsDisplay": "16/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3130,7 +3130,7 @@
       "team": "Boston University",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "16/7/2",
+      "statsDisplay": "15/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3154,7 +3154,7 @@
       "team": "Texas A&M",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/9/3",
+      "statsDisplay": "15/9/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3178,7 +3178,7 @@
       "team": "Arkansas\u2013Pine Bluff",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/8/2",
+      "statsDisplay": "16/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3190,7 +3190,7 @@
       "team": "Duquesne",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/5/3",
+      "statsDisplay": "15/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3202,7 +3202,7 @@
       "team": "South Florida",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3214,7 +3214,7 @@
       "team": "Lamar",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/4/2",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3226,7 +3226,7 @@
       "team": "Cal State Bakersfield",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/1",
+      "statsDisplay": "17/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3238,7 +3238,7 @@
       "team": "Saint Joseph's",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/6/6",
+      "statsDisplay": "14/5/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3250,7 +3250,7 @@
       "team": "Towson",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/3/4",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3262,7 +3262,7 @@
       "team": "UAB",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/4/6",
+      "statsDisplay": "15/4/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3274,7 +3274,7 @@
       "team": "Stetson",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3286,7 +3286,7 @@
       "team": "Northern Kentucky",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/8/3",
+      "statsDisplay": "15/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3310,7 +3310,7 @@
       "team": "Illinois",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "14/9/3",
+      "statsDisplay": "13/8/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Illinois.png"
@@ -3322,7 +3322,7 @@
       "team": "Santa Clara",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/5/3",
+      "statsDisplay": "14/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/SantaClara.png"
@@ -3334,7 +3334,7 @@
       "team": "Cal State Fullerton",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/5/4",
+      "statsDisplay": "15/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3346,7 +3346,7 @@
       "team": "Kennesaw State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/4",
+      "statsDisplay": "15/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3358,7 +3358,7 @@
       "team": "Alabama A&M",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/6/1",
+      "statsDisplay": "15/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3370,7 +3370,7 @@
       "team": "Pennsylvania",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "17/8/3",
+      "statsDisplay": "16/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3382,7 +3382,7 @@
       "team": "Rhode Island",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/7/2",
+      "statsDisplay": "15/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3394,7 +3394,7 @@
       "team": "Temple",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3406,7 +3406,7 @@
       "team": "Loyola (MD)",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/5/4",
+      "statsDisplay": "15/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3418,7 +3418,7 @@
       "team": "LIU",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/4",
+      "statsDisplay": "14/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3430,7 +3430,7 @@
       "team": "Louisiana\u2013Monroe",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3454,7 +3454,7 @@
       "team": "Providence",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "16/3/4",
+      "statsDisplay": "16/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3466,7 +3466,7 @@
       "team": "Troy",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "15/11/3",
+      "statsDisplay": "14/10/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3478,7 +3478,7 @@
       "team": "Boston College",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/5/3",
+      "statsDisplay": "16/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3490,7 +3490,7 @@
       "team": "LIU",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "14/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3502,7 +3502,7 @@
       "team": "Manhattan",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/4/4",
+      "statsDisplay": "15/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3514,7 +3514,7 @@
       "team": "Pepperdine",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/4/3",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3526,7 +3526,7 @@
       "team": "Colgate",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "15/7/3",
+      "statsDisplay": "15/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3538,7 +3538,7 @@
       "team": "Prairie View A&M",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/8/3",
+      "statsDisplay": "13/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3562,7 +3562,7 @@
       "team": "Old Dominion",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "17/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3574,7 +3574,7 @@
       "team": "Yale",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/8/5",
+      "statsDisplay": "16/7/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3586,7 +3586,7 @@
       "team": "Troy",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "15/4/5",
+      "statsDisplay": "15/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3598,7 +3598,7 @@
       "team": "Miami (OH)",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/5/5",
+      "statsDisplay": "15/5/4",
       "heightDisplay": "6'4\"",
       "heightInput": "6'4\"",
       "logoAsset": null
@@ -3610,7 +3610,7 @@
       "team": "Ohio State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/3/3",
+      "statsDisplay": "16/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3622,7 +3622,7 @@
       "team": "Appalachian State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/5/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3634,7 +3634,7 @@
       "team": "Louisiana State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/3/3",
+      "statsDisplay": "16/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3646,7 +3646,7 @@
       "team": "Harvard",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "17/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3658,7 +3658,7 @@
       "team": "Vanderbilt",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "14/3/1",
       "heightDisplay": "6'6\"",
       "heightInput": "6'6\"",
       "logoAsset": null
@@ -3670,7 +3670,7 @@
       "team": "McNeese State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/2/3",
+      "statsDisplay": "14/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3682,7 +3682,7 @@
       "team": "Colorado",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/5",
+      "statsDisplay": "15/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3694,7 +3694,7 @@
       "team": "Kentucky",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "13/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Kentucky.png"
@@ -3706,7 +3706,7 @@
       "team": "UTSA",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "16/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3718,7 +3718,7 @@
       "team": "USC Upstate",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/3/3",
+      "statsDisplay": "16/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3730,7 +3730,7 @@
       "team": "Alabama A&M",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3742,7 +3742,7 @@
       "team": "Michigan",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "13/7/3",
+      "statsDisplay": "12/7/2",
       "heightDisplay": "7'3\"",
       "heightInput": "7'3\"",
       "logoAsset": "./assets/logos/Michigan.png"
@@ -3754,7 +3754,7 @@
       "team": "Kansas",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "21/5/2",
+      "statsDisplay": "20/4/2",
       "heightDisplay": "6'5\"",
       "heightInput": "6'5\"",
       "logoAsset": "./assets/logos/Kansas.png"
@@ -3766,7 +3766,7 @@
       "team": "UNC Wilmington",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/5/2",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3778,7 +3778,7 @@
       "team": "Miami (FL)",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "14/5/3",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3790,7 +3790,7 @@
       "team": "Miami (OH)",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "15/5/1",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3802,7 +3802,7 @@
       "team": "Rice",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/6/4",
+      "statsDisplay": "16/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3814,7 +3814,7 @@
       "team": "Central Arkansas",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/6/3",
+      "statsDisplay": "14/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3826,7 +3826,7 @@
       "team": "The Citadel",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/4/2",
+      "statsDisplay": "15/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3838,7 +3838,7 @@
       "team": "California",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/3/1",
+      "statsDisplay": "14/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3850,7 +3850,7 @@
       "team": "Cal State Northridge",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/10/3",
+      "statsDisplay": "15/9/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3862,7 +3862,7 @@
       "team": "Oklahoma",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "13/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3874,7 +3874,7 @@
       "team": "Bellarmine",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/5/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3886,7 +3886,7 @@
       "team": "Dayton",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/5/3",
+      "statsDisplay": "13/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3898,7 +3898,7 @@
       "team": "Georgia State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/5/3",
+      "statsDisplay": "18/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3910,7 +3910,7 @@
       "team": "Rice",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/5/2",
+      "statsDisplay": "16/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3922,7 +3922,7 @@
       "team": "Cal Poly",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/7/2",
+      "statsDisplay": "15/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3934,7 +3934,7 @@
       "team": "Southern California",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/5/3",
+      "statsDisplay": "18/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3946,7 +3946,7 @@
       "team": "Tarleton State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "24/4/2",
+      "statsDisplay": "24/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3958,7 +3958,7 @@
       "team": "Columbia",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "18/4/4",
+      "statsDisplay": "17/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3982,7 +3982,7 @@
       "team": "TCU",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "15/7/2",
+      "statsDisplay": "14/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -3994,7 +3994,7 @@
       "team": "Idaho",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4018,9 +4018,9 @@
       "team": "North Carolina",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "20/10/3",
-      "heightDisplay": "6'10\"",
-      "heightInput": "6'10\"",
+      "statsDisplay": "20/9/3",
+      "heightDisplay": "6'9\"",
+      "heightInput": "6'9\"",
       "logoAsset": "./assets/logos/UNC.png"
     },
     {
@@ -4030,7 +4030,7 @@
       "team": "Presbyterian",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/3",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4042,7 +4042,7 @@
       "team": "Missouri State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/2",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4054,7 +4054,7 @@
       "team": "Sacred Heart",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "18/7/2",
+      "statsDisplay": "18/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4066,7 +4066,7 @@
       "team": "Nevada",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/9/2",
+      "statsDisplay": "13/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4078,7 +4078,7 @@
       "team": "Boston University",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "15/4/5",
+      "statsDisplay": "14/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4090,7 +4090,7 @@
       "team": "Mercyhurst",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "14/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4126,7 +4126,7 @@
       "team": "UMass Lowell",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/6/2",
+      "statsDisplay": "16/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4138,7 +4138,7 @@
       "team": "Southern Utah",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "16/4/4",
+      "statsDisplay": "15/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4162,7 +4162,7 @@
       "team": "James Madison",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "16/6/2",
+      "statsDisplay": "15/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4174,7 +4174,7 @@
       "team": "North Florida",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4186,7 +4186,7 @@
       "team": "Missouri State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/8/3",
+      "statsDisplay": "15/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4210,7 +4210,7 @@
       "team": "Texas",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/2",
+      "statsDisplay": "13/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Texas.png"
@@ -4222,7 +4222,7 @@
       "team": "George Mason",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4258,7 +4258,7 @@
       "team": "Seattle",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4270,7 +4270,7 @@
       "team": "Boise State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "15/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4282,7 +4282,7 @@
       "team": "Winthrop",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4306,7 +4306,7 @@
       "team": "Quinnipiac",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/9/3",
+      "statsDisplay": "16/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4318,7 +4318,7 @@
       "team": "Ohio",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/6/2",
+      "statsDisplay": "15/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4330,7 +4330,7 @@
       "team": "Murray State",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4342,7 +4342,7 @@
       "team": "Arkansas",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/8/2",
+      "statsDisplay": "13/7/2",
       "heightDisplay": "6'10\"",
       "heightInput": "6'10\"",
       "logoAsset": "./assets/logos/Arkansas.png"
@@ -4354,7 +4354,7 @@
       "team": "East Tennessee State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "15/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4378,7 +4378,7 @@
       "team": "Florida Gulf Coast",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/7/3",
+      "statsDisplay": "16/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4390,7 +4390,7 @@
       "team": "Norfolk State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4402,7 +4402,7 @@
       "team": "Denver",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "15/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4414,7 +4414,7 @@
       "team": "Queens (NC)",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "13/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4426,7 +4426,7 @@
       "team": "Drexel",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/6/3",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4438,7 +4438,7 @@
       "team": "Hawaii",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "14/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4450,7 +4450,7 @@
       "team": "UCLA",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/8",
+      "statsDisplay": "13/3/8",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4474,7 +4474,7 @@
       "team": "Delaware",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "17/5/3",
+      "statsDisplay": "17/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4486,7 +4486,7 @@
       "team": "Green Bay",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/5/2",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4498,7 +4498,7 @@
       "team": "Kansas",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "14/9/2",
+      "statsDisplay": "13/9/1",
       "heightDisplay": "6'8\"",
       "heightInput": "6'8\"",
       "logoAsset": "./assets/logos/Kansas.png"
@@ -4510,7 +4510,7 @@
       "team": "New Haven",
       "position": "",
       "playerClass": "JR",
-      "statsDisplay": "15/5/3",
+      "statsDisplay": "15/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4522,7 +4522,7 @@
       "team": "Southeast Missouri State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/1",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4534,7 +4534,7 @@
       "team": "NC State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/8/1",
+      "statsDisplay": "14/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4546,7 +4546,7 @@
       "team": "Buffalo",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/2",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4558,7 +4558,7 @@
       "team": "North Dakota State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4570,7 +4570,7 @@
       "team": "South Dakota State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4582,7 +4582,7 @@
       "team": "VCU",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/6/2",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4594,7 +4594,7 @@
       "team": "Georgetown",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/3/5",
+      "statsDisplay": "14/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4606,7 +4606,7 @@
       "team": "UNC Wilmington",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "14/10/2",
+      "statsDisplay": "14/10/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4642,7 +4642,7 @@
       "team": "South Dakota",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/2",
+      "statsDisplay": "14/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4654,7 +4654,7 @@
       "team": "USC Upstate",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/2",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4666,7 +4666,7 @@
       "team": "UCF",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/7",
+      "statsDisplay": "14/3/7",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4678,7 +4678,7 @@
       "team": "Ohio",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/8/3",
+      "statsDisplay": "14/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4690,7 +4690,7 @@
       "team": "South Dakota",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "15/9/1",
+      "statsDisplay": "14/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4702,7 +4702,7 @@
       "team": "Texas\u2013Rio Grande Valley",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4714,7 +4714,7 @@
       "team": "St. Mary's (CA)",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/3/3",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4726,7 +4726,7 @@
       "team": "Long Beach State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "15/7/2",
+      "statsDisplay": "14/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4762,7 +4762,7 @@
       "team": "Texas Tech",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/4/1",
+      "statsDisplay": "14/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/TexasTech.png"
@@ -4774,7 +4774,7 @@
       "team": "Kent State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "14/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4786,7 +4786,7 @@
       "team": "Iowa State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/6",
+      "statsDisplay": "13/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4798,7 +4798,7 @@
       "team": "New Mexico",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "14/11/2",
+      "statsDisplay": "13/10/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/NewMexico.png"
@@ -4810,7 +4810,7 @@
       "team": "Siena",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/5",
+      "statsDisplay": "13/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4822,7 +4822,7 @@
       "team": "Marquette",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/5/4",
+      "statsDisplay": "14/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4834,7 +4834,7 @@
       "team": "Buffalo",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "20/5/4",
+      "statsDisplay": "20/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4846,7 +4846,7 @@
       "team": "Morehead State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4858,7 +4858,7 @@
       "team": "Lipscomb",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "14/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4870,7 +4870,7 @@
       "team": "Western Illinois",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/5/1",
+      "statsDisplay": "15/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4882,7 +4882,7 @@
       "team": "Oakland",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/7/2",
+      "statsDisplay": "14/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4906,7 +4906,7 @@
       "team": "Southern Illinois",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/4",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4918,7 +4918,7 @@
       "team": "Fairfield",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "15/11/2",
+      "statsDisplay": "14/10/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4930,7 +4930,7 @@
       "team": "California",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/4/5",
+      "statsDisplay": "14/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4954,7 +4954,7 @@
       "team": "Idaho",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/4/4",
+      "statsDisplay": "14/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4966,7 +4966,7 @@
       "team": "Nebraska",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/6/4",
+      "statsDisplay": "13/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4978,7 +4978,7 @@
       "team": "Akron",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "13/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -4990,7 +4990,7 @@
       "team": "Holy Cross",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/4/4",
+      "statsDisplay": "14/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5002,7 +5002,7 @@
       "team": "Vanderbilt",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/4/5",
+      "statsDisplay": "16/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5014,7 +5014,7 @@
       "team": "Louisiana",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5026,7 +5026,7 @@
       "team": "Villanova",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/6/2",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5038,7 +5038,7 @@
       "team": "BYU",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "19/6/3",
+      "statsDisplay": "18/6/2",
       "heightDisplay": "6'5\"",
       "heightInput": "6'5\"",
       "logoAsset": "./assets/logos/BYU.png"
@@ -5050,7 +5050,7 @@
       "team": "Stonehill",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5062,7 +5062,7 @@
       "team": "UMBC",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/2",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5074,7 +5074,7 @@
       "team": "Creighton",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5086,7 +5086,7 @@
       "team": "UNLV",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/5/3",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5098,7 +5098,7 @@
       "team": "Arizona State",
       "position": "C",
       "playerClass": "FR",
-      "statsDisplay": "14/6/2",
+      "statsDisplay": "14/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5122,7 +5122,7 @@
       "team": "Purdue Fort Wayne",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "14/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5134,7 +5134,7 @@
       "team": "Penn State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5146,7 +5146,7 @@
       "team": "UTEP",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/7/2",
+      "statsDisplay": "14/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5158,7 +5158,7 @@
       "team": "Marshall",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/4",
+      "statsDisplay": "14/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5170,7 +5170,7 @@
       "team": "Saint Louis",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "13/5/5",
+      "statsDisplay": "13/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5182,7 +5182,7 @@
       "team": "Grand Canyon",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/3/3",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5230,7 +5230,7 @@
       "team": "Princeton",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "16/6/3",
+      "statsDisplay": "15/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5242,7 +5242,7 @@
       "team": "Florida Gulf Coast",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5254,7 +5254,7 @@
       "team": "Northern Kentucky",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/5/2",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5266,7 +5266,7 @@
       "team": "Virginia",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5278,7 +5278,7 @@
       "team": "Kansas",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/5/6",
+      "statsDisplay": "13/5/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Kansas.png"
@@ -5302,7 +5302,7 @@
       "team": "UCF",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5314,7 +5314,7 @@
       "team": "TCU",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/7/2",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5326,7 +5326,7 @@
       "team": "Eastern Washington",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "13/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5338,7 +5338,7 @@
       "team": "Lafayette",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5350,7 +5350,7 @@
       "team": "Iona",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/6",
+      "statsDisplay": "14/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5362,7 +5362,7 @@
       "team": "South Dakota State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "14/7/2",
+      "statsDisplay": "14/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5374,7 +5374,7 @@
       "team": "Wyoming",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/4",
+      "statsDisplay": "13/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5386,7 +5386,7 @@
       "team": "Purdue Fort Wayne",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/4",
+      "statsDisplay": "14/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5398,7 +5398,7 @@
       "team": "Appalachian State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/6/5",
+      "statsDisplay": "14/5/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5410,7 +5410,7 @@
       "team": "George Washington",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "16/10/2",
+      "statsDisplay": "15/9/2",
       "heightDisplay": "6'9\"",
       "heightInput": "6'9\"",
       "logoAsset": null
@@ -5422,7 +5422,7 @@
       "team": "NJIT",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/3",
+      "statsDisplay": "15/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5434,7 +5434,7 @@
       "team": "North Alabama",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "15/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5446,7 +5446,7 @@
       "team": "Idaho",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/3",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5482,7 +5482,7 @@
       "team": "UMBC",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/3/2",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5494,7 +5494,7 @@
       "team": "Lindenwood",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/6/3",
+      "statsDisplay": "15/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5506,7 +5506,7 @@
       "team": "Sacred Heart",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "15/4/1",
+      "statsDisplay": "14/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5518,7 +5518,7 @@
       "team": "East Texas A&M",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "15/7/2",
+      "statsDisplay": "15/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5542,7 +5542,7 @@
       "team": "Fresno State",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "14/7/2",
+      "statsDisplay": "14/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5554,7 +5554,7 @@
       "team": "Michigan State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/9/2",
+      "statsDisplay": "13/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5566,7 +5566,7 @@
       "team": "UCF",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/5/1",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5578,7 +5578,7 @@
       "team": "Georgia Tech",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "16/4/2",
+      "statsDisplay": "15/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5590,7 +5590,7 @@
       "team": "St. Bonaventure",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/7/3",
+      "statsDisplay": "13/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5602,7 +5602,7 @@
       "team": "Illinois State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5626,7 +5626,7 @@
       "team": "Rider",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/4/3",
+      "statsDisplay": "15/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5638,7 +5638,7 @@
       "team": "Arizona State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5650,7 +5650,7 @@
       "team": "Notre Dame",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "17/4/3",
+      "statsDisplay": "16/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5662,7 +5662,7 @@
       "team": "Indiana",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/6/4",
+      "statsDisplay": "14/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5686,7 +5686,7 @@
       "team": "Eastern Illinois",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5698,7 +5698,7 @@
       "team": "Bradley",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5710,7 +5710,7 @@
       "team": "East Tennessee State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/6/2",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5722,7 +5722,7 @@
       "team": "Idaho State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5734,7 +5734,7 @@
       "team": "Winthrop",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "13/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5746,7 +5746,7 @@
       "team": "Ball State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/5/3",
+      "statsDisplay": "14/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5758,7 +5758,7 @@
       "team": "Binghamton",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/5/7",
+      "statsDisplay": "14/5/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5770,7 +5770,7 @@
       "team": "St. Mary's (CA)",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/3/6",
+      "statsDisplay": "13/2/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5782,7 +5782,7 @@
       "team": "George Mason",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "14/7/1",
+      "statsDisplay": "14/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5806,7 +5806,7 @@
       "team": "Oklahoma",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5818,7 +5818,7 @@
       "team": "Indiana State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/7/3",
+      "statsDisplay": "14/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5830,7 +5830,7 @@
       "team": "Loyola Marymount",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/3/2",
+      "statsDisplay": "14/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5842,7 +5842,7 @@
       "team": "Le Moyne",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "14/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5890,7 +5890,7 @@
       "team": "Liberty",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "13/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5902,7 +5902,7 @@
       "team": "Queens (NC)",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5914,7 +5914,7 @@
       "team": "Evansville",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/6/2",
+      "statsDisplay": "13/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5926,7 +5926,7 @@
       "team": "Georgia",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "13/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5962,7 +5962,7 @@
       "team": "Miami (OH)",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "13/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5974,7 +5974,7 @@
       "team": "Oregon State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/5/5",
+      "statsDisplay": "13/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5986,7 +5986,7 @@
       "team": "Wagner",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "15/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -5998,7 +5998,7 @@
       "team": "Virginia Tech",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "15/8/3",
+      "statsDisplay": "14/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6010,7 +6010,7 @@
       "team": "Charleston Southern",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/8/4",
+      "statsDisplay": "17/7/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6022,7 +6022,7 @@
       "team": "Lindenwood",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/9/3",
+      "statsDisplay": "15/9/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6034,7 +6034,7 @@
       "team": "South Carolina State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "13/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6046,7 +6046,7 @@
       "team": "American",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6058,7 +6058,7 @@
       "team": "Richmond",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/2",
+      "statsDisplay": "13/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6070,7 +6070,7 @@
       "team": "Northern Iowa",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6082,7 +6082,7 @@
       "team": "Louisiana State",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "14/6/1",
+      "statsDisplay": "13/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6094,7 +6094,7 @@
       "team": "Pepperdine",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/6/6",
+      "statsDisplay": "13/6/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6106,7 +6106,7 @@
       "team": "Pacific",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "13/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6118,7 +6118,7 @@
       "team": "Le Moyne",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "16/9/3",
+      "statsDisplay": "16/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6130,7 +6130,7 @@
       "team": "Detroit Mercy",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "14/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6154,7 +6154,7 @@
       "team": "Eastern Michigan",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "14/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6166,7 +6166,7 @@
       "team": "Florida State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/4/1",
+      "statsDisplay": "13/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6178,7 +6178,7 @@
       "team": "Troy",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/4/5",
+      "statsDisplay": "13/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6190,7 +6190,7 @@
       "team": "Cleveland State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/3",
+      "statsDisplay": "13/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6202,7 +6202,7 @@
       "team": "Middle Tennessee",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6214,7 +6214,7 @@
       "team": "Texas State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6226,7 +6226,7 @@
       "team": "Eastern Michigan",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "15/9/4",
+      "statsDisplay": "14/8/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6238,7 +6238,7 @@
       "team": "Western Carolina",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6250,7 +6250,7 @@
       "team": "Omaha",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/5/3",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6262,7 +6262,7 @@
       "team": "Mercer",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "14/11/2",
+      "statsDisplay": "13/11/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6274,7 +6274,7 @@
       "team": "Virginia Tech",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "13/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6286,7 +6286,7 @@
       "team": "Eastern Washington",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/6/1",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6310,7 +6310,7 @@
       "team": "Tulane",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6322,7 +6322,7 @@
       "team": "UC Irvine",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/9/1",
+      "statsDisplay": "12/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6334,7 +6334,7 @@
       "team": "San Francisco",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/4/4",
+      "statsDisplay": "14/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6346,7 +6346,7 @@
       "team": "Wright State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/3/4",
+      "statsDisplay": "12/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6358,7 +6358,7 @@
       "team": "Michigan State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6382,7 +6382,7 @@
       "team": "Clemson",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6394,7 +6394,7 @@
       "team": "Illinois\u2013Chicago",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/2/3",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6406,7 +6406,7 @@
       "team": "DePaul",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "13/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6430,7 +6430,7 @@
       "team": "Murray State",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "14/9/1",
+      "statsDisplay": "13/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6442,7 +6442,7 @@
       "team": "Middle Tennessee",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "14/8/2",
+      "statsDisplay": "13/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6454,7 +6454,7 @@
       "team": "Cleveland State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/2/3",
+      "statsDisplay": "13/1/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6466,7 +6466,7 @@
       "team": "Stetson",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/7/1",
+      "statsDisplay": "13/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6478,7 +6478,7 @@
       "team": "Florida State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "13/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6490,7 +6490,7 @@
       "team": "Louisiana State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/8/1",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6502,7 +6502,7 @@
       "team": "Georgia State",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "14/3/3",
+      "statsDisplay": "14/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6538,7 +6538,7 @@
       "team": "Green Bay",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/6/3",
+      "statsDisplay": "14/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6550,7 +6550,7 @@
       "team": "San Diego State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "13/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6562,7 +6562,7 @@
       "team": "North Dakota State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/7/3",
+      "statsDisplay": "12/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6574,7 +6574,7 @@
       "team": "Seattle",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/6/3",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6586,7 +6586,7 @@
       "team": "Mercer",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6598,7 +6598,7 @@
       "team": "Austin Peay",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "14/4/5",
+      "statsDisplay": "13/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6610,7 +6610,7 @@
       "team": "Texas\u2013Rio Grande Valley",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "13/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6622,7 +6622,7 @@
       "team": "Cal Poly",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/4/4",
+      "statsDisplay": "13/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6634,7 +6634,7 @@
       "team": "Cal State Bakersfield",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/7/2",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6646,7 +6646,7 @@
       "team": "North Dakota",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6670,7 +6670,7 @@
       "team": "Canisius",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/4/1",
+      "statsDisplay": "14/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6682,7 +6682,7 @@
       "team": "Georgetown",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/6/3",
+      "statsDisplay": "15/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6694,7 +6694,7 @@
       "team": "Wright State",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "14/3/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6706,7 +6706,7 @@
       "team": "Charlotte",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/5",
+      "statsDisplay": "13/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6718,7 +6718,7 @@
       "team": "South Dakota",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "21/6/2",
+      "statsDisplay": "21/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6742,7 +6742,7 @@
       "team": "Illinois State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/4",
+      "statsDisplay": "12/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6778,7 +6778,7 @@
       "team": "Dartmouth",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/3/2",
+      "statsDisplay": "16/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6790,7 +6790,7 @@
       "team": "UC San Diego",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6802,7 +6802,7 @@
       "team": "Purdue",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "11/8/2",
+      "statsDisplay": "11/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6814,7 +6814,7 @@
       "team": "Arkansas",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/4/2",
       "heightDisplay": "6'6\"",
       "heightInput": "6'6\"",
       "logoAsset": "./assets/logos/Arkansas.png"
@@ -6838,7 +6838,7 @@
       "team": "Western Michigan",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/8/2",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6874,7 +6874,7 @@
       "team": "Army",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/5/5",
+      "statsDisplay": "13/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6898,7 +6898,7 @@
       "team": "Howard",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/7/4",
+      "statsDisplay": "17/7/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6910,7 +6910,7 @@
       "team": "UT Martin",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6922,7 +6922,7 @@
       "team": "Tulsa",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/5/2",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6934,7 +6934,7 @@
       "team": "UC Davis",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/2/1",
+      "statsDisplay": "13/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6946,7 +6946,7 @@
       "team": "Fairfield",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "13/9/2",
+      "statsDisplay": "12/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6958,7 +6958,7 @@
       "team": "Stonehill",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/3/2",
+      "statsDisplay": "13/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6970,7 +6970,7 @@
       "team": "UC Davis",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -6982,7 +6982,7 @@
       "team": "Houston",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/3/4",
+      "statsDisplay": "11/3/4",
       "heightDisplay": "6'3\"",
       "heightInput": "6'3\"",
       "logoAsset": "./assets/logos/Houston.png"
@@ -6994,7 +6994,7 @@
       "team": "Louisiana Tech",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/3/6",
+      "statsDisplay": "12/3/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7018,7 +7018,7 @@
       "team": "Cornell",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "18/6/3",
+      "statsDisplay": "17/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7030,7 +7030,7 @@
       "team": "Mississippi State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/3/3",
+      "statsDisplay": "14/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7042,7 +7042,7 @@
       "team": "Bucknell",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/7/2",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7054,7 +7054,7 @@
       "team": "Yale",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "14/7/4",
+      "statsDisplay": "13/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7066,7 +7066,7 @@
       "team": "Colorado State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7090,7 +7090,7 @@
       "team": "Tulane",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7102,7 +7102,7 @@
       "team": "Xavier",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7114,7 +7114,7 @@
       "team": "Cal State Fullerton",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7126,7 +7126,7 @@
       "team": "Wright State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/8/2",
+      "statsDisplay": "12/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7150,7 +7150,7 @@
       "team": "Valparaiso",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "13/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7162,7 +7162,7 @@
       "team": "Nevada",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/2/4",
+      "statsDisplay": "11/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7174,7 +7174,7 @@
       "team": "Seattle",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7186,7 +7186,7 @@
       "team": "Arizona",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "11/9/2",
+      "statsDisplay": "10/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Arizona.png"
@@ -7198,7 +7198,7 @@
       "team": "Florida",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/3/4",
+      "statsDisplay": "12/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Florida.png"
@@ -7210,7 +7210,7 @@
       "team": "Villanova",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7222,7 +7222,7 @@
       "team": "Utah Tech",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/4/3",
+      "statsDisplay": "12/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7246,7 +7246,7 @@
       "team": "UTEP",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/6/1",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7258,7 +7258,7 @@
       "team": "UCLA",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "12/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7270,7 +7270,7 @@
       "team": "Arizona",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "11/5/3",
+      "statsDisplay": "10/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Arizona.png"
@@ -7282,7 +7282,7 @@
       "team": "North Dakota State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7294,7 +7294,7 @@
       "team": "Wisconsin",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/9/2",
+      "statsDisplay": "13/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7306,7 +7306,7 @@
       "team": "Colgate",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/5/1",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7318,7 +7318,7 @@
       "team": "Florida",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/5",
+      "statsDisplay": "12/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Florida.png"
@@ -7342,7 +7342,7 @@
       "team": "Charleston Southern",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/6/1",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7354,7 +7354,7 @@
       "team": "Wake Forest",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7378,7 +7378,7 @@
       "team": "Maryland",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7390,7 +7390,7 @@
       "team": "Cincinnati",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/11/4",
+      "statsDisplay": "13/10/4",
       "heightDisplay": "6'11\"",
       "heightInput": "6'11\"",
       "logoAsset": null
@@ -7402,7 +7402,7 @@
       "team": "West Virginia",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7414,7 +7414,7 @@
       "team": "Youngstown State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7426,7 +7426,7 @@
       "team": "George Mason",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7438,7 +7438,7 @@
       "team": "Utah Tech",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/6/3",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7450,7 +7450,7 @@
       "team": "Utah Valley",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/6/7",
+      "statsDisplay": "12/5/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7474,7 +7474,7 @@
       "team": "Cleveland State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "16/7/3",
+      "statsDisplay": "15/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7498,7 +7498,7 @@
       "team": "Villanova",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/4/6",
+      "statsDisplay": "12/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7510,7 +7510,7 @@
       "team": "UC Irvine",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/6/4",
+      "statsDisplay": "11/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7534,7 +7534,7 @@
       "team": "Quinnipiac",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/4",
+      "statsDisplay": "13/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7546,7 +7546,7 @@
       "team": "Saint Joseph's",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "11/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7558,7 +7558,7 @@
       "team": "Longwood",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/7/2",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7570,7 +7570,7 @@
       "team": "Grambling State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/1",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7594,7 +7594,7 @@
       "team": "Air Force",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/5/4",
+      "statsDisplay": "13/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7606,7 +7606,7 @@
       "team": "Florida Atlantic",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/4/3",
+      "statsDisplay": "14/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7618,7 +7618,7 @@
       "team": "Oregon",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/8/2",
+      "statsDisplay": "13/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7630,7 +7630,7 @@
       "team": "Denver",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7642,7 +7642,7 @@
       "team": "Boise State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/4",
+      "statsDisplay": "12/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7654,7 +7654,7 @@
       "team": "East Carolina",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/10/1",
+      "statsDisplay": "13/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7666,7 +7666,7 @@
       "team": "American",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/5/3",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7678,7 +7678,7 @@
       "team": "Utah",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/9/3",
+      "statsDisplay": "12/9/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7690,7 +7690,7 @@
       "team": "Wyoming",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/5/3",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7702,7 +7702,7 @@
       "team": "La Salle",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/7/3",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7714,7 +7714,7 @@
       "team": "Merrimack",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/4/3",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7738,7 +7738,7 @@
       "team": "Villanova",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/11/2",
+      "statsDisplay": "12/10/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7762,7 +7762,7 @@
       "team": "Davidson",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7786,7 +7786,7 @@
       "team": "Alabama State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "15/3/4",
+      "statsDisplay": "14/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7798,7 +7798,7 @@
       "team": "Saint Louis",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7810,7 +7810,7 @@
       "team": "Southern Mississippi",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/8/1",
+      "statsDisplay": "11/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7822,7 +7822,7 @@
       "team": "Florida Atlantic",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7834,7 +7834,7 @@
       "team": "Cincinnati",
       "position": "C",
       "playerClass": "SO",
-      "statsDisplay": "13/8/1",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7870,7 +7870,7 @@
       "team": "Connecticut",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/UConn.png"
@@ -7882,7 +7882,7 @@
       "team": "Siena",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "12/6/3",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7894,7 +7894,7 @@
       "team": "Utah Tech",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/5/4",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7906,7 +7906,7 @@
       "team": "Lindenwood",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "12/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7918,7 +7918,7 @@
       "team": "Montana State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/5/2",
+      "statsDisplay": "14/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7930,7 +7930,7 @@
       "team": "Toledo",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/8/2",
+      "statsDisplay": "12/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7942,7 +7942,7 @@
       "team": "Georgia",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/5",
+      "statsDisplay": "12/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7966,7 +7966,7 @@
       "team": "Elon",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7978,7 +7978,7 @@
       "team": "Loyola (MD)",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "15/6/1",
+      "statsDisplay": "15/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -7990,7 +7990,7 @@
       "team": "Ole Miss",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/4",
+      "statsDisplay": "11/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8002,7 +8002,7 @@
       "team": "FDU",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8014,7 +8014,7 @@
       "team": "Mercyhurst",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "12/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8026,7 +8026,7 @@
       "team": "Connecticut",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/5/6",
+      "statsDisplay": "10/5/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/UConn.png"
@@ -8038,7 +8038,7 @@
       "team": "Quinnipiac",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/3/3",
+      "statsDisplay": "15/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8050,7 +8050,7 @@
       "team": "Cal State Fullerton",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/5/3",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8062,7 +8062,7 @@
       "team": "Harvard",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/6/2",
+      "statsDisplay": "14/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8074,7 +8074,7 @@
       "team": "Wake Forest",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8086,7 +8086,7 @@
       "team": "UMass Lowell",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/3",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8098,7 +8098,7 @@
       "team": "Illinois\u2013Chicago",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "11/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8110,7 +8110,7 @@
       "team": "Sam Houston State",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8122,7 +8122,7 @@
       "team": "South Dakota State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/5/3",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8146,7 +8146,7 @@
       "team": "Georgia State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/4/3",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8170,7 +8170,7 @@
       "team": "Seton Hall",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8182,7 +8182,7 @@
       "team": "Nebraska",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8194,7 +8194,7 @@
       "team": "UC Santa Barbara",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8218,7 +8218,7 @@
       "team": "Louisville",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Louisville.png"
@@ -8242,7 +8242,7 @@
       "team": "Chicago State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8254,7 +8254,7 @@
       "team": "Milwaukee",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/2",
+      "statsDisplay": "13/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8266,7 +8266,7 @@
       "team": "Southeast Missouri State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8278,7 +8278,7 @@
       "team": "Syracuse",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8290,7 +8290,7 @@
       "team": "UT Arlington",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/7/2",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8302,7 +8302,7 @@
       "team": "Northern Iowa",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/5/3",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8314,7 +8314,7 @@
       "team": "Queens (NC)",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8326,7 +8326,7 @@
       "team": "Idaho State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/7/1",
+      "statsDisplay": "12/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8338,7 +8338,7 @@
       "team": "Pennsylvania",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "17/4/3",
+      "statsDisplay": "17/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8350,7 +8350,7 @@
       "team": "Texas A&M\u2013Corpus Christi",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "12/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8362,7 +8362,7 @@
       "team": "Montana",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8374,7 +8374,7 @@
       "team": "James Madison",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/2/4",
+      "statsDisplay": "12/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8386,7 +8386,7 @@
       "team": "Manhattan",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/2/3",
+      "statsDisplay": "12/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8398,7 +8398,7 @@
       "team": "Rice",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8410,7 +8410,7 @@
       "team": "UTEP",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8422,7 +8422,7 @@
       "team": "Texas Tech",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/7/3",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/TexasTech.png"
@@ -8434,7 +8434,7 @@
       "team": "Oregon",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8446,7 +8446,7 @@
       "team": "Michigan State",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "12/8/2",
+      "statsDisplay": "11/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8458,7 +8458,7 @@
       "team": "Marquette",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/5/1",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8470,7 +8470,7 @@
       "team": "Gonzaga",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8482,7 +8482,7 @@
       "team": "Boise State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/4/1",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8494,7 +8494,7 @@
       "team": "Ball State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/6/4",
+      "statsDisplay": "12/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8506,7 +8506,7 @@
       "team": "SMU",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/1",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8518,7 +8518,7 @@
       "team": "Eastern Kentucky",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/3/2",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8530,7 +8530,7 @@
       "team": "Sam Houston State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/7/3",
+      "statsDisplay": "11/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8542,7 +8542,7 @@
       "team": "UAB",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/7/2",
+      "statsDisplay": "12/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8566,7 +8566,7 @@
       "team": "South Florida",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8578,7 +8578,7 @@
       "team": "Northern Illinois",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/6/1",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8590,7 +8590,7 @@
       "team": "Oakland",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "14/8/3",
+      "statsDisplay": "14/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8602,7 +8602,7 @@
       "team": "Monmouth",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/3/2",
+      "statsDisplay": "11/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8626,7 +8626,7 @@
       "team": "Lamar",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/10/1",
+      "statsDisplay": "13/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8638,7 +8638,7 @@
       "team": "Kennesaw State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "11/6/2",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8650,7 +8650,7 @@
       "team": "Louisville",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/3/2",
+      "statsDisplay": "11/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Louisville.png"
@@ -8662,7 +8662,7 @@
       "team": "Penn State",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "14/4/5",
+      "statsDisplay": "14/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8674,7 +8674,7 @@
       "team": "Louisiana\u2013Monroe",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "15/9/3",
+      "statsDisplay": "15/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8698,7 +8698,7 @@
       "team": "Virginia",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/4/2",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8710,7 +8710,7 @@
       "team": "Alcorn State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "12/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8722,7 +8722,7 @@
       "team": "UMBC",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/4",
+      "statsDisplay": "12/4/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8734,7 +8734,7 @@
       "team": "Minnesota",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/5/5",
+      "statsDisplay": "12/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8758,7 +8758,7 @@
       "team": "Louisville",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "19/4/5",
+      "statsDisplay": "18/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Louisville.png"
@@ -8770,7 +8770,7 @@
       "team": "St. John's (NY)",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/3/2",
+      "statsDisplay": "10/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8782,9 +8782,9 @@
       "team": "Florida",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "11/12/1",
-      "heightDisplay": "6'10\"",
-      "heightInput": "6'10\"",
+      "statsDisplay": "11/11/1",
+      "heightDisplay": "6'9\"",
+      "heightInput": "6'9\"",
       "logoAsset": "./assets/logos/Florida.png"
     },
     {
@@ -8806,7 +8806,7 @@
       "team": "Cincinnati",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/4",
+      "statsDisplay": "12/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8818,7 +8818,7 @@
       "team": "Longwood",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8830,7 +8830,7 @@
       "team": "Central Michigan",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8842,7 +8842,7 @@
       "team": "Oklahoma State",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "15/7/1",
+      "statsDisplay": "15/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8854,7 +8854,7 @@
       "team": "Bowling Green",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/8/2",
+      "statsDisplay": "12/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8866,7 +8866,7 @@
       "team": "Indiana State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8878,7 +8878,7 @@
       "team": "Florida Atlantic",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "16/7/3",
+      "statsDisplay": "16/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8890,7 +8890,7 @@
       "team": "Syracuse",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "17/8/2",
+      "statsDisplay": "17/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8902,7 +8902,7 @@
       "team": "William & Mary",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/3",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8914,7 +8914,7 @@
       "team": "UNLV",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8926,7 +8926,7 @@
       "team": "Alabama",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "11/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Alabama.png"
@@ -8938,7 +8938,7 @@
       "team": "Providence",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "17/3/3",
+      "statsDisplay": "16/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8950,7 +8950,7 @@
       "team": "Cleveland State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "13/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8962,7 +8962,7 @@
       "team": "San Francisco",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8974,7 +8974,7 @@
       "team": "Howard",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/5/5",
+      "statsDisplay": "11/4/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -8986,7 +8986,7 @@
       "team": "Jacksonville",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9010,7 +9010,7 @@
       "team": "IU Indy",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "12/3/2",
+      "statsDisplay": "12/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9022,7 +9022,7 @@
       "team": "Iowa",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/5/2",
+      "statsDisplay": "10/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Iowa.png"
@@ -9034,7 +9034,7 @@
       "team": "Temple",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/4",
+      "statsDisplay": "12/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9046,7 +9046,7 @@
       "team": "Presbyterian",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/4/4",
+      "statsDisplay": "11/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9058,7 +9058,7 @@
       "team": "Sacred Heart",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9070,7 +9070,7 @@
       "team": "Bethune-Cookman",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9082,7 +9082,7 @@
       "team": "Florida International",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/4",
+      "statsDisplay": "12/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9094,7 +9094,7 @@
       "team": "Harvard",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/6/4",
+      "statsDisplay": "13/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9106,7 +9106,7 @@
       "team": "Virginia Tech",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/4/5",
+      "statsDisplay": "12/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9130,7 +9130,7 @@
       "team": "Mississippi Valley State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/7/2",
+      "statsDisplay": "13/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9142,7 +9142,7 @@
       "team": "South Alabama",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/1",
+      "statsDisplay": "11/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9154,7 +9154,7 @@
       "team": "Little Rock",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9166,7 +9166,7 @@
       "team": "DePaul",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/8/2",
+      "statsDisplay": "12/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9178,7 +9178,7 @@
       "team": "Marist",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/2",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9190,7 +9190,7 @@
       "team": "Kent State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9202,7 +9202,7 @@
       "team": "South Dakota",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/3/4",
+      "statsDisplay": "12/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9214,7 +9214,7 @@
       "team": "Nicholls State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/7/2",
+      "statsDisplay": "12/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9226,7 +9226,7 @@
       "team": "Prairie View A&M",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/4/4",
+      "statsDisplay": "10/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9250,7 +9250,7 @@
       "team": "San Diego",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/2/1",
+      "statsDisplay": "11/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9262,7 +9262,7 @@
       "team": "George Washington",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/4/2",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9274,7 +9274,7 @@
       "team": "Florida A&M",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9286,7 +9286,7 @@
       "team": "Southeast Missouri State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/6/3",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9298,7 +9298,7 @@
       "team": "Utah Valley",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "11/4/2",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9310,7 +9310,7 @@
       "team": "Loyola Chicago",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "12/8/3",
+      "statsDisplay": "11/7/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9322,7 +9322,7 @@
       "team": "Creighton",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/3/5",
+      "statsDisplay": "11/3/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9346,7 +9346,7 @@
       "team": "Florida International",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/3/2",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9358,7 +9358,7 @@
       "team": "Georgia",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9370,7 +9370,7 @@
       "team": "Notre Dame",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9406,7 +9406,7 @@
       "team": "UC Santa Barbara",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9418,7 +9418,7 @@
       "team": "Providence",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9430,7 +9430,7 @@
       "team": "Morehead State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/8/1",
+      "statsDisplay": "11/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9442,7 +9442,7 @@
       "team": "Delaware",
       "position": "C",
       "playerClass": "SR",
-      "statsDisplay": "15/6/2",
+      "statsDisplay": "14/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9454,7 +9454,7 @@
       "team": "Northern Colorado",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9466,7 +9466,7 @@
       "team": "Mount St. Mary's",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9478,7 +9478,7 @@
       "team": "Colorado",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "12/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9490,7 +9490,7 @@
       "team": "San Francisco",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/8/2",
+      "statsDisplay": "13/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9502,7 +9502,7 @@
       "team": "Sam Houston State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/9/3",
+      "statsDisplay": "11/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9514,9 +9514,9 @@
       "team": "Illinois",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/4/3",
-      "heightDisplay": "6'2\"",
-      "heightInput": "6'2\"",
+      "statsDisplay": "12/4/3",
+      "heightDisplay": "6'1\"",
+      "heightInput": "6'1\"",
       "logoAsset": "./assets/logos/Illinois.png"
     },
     {
@@ -9526,7 +9526,7 @@
       "team": "Delaware State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "14/3/4",
+      "statsDisplay": "14/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9538,7 +9538,7 @@
       "team": "Belmont",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "13/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9550,7 +9550,7 @@
       "team": "Penn State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9562,7 +9562,7 @@
       "team": "Davidson",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/3/2",
+      "statsDisplay": "11/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9574,7 +9574,7 @@
       "team": "Southern Indiana",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "13/6/1",
+      "statsDisplay": "13/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9586,7 +9586,7 @@
       "team": "Morehead State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9598,7 +9598,7 @@
       "team": "UC San Diego",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9610,7 +9610,7 @@
       "team": "Pepperdine",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9634,7 +9634,7 @@
       "team": "Lehigh",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/6/4",
+      "statsDisplay": "10/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9646,7 +9646,7 @@
       "team": "Air Force",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "12/2/1",
+      "statsDisplay": "11/2/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9658,9 +9658,9 @@
       "team": "Alabama",
       "position": "F",
       "playerClass": "FR",
-      "statsDisplay": "12/7/4",
-      "heightDisplay": "6'6\"",
-      "heightInput": "6'6\"",
+      "statsDisplay": "11/7/3",
+      "heightDisplay": "6'5\"",
+      "heightInput": "6'5\"",
       "logoAsset": "./assets/logos/Alabama.png"
     },
     {
@@ -9682,7 +9682,7 @@
       "team": "UC San Diego",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "11/6/2",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9694,7 +9694,7 @@
       "team": "Quinnipiac",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/7/1",
+      "statsDisplay": "11/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9706,7 +9706,7 @@
       "team": "Army",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "13/5/2",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9718,7 +9718,7 @@
       "team": "Rhode Island",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9730,7 +9730,7 @@
       "team": "Davidson",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9742,7 +9742,7 @@
       "team": "Eastern Illinois",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/7/2",
+      "statsDisplay": "11/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9754,7 +9754,7 @@
       "team": "Nicholls State",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/3",
+      "statsDisplay": "11/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9778,7 +9778,7 @@
       "team": "North Dakota State",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "11/6/1",
+      "statsDisplay": "10/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9790,7 +9790,7 @@
       "team": "Texas Southern",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "15/10/2",
+      "statsDisplay": "15/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9814,7 +9814,7 @@
       "team": "Kennesaw State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "11/9/1",
+      "statsDisplay": "10/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9826,7 +9826,7 @@
       "team": "Denver",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/1",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9838,7 +9838,7 @@
       "team": "Arkansas",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "10/6/2",
+      "statsDisplay": "10/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Arkansas.png"
@@ -9850,7 +9850,7 @@
       "team": "Northeastern",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "13/3/2",
+      "statsDisplay": "13/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9874,7 +9874,7 @@
       "team": "Stonehill",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9886,7 +9886,7 @@
       "team": "Robert Morris",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/8/2",
+      "statsDisplay": "11/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9898,7 +9898,7 @@
       "team": "William & Mary",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/3/3",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9922,7 +9922,7 @@
       "team": "Arkansas\u2013Pine Bluff",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9934,7 +9934,7 @@
       "team": "Lamar",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "12/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9946,7 +9946,7 @@
       "team": "Bowling Green",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/4/1",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9970,7 +9970,7 @@
       "team": "Arkansas State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/3",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -9982,7 +9982,7 @@
       "team": "Arizona",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "10/10/1",
+      "statsDisplay": "9/9/1",
       "heightDisplay": "6'8\"",
       "heightInput": "6'8\"",
       "logoAsset": "./assets/logos/Arizona.png"
@@ -9994,7 +9994,7 @@
       "team": "North Carolina A&T",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "13/4/4",
+      "statsDisplay": "12/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10018,7 +10018,7 @@
       "team": "Omaha",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/3",
+      "statsDisplay": "12/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10030,7 +10030,7 @@
       "team": "Bellarmine",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10054,7 +10054,7 @@
       "team": "Morgan State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/6",
+      "statsDisplay": "14/3/6",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10066,7 +10066,7 @@
       "team": "UCF",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/9/3",
+      "statsDisplay": "12/8/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10090,7 +10090,7 @@
       "team": "Charlotte",
       "position": "C",
       "playerClass": "JR",
-      "statsDisplay": "11/9/2",
+      "statsDisplay": "11/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10102,7 +10102,7 @@
       "team": "NJIT",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "11/7/2",
+      "statsDisplay": "11/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10114,7 +10114,7 @@
       "team": "Southeast Missouri State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/3/4",
+      "statsDisplay": "11/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10138,7 +10138,7 @@
       "team": "Presbyterian",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "11/8/1",
+      "statsDisplay": "11/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10150,7 +10150,7 @@
       "team": "Texas\u2013Rio Grande Valley",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/6/1",
+      "statsDisplay": "11/5/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10162,7 +10162,7 @@
       "team": "Central Connecticut State",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/8/1",
+      "statsDisplay": "12/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10174,7 +10174,7 @@
       "team": "Sacramento State",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "18/4/5",
+      "statsDisplay": "17/3/5",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10186,7 +10186,7 @@
       "team": "Xavier",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/4/3",
+      "statsDisplay": "11/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10198,7 +10198,7 @@
       "team": "UC San Diego",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/6/4",
+      "statsDisplay": "11/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10210,7 +10210,7 @@
       "team": "Saint Louis",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "11/6/3",
+      "statsDisplay": "11/5/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10222,7 +10222,7 @@
       "team": "San Diego State",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "11/4/3",
+      "statsDisplay": "11/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10234,7 +10234,7 @@
       "team": "Wyoming",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "11/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10246,7 +10246,7 @@
       "team": "Xavier",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "11/8/5",
+      "statsDisplay": "11/7/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10270,7 +10270,7 @@
       "team": "McNeese State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "12/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10282,7 +10282,7 @@
       "team": "Georgia Southern",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "10/4/3",
+      "statsDisplay": "10/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10294,7 +10294,7 @@
       "team": "Texas A&M",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "11/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10306,7 +10306,7 @@
       "team": "Iona",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "12/4/1",
+      "statsDisplay": "11/3/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10318,7 +10318,7 @@
       "team": "UMass Lowell",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/8/2",
+      "statsDisplay": "13/8/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10330,7 +10330,7 @@
       "team": "Oral Roberts",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10342,7 +10342,7 @@
       "team": "Harvard",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/6/3",
+      "statsDisplay": "12/5/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10354,7 +10354,7 @@
       "team": "Yale",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10378,7 +10378,7 @@
       "team": "High Point",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "14/8/1",
+      "statsDisplay": "13/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10390,7 +10390,7 @@
       "team": "Liberty",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/4",
+      "statsDisplay": "11/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10402,7 +10402,7 @@
       "team": "Norfolk State",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/5/2",
+      "statsDisplay": "11/4/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10414,7 +10414,7 @@
       "team": "Akron",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "11/6/4",
+      "statsDisplay": "10/6/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10426,7 +10426,7 @@
       "team": "Alabama",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "14/4/2",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Alabama.png"
@@ -10438,7 +10438,7 @@
       "team": "Colorado",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "12/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10450,7 +10450,7 @@
       "team": "Troy",
       "position": "F",
       "playerClass": "SR",
-      "statsDisplay": "13/6/2",
+      "statsDisplay": "13/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10462,7 +10462,7 @@
       "team": "North Alabama",
       "position": "F",
       "playerClass": "JR",
-      "statsDisplay": "13/10/1",
+      "statsDisplay": "12/9/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10474,7 +10474,7 @@
       "team": "Maryland",
       "position": "G",
       "playerClass": "FR",
-      "statsDisplay": "11/4/2",
+      "statsDisplay": "11/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10486,7 +10486,7 @@
       "team": "Baylor",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "11/3/4",
+      "statsDisplay": "10/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Baylor.png"
@@ -10498,7 +10498,7 @@
       "team": "TCU",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/3/3",
+      "statsDisplay": "10/2/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10510,7 +10510,7 @@
       "team": "North Alabama",
       "position": "G",
       "playerClass": "SO",
-      "statsDisplay": "12/3/3",
+      "statsDisplay": "12/2/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10534,7 +10534,7 @@
       "team": "Northeastern",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/3/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10546,7 +10546,7 @@
       "team": "Gardner-Webb",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "11/8/2",
+      "statsDisplay": "11/7/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10558,7 +10558,7 @@
       "team": "DePaul",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "12/3/4",
+      "statsDisplay": "11/2/4",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10570,7 +10570,7 @@
       "team": "Illinois",
       "position": "C",
       "playerClass": "SO",
-      "statsDisplay": "11/6/2",
+      "statsDisplay": "10/6/2",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Illinois.png"
@@ -10582,7 +10582,7 @@
       "team": "Manhattan",
       "position": "F",
       "playerClass": "SO",
-      "statsDisplay": "12/6/2",
+      "statsDisplay": "11/6/1",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10594,7 +10594,7 @@
       "team": "Loyola (MD)",
       "position": "G",
       "playerClass": "JR",
-      "statsDisplay": "14/4/3",
+      "statsDisplay": "13/4/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10606,7 +10606,7 @@
       "team": "Iona",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/9/4",
+      "statsDisplay": "11/8/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": null
@@ -10618,7 +10618,7 @@
       "team": "Baylor",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "11/3/4",
+      "statsDisplay": "11/3/3",
       "heightDisplay": null,
       "heightInput": null,
       "logoAsset": "./assets/logos/Baylor.png"
@@ -10630,9 +10630,33 @@
       "team": "Memphis",
       "position": "G",
       "playerClass": "SR",
-      "statsDisplay": "12/4/2",
+      "statsDisplay": "11/4/1",
       "heightDisplay": null,
       "heightInput": null,
+      "logoAsset": null
+    },
+    {
+      "id": "jayden-quaintance-kentucky-na",
+      "rank": null,
+      "fullName": "Jayden Quaintance",
+      "team": "Kentucky",
+      "position": "C",
+      "playerClass": "SO",
+      "statsDisplay": "5/5/1",
+      "heightDisplay": "6'10\"",
+      "heightInput": "6'10\"",
+      "logoAsset": "./assets/logos/Kentucky.png"
+    },
+    {
+      "id": "karim-lopez-maxico-na",
+      "rank": null,
+      "fullName": "Karim Lopez",
+      "team": "Maxico",
+      "position": "F",
+      "playerClass": "",
+      "statsDisplay": "12/6/2",
+      "heightDisplay": "6'10\"",
+      "heightInput": "6'10\"",
       "logoAsset": null
     }
   ]

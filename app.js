@@ -311,7 +311,7 @@ function roundHeightDisplay(value) {
     return String(value || "").trim().toUpperCase();
   }
 
-  const roundedInches = Math.ceil(totalInches);
+  const roundedInches = Math.round(totalInches);
   const feet = Math.floor(roundedInches / 12);
   const inches = roundedInches - (feet * 12);
   return `${feet}'${inches}"`;
@@ -342,7 +342,7 @@ function roundStatsDisplay(value) {
       return part.toUpperCase();
     }
 
-    return String(Math.ceil(numeric));
+    return String(Math.round(numeric));
   }).join("/");
 }
 
