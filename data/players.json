@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T18:21:29+00:00",
+  "generatedAt": "2026-06-19T18:26:48+00:00",
   "sourceWorkbook": "college_draft.xlsx",
   "playerCount": 888,
   "players": [
@@ -10648,16 +10648,16 @@
       "logoAsset": "./assets/logos/Kentucky.png"
     },
     {
-      "id": "karim-lopez-maxico-na",
+      "id": "karim-lopez-mexico-na",
       "rank": null,
       "fullName": "Karim Lopez",
-      "team": "Maxico",
+      "team": "Mexico",
       "position": "F",
       "playerClass": "",
       "statsDisplay": "12/6/2",
       "heightDisplay": "6'10\"",
       "heightInput": "6'10\"",
-      "logoAsset": null
+      "logoAsset": "./assets/logos/Mexico.png"
     }
   ]
 }
