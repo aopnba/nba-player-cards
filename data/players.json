@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-19T18:26:48+00:00",
+  "generatedAt": "2026-06-19T19:38:51+00:00",
   "sourceWorkbook": "college_draft.xlsx",
-  "playerCount": 888,
+  "playerCount": 889,
   "players": [
     {
       "id": "aj-dybantsa-byu-1",
@@ -10658,6 +10658,18 @@
       "heightDisplay": "6'10\"",
       "heightInput": "6'10\"",
       "logoAsset": "./assets/logos/Mexico.png"
+    },
+    {
+      "id": "miles-byrd-san-diego-state-na",
+      "rank": null,
+      "fullName": "Miles Byrd",
+      "team": "San Diego State",
+      "position": "G",
+      "playerClass": "SO",
+      "statsDisplay": "10/5/3",
+      "heightDisplay": null,
+      "heightInput": null,
+      "logoAsset": null
     }
   ]
 }
